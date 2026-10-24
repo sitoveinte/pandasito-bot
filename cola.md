@@ -2,30 +2,6 @@
 // Separa cada mensaje con una línea que solo tenga ---
 // Para foto: primera línea "FOTO: https://enlace-de-la-imagen.jpg" y debajo el texto.
 // Negrita <b>así</b>, enlace <a href="https://...">TEXTO</a>. Las líneas que empiezan por // no se publican.
-FOTO: https://docs.google.com/sheets-images-rt/AO43MLZg1FTosp_xFfZw4kNiScaKtLXnaYYdkOajkmi3D6_pBECY9uZB6T5TUhV0O7udmy9SR1Axq3UuDDYtlZLYgmDVu7aG9eEr0MfJhw0RFu6jnBOMsgGidyqHqmOe1_X6lVwhHTcg-uVotqHcwrozYmDnEfM0TybaLyJzi_g=w187-h152
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: HIGH JORDAN 1 (+20 MODELOS)</i></b>
-💶 <b><i>PRECIO: 23€</i></b>
-🛒 <a href="https://usfans.com/product/1/958692603633?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://docs.google.com/sheets-images-rt/AO43MLatWE2Sbkwq20AlGXxjNRTJe_0Pq_N5Gs-ya8KDeiqFAQ2XPenf4R7LQVMkBuFbx-lcW2oDCzcX7d9kpW9KfnpdU_rBhjFucIVg7wtBejbTgdjkys2CqbfzJkS3E3BLP-2QO5BRgsmIiyNSEj62KbaOrBJWSbd885hb=w174-h152
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: NIKE JORDAN 11 (+30 MODELOS)</i></b>
-💶 <b><i>PRECIO: 18€</i></b>
-🛒 <a href="https://usfans.com/product/1/901078869025?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://docs.google.com/sheets-images-rt/AO43MLblkOmb9eWLOco8A4woAzpyA8FBA7TZfIAvviKo8g-QLtuJBQYNIecZT9P1hbPjSnBr5k5cu4cViJObcBiCjMuUdoAJHHK3e4AH9_ItC9Q4jVir2T5IhS2ssih00NrmkIITbxi4VYU__DGW4IxkS8VY0OY8PZ1NWh_pPII=w187-h152
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: DIOR B22 (+15 MODELOS)</i></b>
-💶 <b><i>PRECIO: 25€</i></b>
-🛒 <a href="https://usfans.com/product/1/959244495866?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
 FOTO: https://docs.google.com/sheets-images-rt/AO43MLav-h570aYE-yY50IRnvzhVVdPctnAuZ5yK83NYnEySmPbF0GN4WJhvbX78S_Vs8rWpAEQ0Sq6JO3PbMOW1yP7udrCY0tE0c2wzkl-JRR3fiDu8n0xpmT8-_reRsB9jbvhHfRPKAlmlXbj7kF-IBfTw0jStbWmB9JDQu58=w174-h152
 🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
 🔎 <b><i>NOMBRE DEL ARTÍCULO: NEW BALANCE 530 (+25 MODELOS)</i></b>
