@@ -1,0 +1,46 @@
+name: Tandas Telegram
+
+on:
+  schedule:
+    - cron: "5 7,8,10,11,13,14,16,17,19,20 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: tandas
+  cancel-in-progress: false
+
+jobs:
+  publicar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: hora
+        id: hora
+        run: |
+          h=$(TZ=Europe/Madrid date +%-H)
+          echo "Hora en Madrid: $h"
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ] || [[ " 9 12 15 18 21 " == *" $h "* ]]; then
+            echo "toca=si" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Publicar 3 mensajes
+        if: steps.hora.outputs.toca == 'si'
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TZ: Europe/Madrid
+        run: python3 publicar.py 3
+
+      - name: Guardar cola y publicados
+        if: always() && steps.hora.outputs.toca == 'si'
+        run: |
+          git config user.name "pandasito-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet && exit 0
+          git commit -m "Tanda $(TZ=Europe/Madrid date '+%Y-%m-%d %H:%M')"
+          for i in 1 2 3; do git pull --rebase -q && git push && break; sleep 5; done
