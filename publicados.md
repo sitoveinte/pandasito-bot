@@ -501,3 +501,27 @@ FOTO: https://docs.google.com/sheets-images-rt/AO43MLblkOmb9eWLOco8A4woAzpyA8FBA
 🛒 <a href="https://usfans.com/product/1/959244495866?ref=6T2VKE">LINK DE USFANS</a>
 
 🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/AO43MLav-h570aYE-yY50IRnvzhVVdPctnAuZ5yK83NYnEySmPbF0GN4WJhvbX78S_Vs8rWpAEQ0Sq6JO3PbMOW1yP7udrCY0tE0c2wzkl-JRR3fiDu8n0xpmT8-_reRsB9jbvhHfRPKAlmlXbj7kF-IBfTw0jStbWmB9JDQu58=w174-h152
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: NEW BALANCE 530 (+25 MODELOS)</i></b>
+💶 <b><i>PRECIO: 20€</i></b>
+🛒 <a href="https://usfans.com/product/1/974507079402?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/AO43MLYrK94MXjH-UxvCARLielvVBL9Q2pwVm_te1pmiPiYby_gYlcdytrN-VGWm4wgnrzRxZ9flbfAB5Bci_KffnOtbGFuriUv1f4BdTbEqV_U7gH7zJF1laBs5-cP52Da-JpFxtNqb-FDUIqWHxyXVjQPyL9fQ-GrzishXKPQ=w187-h152
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: XT-QUEST SALOMON +10 MODELOS</i></b>
+💶 <b><i>PRECIO: 32€</i></b>
+🛒 <a href="https://usfans.com/product/1/980043137354?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/AO43MLYjo5OGURxf647zDlWA7ZRjnbgbmlviW-5fd1rsWft15PgCWbsnaEnmLHrdV4pCUIc8iQ_DLXT5Ju30iXIk-ykOeo0i3qWyg-5bicPtvorvlt9TJHtoq6RdMjWzyrJlsuP7_dKing5gnLZRptgX1I9xaCMxnjTPd5cCet8=w174-h152
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: DIOR B30 (+10 COLORES)</i></b>
+💶 <b><i>PRECIO: 20€</i></b>
+🛒 <a href="https://usfans.com/product/1/1068623251418?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰

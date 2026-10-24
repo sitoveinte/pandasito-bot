@@ -9,3 +9,8 @@
 2026-10-24T18:36:46 Foto rechazada (Not Found)
 2026-10-24T18:36:46 Se envía solo el texto
 2026-10-24T18:36:46 ERROR Not Found: 'FOTO: https://docs.google.com/sheets-images-rt/AO4'
+2026-10-24T18:46:53 OK message_id=2898: 'FOTO: https://docs.google.com/sheets-images-rt/AO4'
+2026-10-24T18:47:54 Foto rechazada (Bad Request: failed to get HTTP URL content)
+2026-10-24T18:47:54 Se envía solo el texto
+2026-10-24T18:47:55 OK message_id=2904: 'FOTO: https://docs.google.com/sheets-images-rt/AO4'
+2026-10-24T18:48:57 OK message_id=2905: 'FOTO: https://docs.google.com/sheets-images-rt/AO4'
