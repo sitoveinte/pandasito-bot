@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 -I /mnt/project-files/telegram-bot/publicar.py:*)",
+      "Bash(python3 -I /mnt/project-files/telegram-bot/noticias.py:*)"
+    ]
+  }
+}
