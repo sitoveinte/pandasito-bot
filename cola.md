@@ -2,30 +2,6 @@
 // Separa cada mensaje con una línea que solo tenga ---
 // Para foto: primera línea "FOTO: https://enlace-de-la-imagen.jpg" y debajo el texto.
 // Negrita <b>así</b>, enlace <a href="https://...">TEXTO</a>. Las líneas que empiezan por // no se publican.
-FOTO: https://docs.google.com/sheets-images-rt/AO43MLZM1r5RQX7cVgOjxT45YT-G9Wt-2yR5C4Z0G-ng8bxMLq81h_LVa5WMzQYhmRtGN6D71Xf0lgyD0dBHlNciik-jR5AxTJR3zbQRSBvwjVvgBzsaOg9QqID-6TjatpuuwjKsspRZWBFuHMwF5f2KpTkvUAoJooJQc4S823Y=w187-h152
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: NIKE TN AIR (+40 MODELOS)</i></b>
-💶 <b><i>PRECIO: 16€</i></b>
-🛒 <a href="https://usfans.com/product/1/971455463997?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://docs.google.com/sheets-images-rt/AO43MLYp7eT8i9oAQusmOa_olXWRlaZRu_kUbhukAMnHFLppTipxc7QTsLWPjvTVGRnv8y_bzBORyB1iIOI8dg3TnnwxK9R_sMtaVO15Edgig8Nx0ck-bFAqrnLo1jd4yWwDBS_AwsGFXXv8PohthzyLHzU-LHQ1TIPuWZtXQGw=w174-h152
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: BIRKENSTOCK (+10 COLORES)</i></b>
-💶 <b><i>PRECIO: 14€</i></b>
-🛒 <a href="https://usfans.com/product/1/1049215559189?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://docs.google.com/sheets-images-rt/AO43MLY9tG6tZWw0Dnxj-JIThOWmBVUC7ert_qpVPtTqmlLRQCEpdJDr7BRKEz7PQ5yvtg3dGr_zuFtF1CWqYiZrXeUmpApS40ISzeimbU6wWbYSsXH5e_4Kc992cFAggA-1i6_bvVscMz6GUGtp3vaG7lWOA3slRaQGSwJVMVw=w187-h152
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: BALENCIAGA 3XL LOW +20 COLORES</i></b>
-💶 <b><i>PRECIO: 35$</i></b>
-🛒 <a href="https://usfans.com/product/3/7354397719?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
 FOTO: https://docs.google.com/sheets-images-rt/AO43MLZpjlGjRuwwIe9E5Npj-rLES7-MoKbxgxwMT65XGfyAfFxoGgJ5kaPOUbYWPrmuirYTYuR3ErtTDtCXTkVF7pvWEpo9i_3Uzlw8FPxL3E0joKjYF8mbindtkEFQaRlTz67IXPLc-LivqduZ_kHOm_WqHPZshWxbh0e-2NY=w174-h152
 🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
 🔎 <b><i>NOMBRE DEL ARTÍCULO: LOUIS VUITTON LV SKATE +5 COLORES</i></b>
