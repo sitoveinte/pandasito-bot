@@ -2,30 +2,6 @@
 // Separa cada mensaje con una línea que solo tenga ---
 // Para foto: primera línea "FOTO: https://enlace-de-la-imagen.jpg" y debajo el texto.
 // Negrita <b>así</b>, enlace <a href="https://...">TEXTO</a>. Las líneas que empiezan por // no se publican.
-FOTO: https://docs.google.com/sheets-images-rt/AO43MLZpjlGjRuwwIe9E5Npj-rLES7-MoKbxgxwMT65XGfyAfFxoGgJ5kaPOUbYWPrmuirYTYuR3ErtTDtCXTkVF7pvWEpo9i_3Uzlw8FPxL3E0joKjYF8mbindtkEFQaRlTz67IXPLc-LivqduZ_kHOm_WqHPZshWxbh0e-2NY=w174-h152
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: LOUIS VUITTON LV SKATE +5 COLORES</i></b>
-💶 <b><i>PRECIO: 27€</i></b>
-🛒 <a href="https://usfans.com/product/1/1063900560231?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://docs.google.com/sheets-images-rt/AO43MLaD6BHxOPShBwGRIy7XmCcwOvEfVNPaL93rBnmuLypIrolE7wdSXI5dQBsBR_QM8PuTChxI4ew9NPcAMfwW7gIMhmCiFoaGa7GRfFXUmJzL3j46_69Fcf0OcOTJm4wY88eruGWq116331qntgsIeKpkzSz2mKPfmU0V0v8=w187-h152
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: LV TRAINERS +15 MODLEOS</i></b>
-💶 <b><i>PRECIO: 20$</i></b>
-🛒 <a href="https://usfans.com/product/1/1070885261218?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://docs.google.com/sheets-images-rt/AO43MLZs0UGiM-FiSibZcySwnw907d-UHcHuV2pQCQGr24whsiwcj_cRY3xNbC4MBwne19FgWWESJKtrJYickFfvW4j3k7wGgSeBwtritruXBwl1_auxlR-5IQPfALrfhctceTIzZB8dWeSi9LpPDpwMfnCYv1BFX3BguO1DDjw=w174-h152
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: NIKE SPORTSWEAR REACTX REJUVEN8 (+10 COLORES)</i></b>
-💶 <b><i>PRECIO: 11€</i></b>
-🛒 <a href="https://usfans.com/product/1/968669416951?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
 FOTO: https://docs.google.com/sheets-images-rt/AO43MLa4ziBTtocqawQAv5492STYkVDHT79vILjXYgZP2DRQOxqGTWLnXMBzb1sZjptcYtF_UXSgVjboHHNVPxy_HbqTc4I_3ZF_acVciVzDuDkmjhWLTMll5eDKRvRHCf7vqLLEc2xGyscT-LR8Lag91tnG25zoh9gONv7TEF4=w187-h152
 🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
 🔎 <b><i>NOMBRE DEL ARTÍCULO: NIKE TERRASCAPE (+15 MODELOS)</i></b>
