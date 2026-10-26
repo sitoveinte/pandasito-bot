@@ -573,3 +573,27 @@ FOTO: https://docs.google.com/sheets-images-rt/AO43MLZs0UGiM-FiSibZcySwnw907d-UH
 🛒 <a href="https://usfans.com/product/1/968669416951?ref=6T2VKE">LINK DE USFANS</a>
 
 🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/AO43MLa4ziBTtocqawQAv5492STYkVDHT79vILjXYgZP2DRQOxqGTWLnXMBzb1sZjptcYtF_UXSgVjboHHNVPxy_HbqTc4I_3ZF_acVciVzDuDkmjhWLTMll5eDKRvRHCf7vqLLEc2xGyscT-LR8Lag91tnG25zoh9gONv7TEF4=w187-h152
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: NIKE TERRASCAPE (+15 MODELOS)</i></b>
+💶 <b><i>PRECIO: 20€</i></b>
+🛒 <a href="https://usfans.com/product/1/842215091998?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/AO43MLYWQMiGxKY_2YODGDYWtv-jtxivpygi8Yc2GW1mCjyHwqW7sa5VrCsJcDk-mwh505RlUYztAa0yNWoV1Km-vtM891fq3bc88mPkSskA1NZpWO6hLIeg2e0o8kn09GM2gQYmI8gIjHYtSeUQrRpPtqIgNXjisi_7u0Je=w174-h152
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: NB 9060 (+20 MODELOS)</i></b>
+💶 <b><i>PRECIO: 26€</i></b>
+🛒 <a href="https://usfans.com/product/1/966884935152?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/AO43MLaBzJD3znlP3mtw6RDoIhlmpGw14iDoHt_C_29gWKbrU-jct9GLCtQsFGKUi4SS8lNMOFMvBLys15PtrunEVWvom5qEA4r6JwPHqkCSzrAN3B9nfUsYd110wZYTapWZNr9ukhsHZS8_oIu6XGfDwjgu3zuA5jeVJ-SoTe0=w187-h152
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: HOKA BONDI 8 +20 MODELOS</i></b>
+💶 <b><i>PRECIO: 17€</i></b>
+🛒 <a href="https://usfans.com/product/1/985512332107?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
