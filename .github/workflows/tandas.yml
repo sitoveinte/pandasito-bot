@@ -1,8 +1,10 @@
 name: Tandas Telegram
 
 on:
+  # GitHub retrasa (a veces horas) o se salta las ejecuciones programadas, así que
+  # se comprueba cada 15 min y se publica la tanda que toque si aún no ha salido.
   schedule:
-    - cron: "5 7,8,10,11,13,14,16,17,19,20 * * *"
+    - cron: "7,22,37,52 6-22 * * *"
   workflow_dispatch:
 
 permissions:
@@ -23,9 +25,14 @@ jobs:
         id: hora
         run: |
           h=$(TZ=Europe/Madrid date +%-H)
-          echo "Hora en Madrid: $h"
-          if [ "${{ github.event_name }}" = "workflow_dispatch" ] || [[ " 9 12 15 18 21 " == *" $h "* ]]; then
+          tanda=""
+          for t in 9 12 15 18 21; do [ "$h" -ge "$t" ] && tanda=$t; done
+          clave="$(TZ=Europe/Madrid date +%F) $tanda"
+          ultima=$(cat ultima-tanda.txt 2>/dev/null || true)
+          echo "Hora en Madrid: $h, tanda: ${tanda:-ninguna}, última publicada: ${ultima:-ninguna}"
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ] || { [ -n "$tanda" ] && [ "$clave" != "$ultima" ]; }; then
             echo "toca=si" >> "$GITHUB_OUTPUT"
+            echo "clave=$clave" >> "$GITHUB_OUTPUT"
           fi
 
       - name: Publicar 3 mensajes
@@ -34,6 +41,10 @@ jobs:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TZ: Europe/Madrid
         run: python3 publicar.py 3
+
+      - name: Marcar tanda publicada
+        if: steps.hora.outputs.toca == 'si'
+        run: echo "${{ steps.hora.outputs.clave }}" > ultima-tanda.txt
 
       - name: Guardar cola y publicados
         if: always() && steps.hora.outputs.toca == 'si'
