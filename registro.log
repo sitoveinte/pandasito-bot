@@ -33,3 +33,10 @@
 2026-10-26T19:24:50 OK message_id=2957: 'FOTO: https://docs.google.com/sheets-images-rt/AO4'
 2026-10-26T19:25:52 OK message_id=2963: 'FOTO: https://docs.google.com/sheets-images-rt/AO4'
 2026-10-26T19:26:54 OK message_id=2969: 'FOTO: https://docs.google.com/sheets-images-rt/AO4'
+2026-10-26T22:56:08 Foto rechazada (Bad Request: failed to get HTTP URL content)
+2026-10-26T22:56:08 Se envía solo el texto
+2026-10-26T22:56:09 OK message_id=2975: 'FOTO: https://docs.google.com/sheets-images-rt/AO4'
+2026-10-26T22:57:10 Foto rechazada (Bad Request: failed to get HTTP URL content)
+2026-10-26T22:57:10 Se envía solo el texto
+2026-10-26T22:57:10 OK message_id=2976: 'FOTO: https://docs.google.com/sheets-images-rt/AO4'
+2026-10-26T22:58:12 OK message_id=2977: 'FOTO: https://docs.google.com/sheets-images-rt/AO4'

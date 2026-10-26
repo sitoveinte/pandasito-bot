@@ -2,30 +2,6 @@
 // Separa cada mensaje con una línea que solo tenga ---
 // Para foto: primera línea "FOTO: https://enlace-de-la-imagen.jpg" y debajo el texto.
 // Negrita <b>así</b>, enlace <a href="https://...">TEXTO</a>. Las líneas que empiezan por // no se publican.
-FOTO: https://docs.google.com/sheets-images-rt/AO43MLatkYdP0iFXF4FYWeD7DRRoO0ET3HbMIPb9h7w-Di4WNaPybnLSUfkLqqcBRpXXby6jOvlF_qTzj0GXG9KMkglKBCLeBJU1jhBphzvjMruQONje5AhThBmScC4oW4CQNCgZuRNRY4IQmf-DHjv-DPLUPNQjlEsJkPXuDLY=w187-h152
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: NEW BALANCE FUELCELL SUPERCOMP ELITE V4 +10 MODELOS</i></b>
-💶 <b><i>PRECIO: 22€</i></b>
-🛒 <a href="https://usfans.com/product/1/1057853988766?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://docs.google.com/sheets-images-rt/AO43MLalK17FDVmItDvF98dl20nw3c_Dv7q8RGkTAbhfqcr4dbU0Qd3VEAWRkH347iRjRhxCCqQfLUklfuBWCCLfK6mBLbrU_SKNfzh4urCqRNWAVOFxGLuuEPX8YFze3RqIUoffJZ_C7tJfXKGEQc_5lmlefTjYytoTKU22O4Q=w174-h152
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: ASICS MEGABLAST +5 COLORES</i></b>
-💶 <b><i>PRECIO: 22€</i></b>
-🛒 <a href="https://usfans.com/product/1/1054079849182?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://docs.google.com/sheets-images-rt/AO43MLYgKV1noKvECl8OAMUQeTvqE--jTF60hBHo75-OM3BUFm7lSLSVuS7qje1CxUaOQt6rMcZNycyDRgK4cFEwi8UvebaiJX0derK8JrZv_aqUwE9NBqJKHyxGkdmJjrpSVMHQ_5t68b9B3zd84Dk0v0U-zuT-DR0sSZQUp_w=w187-h152
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: NIKE P-6000 +15 MODELOS</i></b>
-💶 <b><i>PRECIO: 22€</i></b>
-🛒 <a href="https://usfans.com/product/1/1054582673979?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
 FOTO: https://docs.google.com/sheets-images-rt/AO43MLZbYLFer--dyxp9D_7NF2Nxum19DId0KuOXiD6W5oXWpP3bqgSFC_dzKSp_6tQ86pWtg9FC1Vdz5Eeh_6D2zWkXGtfubWVxVECRpPkKJm72o1n0t_QkduLtmg81PRw9mqTdcRv3P_Ka9ubgAHsWlObFfkX39wKS-wGD=w174-h152
 🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
 🔎 <b><i>NOMBRE DEL ARTÍCULO: NEW BALANCE 1906R +15 MODELOS</i></b>
