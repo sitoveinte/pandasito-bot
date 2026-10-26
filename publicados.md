@@ -597,3 +597,27 @@ FOTO: https://docs.google.com/sheets-images-rt/AO43MLaBzJD3znlP3mtw6RDoIhlmpGw14
 🛒 <a href="https://usfans.com/product/1/985512332107?ref=6T2VKE">LINK DE USFANS</a>
 
 🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/AO43MLYHBQBrETpDgfjMcPJ90trgcaZnq8_QGIGsABag7ybCD6BxsDkf0qDpNdJFFVSNoR4BMQqO7TgPdnw82p_roWw-Q7vTgec9h-2A5t095eFkHlrxGoqXl3zA9JVbXe5-kCbjKjRf92sL7nBdp1RldCNOwrfGEY0gwLY7=w174-h152
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: NIKE VOMERO PLUS +10 MODELOS</i></b>
+💶 <b><i>PRECIO: 18€</i></b>
+🛒 <a href="https://usfans.com/product/1/1052374391292?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/AO43MLYRPAO_ZaKSRSHovS1K12FTqt8xUXdRuccEl6AR9ZlzYWKo1DSoPNrOrwX8EqjFUfFyag_paLV5LKt5qVAG-Ux3HgCRRpF3LzFBWsRju9iTSlzpGPEfY-idYGB82vXx_VytGC48Ay7GDPCOxdulGTvNSsPqZvluzZ5D=w187-h152
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: NIKE HOT STEP 2 X NOCTA +8 MODELOS</i></b>
+💶 <b><i>PRECIO: 22€</i></b>
+🛒 <a href="https://usfans.com/product/1/1062623628102?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/AO43MLZhF_nEgezxQxyNGLiaPNJ6sNFR8JTOOmzJlf8ndB2pqE92ym-XiQYSfc318RvcNXn1Qf2_i2hKjgSAww69LotIgTpha4fNHsrPHrFKy1AmSDd1EDK58Og0GbxiBiczEzFj1EK5lNBD3W7LyubybrWwJ32gokAFhMvZJe0=w174-h152
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: NIKE AIR HUARACHE RUN ULTRA +5 MODELOS</i></b>
+💶 <b><i>PRECIO: 17€</i></b>
+🛒 <a href="https://usfans.com/product/1/1055442817684?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰

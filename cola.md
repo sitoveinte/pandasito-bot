@@ -2,30 +2,6 @@
 // Separa cada mensaje con una línea que solo tenga ---
 // Para foto: primera línea "FOTO: https://enlace-de-la-imagen.jpg" y debajo el texto.
 // Negrita <b>así</b>, enlace <a href="https://...">TEXTO</a>. Las líneas que empiezan por // no se publican.
-FOTO: https://docs.google.com/sheets-images-rt/AO43MLYHBQBrETpDgfjMcPJ90trgcaZnq8_QGIGsABag7ybCD6BxsDkf0qDpNdJFFVSNoR4BMQqO7TgPdnw82p_roWw-Q7vTgec9h-2A5t095eFkHlrxGoqXl3zA9JVbXe5-kCbjKjRf92sL7nBdp1RldCNOwrfGEY0gwLY7=w174-h152
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: NIKE VOMERO PLUS +10 MODELOS</i></b>
-💶 <b><i>PRECIO: 18€</i></b>
-🛒 <a href="https://usfans.com/product/1/1052374391292?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://docs.google.com/sheets-images-rt/AO43MLYRPAO_ZaKSRSHovS1K12FTqt8xUXdRuccEl6AR9ZlzYWKo1DSoPNrOrwX8EqjFUfFyag_paLV5LKt5qVAG-Ux3HgCRRpF3LzFBWsRju9iTSlzpGPEfY-idYGB82vXx_VytGC48Ay7GDPCOxdulGTvNSsPqZvluzZ5D=w187-h152
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: NIKE HOT STEP 2 X NOCTA +8 MODELOS</i></b>
-💶 <b><i>PRECIO: 22€</i></b>
-🛒 <a href="https://usfans.com/product/1/1062623628102?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://docs.google.com/sheets-images-rt/AO43MLZhF_nEgezxQxyNGLiaPNJ6sNFR8JTOOmzJlf8ndB2pqE92ym-XiQYSfc318RvcNXn1Qf2_i2hKjgSAww69LotIgTpha4fNHsrPHrFKy1AmSDd1EDK58Og0GbxiBiczEzFj1EK5lNBD3W7LyubybrWwJ32gokAFhMvZJe0=w174-h152
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: NIKE AIR HUARACHE RUN ULTRA +5 MODELOS</i></b>
-💶 <b><i>PRECIO: 17€</i></b>
-🛒 <a href="https://usfans.com/product/1/1055442817684?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
 FOTO: https://docs.google.com/sheets-images-rt/AO43MLatkYdP0iFXF4FYWeD7DRRoO0ET3HbMIPb9h7w-Di4WNaPybnLSUfkLqqcBRpXXby6jOvlF_qTzj0GXG9KMkglKBCLeBJU1jhBphzvjMruQONje5AhThBmScC4oW4CQNCgZuRNRY4IQmf-DHjv-DPLUPNQjlEsJkPXuDLY=w187-h152
 🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
 🔎 <b><i>NOMBRE DEL ARTÍCULO: NEW BALANCE FUELCELL SUPERCOMP ELITE V4 +10 MODELOS</i></b>
