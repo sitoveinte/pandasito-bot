@@ -1,14 +1,21 @@
 name: Tandas Telegram
 
 on:
-  # GitHub retrasa (a veces horas) o se salta las ejecuciones programadas, así que
-  # se comprueba cada 15 min y se publica la tanda que toque si aún no ha salido.
+  # GitHub retrasa (a veces horas) o se salta casi todas las ejecuciones programadas.
+  # Por eso cada ejecución espera hasta la siguiente tanda y se relanza a sí misma
+  # (paso final). El cron solo sirve para volver a arrancar la cadena si se corta.
   schedule:
     - cron: "7,22,37,52 6-22 * * *"
   workflow_dispatch:
+    inputs:
+      forzar:
+        description: "Publicar una tanda ahora aunque no toque"
+        type: boolean
+        default: true
 
 permissions:
   contents: write
+  actions: write
 
 concurrency:
   group: tandas
@@ -17,7 +24,7 @@ concurrency:
 jobs:
   publicar:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 355
     steps:
       - uses: actions/checkout@v4
 
@@ -30,7 +37,7 @@ jobs:
           clave="$(TZ=Europe/Madrid date +%F) $tanda"
           ultima=$(cat ultima-tanda.txt 2>/dev/null || true)
           echo "Hora en Madrid: $h, tanda: ${tanda:-ninguna}, última publicada: ${ultima:-ninguna}"
-          if [ "${{ github.event_name }}" = "workflow_dispatch" ] || { [ -n "$tanda" ] && [ "$clave" != "$ultima" ]; }; then
+          if [ "${{ inputs.forzar }}" = "true" ] || { [ -n "$tanda" ] && [ "$clave" != "$ultima" ]; }; then
             echo "toca=si" >> "$GITHUB_OUTPUT"
             echo "clave=$clave" >> "$GITHUB_OUTPUT"
           fi
@@ -55,3 +62,23 @@ jobs:
           git diff --cached --quiet && exit 0
           git commit -m "Tanda $(TZ=Europe/Madrid date '+%Y-%m-%d %H:%M')"
           for i in 1 2 3; do git pull --rebase -q && git push && break; sleep 5; done
+
+      - name: Esperar a la siguiente tanda y relanzar
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          ahora=$(date +%s)
+          sig=""
+          for d in 0 1; do
+            dia=$(TZ=Europe/Madrid date -d "+$d day" +%F)
+            for t in 9 12 15 18 21; do
+              s=$(TZ=Europe/Madrid date -d "$dia $t:00" +%s)
+              if [ "$s" -gt "$ahora" ]; then sig=$s; break 2; fi
+            done
+          done
+          espera=$(( sig - ahora + 60 ))
+          [ "$espera" -gt 20400 ] && espera=20400  # máx. 5 h 40 min (un job dura como mucho 6 h)
+          echo "Siguiente tanda: $(TZ=Europe/Madrid date -d @$sig '+%F %H:%M'), relanzo en $espera s"
+          sleep "$espera"
+          gh workflow run tandas.yml --ref main -f forzar=false
