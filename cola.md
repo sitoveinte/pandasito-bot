@@ -2,30 +2,6 @@
 // Separa cada mensaje con una línea que solo tenga ---
 // Para foto: primera línea "FOTO: https://enlace-de-la-imagen.jpg" y debajo el texto.
 // Negrita <b>así</b>, enlace <a href="https://...">TEXTO</a>. Las líneas que empiezan por // no se publican.
-FOTO: https://docs.google.com/sheets-images-rt/AO43MLYHjIs3LCoLgTvfMe2ClxwmCyT6bYU8IhHrC84m6-bZkDKPCfRfHCyBz05P9cLAnoTwPexLLKC6FKJESe1RgcH0gvaLnrrTjYYawhjDR1YVzmxSkaC-mEf5ZMviLrStQ7_eqUXggsn4GLPKqEkC-nkliBnwb5XKSsH-=w174-h152
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: NIKE AIR UPTEMPO +20 MODELOS</i></b>
-💶 <b><i>PRECIO: 20€</i></b>
-🛒 <a href="https://usfans.com/product/1/979010855996?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://docs.google.com/sheets-images-rt/AO43MLa38uSMidS1MyP3jm6zDLDy7dRdA2FBdxpaLAcTjI4gsA1a7G7Ucq9xoRrhh8DoZmtZy4NDzBdxeCPxlUxcf72Lfp2or5a0qNtqLP2d1TTTQ9FXoeYuIetCElQKFQn75TdGAtFAYji05m4qzfl7pWwTAhO9obXI46mylw4=w187-h152
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: NIKE SHOX TL +15 MODELOS</i></b>
-💶 <b><i>PRECIO: 20€</i></b>
-🛒 <a href="https://usfans.com/product/1/968063141232?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://docs.google.com/sheets-images-rt/AO43MLZpPYPrUp8vB_aeG9FLcX70GjRYgPGfD6J8tU8CJDgnuSqglRHPsNC9mPK-Qfp28wvvi6ibBi3wizla_36xnclQFUjB19KSVq1WVEoR5n-Q25I2NpP1yuz8Kt99gfC368lcVMwHRz9uA0o_pXcwM8MGPHC5ro8ls33BZDU=w174-h152
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: CAMISETAS MUNDIAL 2026 PLAYER VERSION (+40 EQUIPOS)</i></b>
-💶 <b><i>PRECIO: 6€</i></b>
-🛒 <a href="https://usfans.com/product/1/961046348707?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
 FOTO: https://docs.google.com/sheets-images-rt/AO43MLYZfyEO2E2iG7co3O1mxyW8pmv5cXJiOpr2SvGR5e1oDYXzmpSokG8jiuoAk0vbzsPGbMI2IQtZ3Rdyv3Uk8xvt5-MaPRF547bgkrb21ASGsEqM0IjLhOIz02vKYrRVTJYKsE3-IMUePrDy3NRXXiJKRBFRyRXbKilJ7s0=w187-h152
 🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
 🔎 <b><i>NOMBRE DEL ARTÍCULO: ZAPATILLAS FÚTBOL SALA NIKE PHANTOM (+10 MODELOS)</i></b>
