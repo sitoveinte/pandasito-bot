@@ -669,3 +669,27 @@ FOTO: https://docs.google.com/sheets-images-rt/AO43MLYJ88RN4cAt9mg-iymxoN3cri4XT
 🛒 <a href="https://usfans.com/product/1/893832411128?ref=6T2VKE">LINK DE USFANS</a>
 
 🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/AO43MLYmQZxirUM-epOpw_FbC3HzncogUpiF5PdAHmllW8j2zW_mev5OwLk6B9ooAOuYkjV0PaBBb2EDpX_Hr9sDI29LUbKk10CRmJlCDGZLj6ZKhn1fRp3wutCxtRKVDI3fYAtBGAH3nKph1QXhAlUB1gVqYwZsfDHqbcq7GqE=w187-h152
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: GOLDEN GOOSE (+30 MODELOS)</i></b>
+💶 <b><i>PRECIO: 25€</i></b>
+🛒 <a href="https://usfans.com/product/1/978566658944?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/AO43MLayxFFPBXXiBi9yr2lz5Vr4US_EfgY7x2gjZGZvCcArOd4zC1OswevbEdl0ewMDei9a5osFC9sd1r3wD-yOI3zSpCvuyBfNRx66n9oKBLhtj5as2pvVQgM5Eib7eP3jMtCqU7B9F665QBf307PZRJMf9v2PNxXWARQIo0M=w174-h152
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: NUMERIS</i></b>
+💶 <b><i>PRECIO: 23€</i></b>
+🛒 <a href="https://usfans.com/product/1/1058302846637?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/AO43MLY_fwyA0c8QhnCDRu9oKiXs1qzv5OxF2MRrwZru3W47Cq9WjCE5B2U_WsZmAvkd7LqvymrnlEgyh-HU9gAF9smlEWDQw6R-MYmuHy5dc2AguQguAsnPp6jmRUhopv7sgzQ8lLuxNhyQ4hZ2VGtgW6G6Yb-icy6jj0Gi=w187-h152
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: NIKE TN 3</i></b>
+💶 <b><i>PRECIO: 21€</i></b>
+🛒 <a href="https://usfans.com/product/1/1058099039339?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
