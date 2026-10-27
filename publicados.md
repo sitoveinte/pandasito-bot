@@ -645,3 +645,27 @@ FOTO: https://docs.google.com/sheets-images-rt/AO43MLYgKV1noKvECl8OAMUQeTvqE--jT
 🛒 <a href="https://usfans.com/product/1/1054582673979?ref=6T2VKE">LINK DE USFANS</a>
 
 🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/AO43MLZbYLFer--dyxp9D_7NF2Nxum19DId0KuOXiD6W5oXWpP3bqgSFC_dzKSp_6tQ86pWtg9FC1Vdz5Eeh_6D2zWkXGtfubWVxVECRpPkKJm72o1n0t_QkduLtmg81PRw9mqTdcRv3P_Ka9ubgAHsWlObFfkX39wKS-wGD=w174-h152
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: NEW BALANCE 1906R +15 MODELOS</i></b>
+💶 <b><i>PRECIO: 20€</i></b>
+🛒 <a href="https://usfans.com/product/1/1054274937427?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/AO43MLZDas4JS-RF1AH9dbh_Jaj4NFpwCnyXwdQYdg5KPC0uJlHK3XEUwYN70MwIpMA9-1FhQXNz5S_1SCgAQXhO-VbeNY3LQbU3I4sLQyw7Le8Pvs2wTtfBwaYiXgbxyFLxEkgPTq4bMcnLBAHImQ-js-OlMKIeA2QCyN29=w187-h152
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: ADIDAS ADIZERO EVO SL +15 MODELOS</i></b>
+💶 <b><i>PRECIO: 21€</i></b>
+🛒 <a href="https://usfans.com/product/1/1054077726457?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/AO43MLYJ88RN4cAt9mg-iymxoN3cri4XTKUTPGpkhOetQ7w5htqgT71VPbCWWRGakWI-IPhhrMiwnoaMS-3NEKe4UEt1am3DN1-W2gBd6QyrLfxIKrgNQ4X-rzSxPH-4gTxAgdy9JP2GNL6-XkqPBumTSlF5klR2tzyBfmtkJAI=w174-h152
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: PRADA AMERICAS CUP (+20 COLORES)</i></b>
+💶 <b><i>PRECIO: 25€</i></b>
+🛒 <a href="https://usfans.com/product/1/893832411128?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
