@@ -717,3 +717,27 @@ FOTO: https://docs.google.com/sheets-images-rt/AO43MLZpPYPrUp8vB_aeG9FLcX70GjRYg
 🛒 <a href="https://usfans.com/product/1/961046348707?ref=6T2VKE">LINK DE USFANS</a>
 
 🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/AO43MLYZfyEO2E2iG7co3O1mxyW8pmv5cXJiOpr2SvGR5e1oDYXzmpSokG8jiuoAk0vbzsPGbMI2IQtZ3Rdyv3Uk8xvt5-MaPRF547bgkrb21ASGsEqM0IjLhOIz02vKYrRVTJYKsE3-IMUePrDy3NRXXiJKRBFRyRXbKilJ7s0=w187-h152
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: ZAPATILLAS FÚTBOL SALA NIKE PHANTOM (+10 MODELOS)</i></b>
+💶 <b><i>PRECIO: 23€</i></b>
+🛒 <a href="https://usfans.com/product/1/998027172178?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/AO43MLYst0b3xiMHLHOnu578PalISzhwY2qoYHf5R3CfIPULmgfseHFoDP16lWAq8pBOH_Oji9M0_WPrFRYSpiEPRkuow5nfPvux2KXfEVUeLBM3Y7ppf3h1yLmsBNBbqYknYoOYZIl4m4bfr6Lz6afr8dMAgK51VlJXD1Dlfn4=w187-h152
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: CAMISETAS RETRO FÚTBOL (+30 EQUIPOS)</i></b>
+💶 <b><i>PRECIO: 9€</i></b>
+🛒 <a href="https://usfans.com/product/1/961689723108?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/AO43MLbkKAQvAOb1lCV6bNPgyfSeEWOxiIrqj5tSBhENkog1WXCSOHp-zLjIWcg2KKF5Ym38z_UICns7-DdWJ2eviQ0lOiFm2fBQjqFg4tDMtYiWjPpJPo2RFu0BonFyaR5yXh8W7Yif9gl8SoSXPFXeUWrMBSvr2ZLxCypg=w174-h123
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: CONJUNTOS CORTOS DE CHÁNDAL (+40 EQUIPOS)</i></b>
+💶 <b><i>PRECIO: 6€</i></b>
+🛒 <a href="https://usfans.com/product/1/934574713169?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰

@@ -57,3 +57,7 @@
 2026-10-27T18:55:54 OK message_id=3022: 'FOTO: https://docs.google.com/sheets-images-rt/AO4'
 2026-10-27T18:56:55 Álbum rechazado (Bad Request: failed to send message #4 with the error message "WEBPAGE_CURL_FAILED")
 2026-10-27T18:57:16 OK message_id=3023: 'FOTO: https://docs.google.com/sheets-images-rt/AO4'
+2026-10-27T23:06:53 Álbum rechazado (Bad Request: failed to send message #4 with the error message "WEBPAGE_CURL_FAILED")
+2026-10-27T23:06:54 OK message_id=3025: 'FOTO: https://docs.google.com/sheets-images-rt/AO4'
+2026-10-27T23:07:55 OK message_id=3026: 'FOTO: https://docs.google.com/sheets-images-rt/AO4'
+2026-10-27T23:08:57 OK message_id=3030: 'FOTO: https://docs.google.com/sheets-images-rt/AO4'
