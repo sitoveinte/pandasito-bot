@@ -789,3 +789,27 @@ FOTO: https://docs.google.com/sheets-images-rt/AO43MLa4vs8mx1dm85jGGHCS9xLeRQRuo
 🛒 <a href="https://usfans.com/product/1/997979159683?ref=6T2VKE">LINK DE USFANS</a>
 
 🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/AO43MLZWlzo7qpKT6f5ltw3pbNEum6JNpZaxYilzqhS9dw8ifA9hxB0hB0pkYfUYdUpknROn-PLNlUDCEL_I8fQ8842Ub_H08rk-8-VqjuOirUzvnfc2LSZxKArzvGYcpQBcCPp-BUGF1rhMWPggL9RlZVcNf2Wz0OXA9kFD=w174-h123
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: CAMISETAS RETRO DE FÚTBOL (+30 MODELOS)</i></b>
+💶 <b><i>PRECIO: 8€</i></b>
+🛒 <a href="https://usfans.com/product/1/1019918237451?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/AO43MLY8qf5rZjMbCKVohSRyxL578MwgC4m86X11dEvFSAplK1RU2Ge-xcNkgK3oVt00ja7EheXGrBxHA9b84iboIHCznfmsM6gDT4dmP_yl3g3oNVAFLlIMMbUnf0OiWmx5Z_i0pOhaI4ahMohli1S46QgiPx5qTB49mgXS=w187-h123
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: CHÁNDALS 26/27 (+20 MODELOS)</i></b>
+💶 <b><i>PRECIO: 11€</i></b>
+🛒 <a href="https://usfans.com/product/1/806413260803?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/AO43MLbgn_rktCWzP7nxLzUPc7ED4j8z_9eWhzfSPvTcfFrdeFx0zMIBasv58ch5uQd77sNuqCSFJUTCwSb-jE8ihlAZFTFyntHmBtmvnhURO42_KDHG79-w9Hbi9Y9Jx5rj4IS3Ba7Y4rm3S5qgUIf0bSpRoxTHQXNWIw8W=w174-h123
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: CHAQUETAS / CORTAVIENTOS DE FÚTBOL MUNDIAL Y +</i></b>
+💶 <b><i>PRECIO: 14€</i></b>
+🛒 <a href="https://usfans.com/product/1/751336174124?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰

@@ -77,3 +77,10 @@
 2026-10-28T12:26:16 OK message_id=3045: 'FOTO: https://docs.google.com/sheets-images-rt/AO4'
 2026-10-28T12:27:17 Álbum rechazado (Bad Request: failed to send message #4 with the error message "WEBPAGE_CURL_FAILED")
 2026-10-28T12:27:18 OK message_id=3046: 'FOTO: https://docs.google.com/sheets-images-rt/AO4'
+2026-10-28T15:16:33 No se pudo descargar la foto (HTTP Error 403: Forbidden)
+2026-10-28T15:16:35 OK message_id=3053: 'FOTO: https://docs.google.com/sheets-images-rt/AO4'
+2026-10-28T15:17:35 No se pudo descargar la foto (HTTP Error 403: Forbidden)
+2026-10-28T15:17:35 Se envía solo el texto
+2026-10-28T15:17:36 OK message_id=3057: 'FOTO: https://docs.google.com/sheets-images-rt/AO4'
+2026-10-28T15:18:40 No se pudo descargar la foto (HTTP Error 403: Forbidden)
+2026-10-28T15:18:41 OK message_id=3058: 'FOTO: https://docs.google.com/sheets-images-rt/AO4'
