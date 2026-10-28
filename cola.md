@@ -2,30 +2,6 @@
 // Separa cada mensaje con una línea que solo tenga ---
 // Para foto: primera línea "FOTO: https://enlace-de-la-imagen.jpg" y debajo el texto.
 // Negrita <b>así</b>, enlace <a href="https://...">TEXTO</a>. Las líneas que empiezan por // no se publican.
-FOTO: https://docs.google.com/sheets-images-rt/AO43MLbrAb8zfhgy35razOYCuxwgqmpcLcT1lBoM664umfjclTkNQzG3koVl6TnUuaHIXm2W_tamXVaf6AhaZVAHSjirNSa4juZP1JDu2nGb67svISm6A5TtmYJIAbtxNAYcoEel80_WFjNiemJEHZ-6pb9Drg6pLiQe7j1t3io=w174-h123
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: CAMISETAS RETRO DE PORTUGAL CR7 (+20 MODELOS)</i></b>
-💶 <b><i>PRECIO: 10€</i></b>
-🛒 <a href="https://usfans.com/product/1/1051879840326?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://docs.google.com/sheets-images-rt/AO43MLb-dOWy4YH7Csblya8x9Xcmys-xjdyCf2rYCRq7SRFTkFsznLRzSsJ96Y4pES-xZ_tJ3QrcNKMSYSDhWCMZ4cASD_s_MAAh4Rg8qC7FEpqlw_S9UauW49YhcSsIDijAgzwoQpbSqrTd5VvVwmVm04bleliNW3Lgol4IAjA=w187-h123
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: CAMISETAS LARGAS PLAYER VERSION MUNDIAL 2026</i></b>
-💶 <b><i>PRECIO: 8€</i></b>
-🛒 <a href="https://usfans.com/product/1/1000928690285?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://docs.google.com/sheets-images-rt/AO43MLY9Z5nvJq4E4Uy-Mxr_UPB_iGCUfcA7LwBTum_lKEhMSdWAklmNmub-fLf1L0aL6M3YWzpXP1qt675AW-Fpwu9Wm0l0bNE1XjzyKrBO9GGaXNaRIaaVDOp-gNqnSIZvLWICe-1vtuycyFWDGI-OB6qnVutAsi1Ss4Mo=w174-h123
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: CAMISETA ARGENTINA MUNDIAL + PARCHES+ PERSONALIZABLE</i></b>
-💶 <b><i>PRECIO: 9€</i></b>
-🛒 <a href="https://usfans.com/product/1/1015386712393?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
 FOTO: https://docs.google.com/sheets-images-rt/AO43MLaZIIVXe8KoVu85Wgu6FjrhJNM_lQ1HRYolPpurNSzCr1kq04Zliy6PphREIgxcETsflzquNguzloC5PXKDXnNNWy7rhu0qeF8q9Sn6kQxaAiSPi0CqGQ0AZDZH-DXaoAirJ-s9vsMC5QaQE0lOnqpLXEeQI--NGW0aSb0=w187-h123
 🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
 🔎 <b><i>NOMBRE DEL ARTÍCULO: CAMISETA ESPAÑA LOCAL MUNDIAL + PARCHES+ PERSONALIZABLE</i></b>
