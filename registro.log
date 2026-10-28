@@ -61,3 +61,11 @@
 2026-10-27T23:06:54 OK message_id=3025: 'FOTO: https://docs.google.com/sheets-images-rt/AO4'
 2026-10-27T23:07:55 OK message_id=3026: 'FOTO: https://docs.google.com/sheets-images-rt/AO4'
 2026-10-27T23:08:57 OK message_id=3030: 'FOTO: https://docs.google.com/sheets-images-rt/AO4'
+2026-10-28T11:40:51 Mensaje del día: OK message_id=3034
+2026-10-28T11:41:52 OK message_id=3035: 'FOTO: https://docs.google.com/sheets-images-rt/AO4'
+2026-10-28T11:42:54 Álbum rechazado (Bad Request: failed to send message #4 with the error message "WEBPAGE_CURL_FAILED")
+2026-10-28T11:42:54 Foto rechazada (Bad Request: failed to get HTTP URL content)
+2026-10-28T11:42:55 Foto rechazada (Bad Request: failed to get HTTP URL content)
+2026-10-28T11:42:55 Se envía solo el texto
+2026-10-28T11:42:56 OK message_id=3039: 'FOTO: https://docs.google.com/sheets-images-rt/AO4'
+2026-10-28T11:43:57 OK message_id=3040: 'FOTO: https://docs.google.com/sheets-images-rt/AO4'
