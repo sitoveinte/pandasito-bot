@@ -9,7 +9,7 @@ El texto admite HTML de Telegram: <b>negrita</b>, <i>cursiva</i>, <a href="url">
 Lo publicado se mueve a publicados.md. Si la cola se vacía y REPETIR es True,
 se recicla publicados.md.
 """
-import html, json, os, re, sys, time, urllib.parse, urllib.request
+import html, json, os, re, sys, tempfile, time, urllib.parse, urllib.request
 from datetime import datetime
 
 CHAT_ID = "-1002248604842"
@@ -118,6 +118,31 @@ def fotos_qc(bloque):
     return fotos[:10]  # máximo de un álbum de Telegram
 
 
+def local(foto):
+    """Telegram no consigue bajar las fotos QC de USFans (pesan ~5 MB y llegan como
+    application/octet-stream), así que se descargan aquí, se reducen y se suben."""
+    if foto.startswith("/"):
+        return foto
+    try:
+        req = urllib.request.Request(foto, headers={"User-Agent": "Mozilla/5.0"})
+        with urllib.request.urlopen(req, timeout=60) as r:
+            datos = r.read()
+    except Exception as ex:
+        log(f"No se pudo descargar la foto ({ex})")
+        return None
+    ruta = tempfile.mkstemp(suffix=".jpg")[1]
+    try:
+        from PIL import Image, ImageOps
+        import io
+        img = ImageOps.exif_transpose(Image.open(io.BytesIO(datos))).convert("RGB")
+        img.thumbnail((1600, 1600))
+        img.save(ruta, "JPEG", quality=85)
+    except Exception:
+        with open(ruta, "wb") as f:
+            f.write(datos)
+    return ruta
+
+
 def enviar_album(fotos, caption):
     media, archivos = [], {}
     for i, f in enumerate(fotos):
@@ -141,17 +166,15 @@ def enviar(bloque):
         primera, _, bloque = bloque.partition("\n")
         foto_sheet = primera[5:].strip()
         bloque = bloque.strip()
-    qc = fotos_qc(bloque) if USAR_QC else []
+    qc = [f for f in map(local, fotos_qc(bloque) if USAR_QC else []) if f]
+    foto_sheet = local(foto_sheet) if foto_sheet else ""
     if len(qc) > 1:
         r = enviar_album(qc, bloque)
         if r.get("ok"):
             return r
         log(f"Álbum rechazado ({r.get('description')})")
     for foto in qc[:1] + ([foto_sheet] if foto_sheet else []):
-        if foto.startswith("/"):
-            r = api("sendPhoto", dict(datos, caption=bloque), {"photo": foto})
-        else:
-            r = api("sendPhoto", dict(datos, photo=foto, caption=bloque))
+        r = api("sendPhoto", dict(datos, caption=bloque), {"photo": foto})
         if r.get("ok"):
             return r
         log(f"Foto rechazada ({r.get('description')})")
