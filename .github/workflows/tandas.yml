@@ -40,6 +40,10 @@ jobs:
             echo "clave=$clave" >> "$GITHUB_OUTPUT"
           fi
 
+      - name: Instalar Pillow (para reducir las fotos QC)
+        if: steps.hora.outputs.toca == 'si'
+        run: python3 -m pip install --quiet pillow || true
+
       - name: Publicar 3 mensajes
         if: steps.hora.outputs.toca == 'si'
         env:
