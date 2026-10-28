@@ -813,3 +813,27 @@ FOTO: https://docs.google.com/sheets-images-rt/AO43MLbgn_rktCWzP7nxLzUPc7ED4j8z_
 🛒 <a href="https://usfans.com/product/1/751336174124?ref=6T2VKE">LINK DE USFANS</a>
 
 🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/AO43MLa8iSQzpRiWiuyIvN1n9Bn-2huYsMq6at4Z23lkTcAYOt0kRae3DOOWESu725XwxWzlyL7a7zEQEXk2uI-h9Lbxe-b1-0MDH6c2jdfUMJ3yH0aLb2KOsxw3Bl8fNag6UyIRygJ8HOVBq4QpoXb95Vh9JAV8jFIYgSroUMk=w187-h123
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: SUDADERAS CACTUS JACK TRAVIS SCOTT X FCBARCELONA (+10 COLORES)</i></b>
+💶 <b><i>PRECIO: 13€</i></b>
+🛒 <a href="https://usfans.com/product/1/926150367146?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/AO43MLbmahWSFAGGVlbqARhZjdjIiPabh-rEJchCR2wJbHnRHS8EVVWSgpjn4juF6ByV-gMRexaidqgyZQ_lfmDXXQLXT6T-sfn-_C48UPrLOfxqa3t6SkgHOqhvf60J1akxO8V7AUpWglyufBO_etAh0nGcKBXKXqTq3QFDABo=w174-h123
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: CAMISETAS DE FÚTBOL RETRO PERSONALIZADAS (+40 MODELOS)</i></b>
+💶 <b><i>PRECIO: 10€</i></b>
+🛒 <a href="https://usfans.com/product/1/862073410476?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/AO43MLY-bmfVQwJP_U2nhGavL7gsR9i4q800UUEEwNl3L4EGuO0dOms1Ob9IN0KmWmKiZJo6b-wghU2L53uJV_32DuN-vLYv_rmJSfdNplxli1oA0vaPtz9MTIFcKDxLqkzpsNBqP-6_gk1hEzMY0iS2NthR4MDX8bwe-ZZZ3Dg=w187-h123
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: CAMISETA ESPAÑA MUNDIAL + PARCHES+ PERSONALIZABLE</i></b>
+💶 <b><i>PRECIO: 9$</i></b>
+🛒 <a href="https://usfans.com/product/1/1037290404600?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
