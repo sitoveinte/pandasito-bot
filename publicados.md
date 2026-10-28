@@ -765,3 +765,27 @@ FOTO: https://docs.google.com/sheets-images-rt/AO43MLZjPauX3QxxbnADeyYZQmkmFepnZ
 🛒 <a href="https://usfans.com/product/1/999926306430?ref=6T2VKE">LINK DE USFANS</a>
 
 🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/AO43MLb2j60qCDEFCUWkkrCvSylxqk21w7crRK8vpRp8mt8TBFa7rhbK4Pz_URVpBWZ8_fd8V5c8bvD6AEi_8o7OxIsS-rpbyRfNmZeoA7NkokAXZiGmq23s6xYFXPbQ9FXdoHdmNCOucfdNPOo76P6SLvLxsgUGHtn-I1FOiDg=w187-h123
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: SUÉTERES RETRO REAL MADRID (+10 TEMPORADAS)</i></b>
+💶 <b><i>PRECIO: 9€</i></b>
+🛒 <a href="https://usfans.com/product/1/967037476529?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/AO43MLYaHxekrPQMps1CDBC-nivruC0Py8HYazYsBR17TjJowCYJeOUwr_dPt2RV2kF-pm2IT1a7XlO1wqRiH1VGtHs-Xs5qSPXNzq1ZO_U9XSQd6YHKhXdxO8Xeioh-OgQR07Lw9qHZ-6xi4o6dbUgc7VuqIoICVwL4PLQOCMg=w174-h123
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: CAMISETA BRAZIL PLAYER VERSION + PARCHES MUNDIAL 2026 PERSONALIZABLE</i></b>
+💶 <b><i>PRECIO: 9€</i></b>
+🛒 <a href="https://usfans.com/product/1/1033947448419?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/AO43MLa4vs8mx1dm85jGGHCS9xLeRQRuo15wa4wBcHL8eBLkoz2N_oUrLDDWG0Lmu9v3LMI_-yzuLNwwUN3k2r--PrvcykMr--_QoUiP63bgWW2k4lWyLFWAgBAMvVnZQtYj3LlqWOy1CSTSi_lpK1CIYxVbJ-jkbYaVDzxBdEo=w187-h123
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: CAMISETAS RETRO CR7 (+20 MODELOS)</i></b>
+💶 <b><i>PRECIO: 9€</i></b>
+🛒 <a href="https://usfans.com/product/1/997979159683?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
