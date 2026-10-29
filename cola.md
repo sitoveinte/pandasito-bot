@@ -2,30 +2,6 @@
 // Separa cada mensaje con una línea que solo tenga ---
 // Para foto: primera línea "FOTO: https://enlace-de-la-imagen.jpg" y debajo el texto.
 // Negrita <b>así</b>, enlace <a href="https://...">TEXTO</a>. Las líneas que empiezan por // no se publican.
-FOTO: https://docs.google.com/sheets-images-rt/AO43MLa64omsEwo-3TigTGo79kth0Cb6MHA3eKnhgOXKXVs-bFkgVtV5U6UY-NIUN_ELQ6Xr8bDfdV5eT7yxP1t7hmqA5dERV1Vcl5_LGQXwRA7LRgmlyo6vL6op6n3yUebSr5sTq9jUqjDL257TbBN32x4z5hBVIBJ7D-NF=w174-h123
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: SUÉTERES FÚTBOL +20 MODELOS</i></b>
-💶 <b><i>PRECIO: 12€</i></b>
-🛒 <a href="https://usfans.com/product/1/1084680376380?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://docs.google.com/sheets-images-rt/AO43MLZueh2k_u9xrLoescsX7vS1zrRj8jmGa8WNnKRH7Firgf316aIgvEc_2jXOCt7r3sarEaElFjQfOewjmuibcxsf9rxKv36h6BL9NYLCFMMileM9LLujJ3qsc1tvICIW8Q5oCxdmzJL_5P8p_qHzH7__NydIc-R3G1uS4UE=w187-h123
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: CHÁNDALES CORTAVIENTOS 26 27</i></b>
-💶 <b><i>PRECIO: 17€</i></b>
-🛒 <a href="https://usfans.com/product/1/1081748271011?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://docs.google.com/sheets-images-rt/AO43MLayMyr3-Zwbn3I_04ve2-80hOkalUlgds5ekz6zg2adhv9z5U0C1yJx2In-aClWDsL4xorAqwJ1HiC-jsw0HKjtWCmr6T2C3gDcG8qUcTPbst1aV8wFX-pWiJ5ppl402IOe6o9yombToD8YAIk0OP1WOju14EobgysnQSo=w187-h123
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: CHÁNDALES SELECCIONES 26 27</i></b>
-💶 <b><i>PRECIO: 16€</i></b>
-🛒 <a href="https://usfans.com/product/1/837633073160?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
 FOTO: https://docs.google.com/sheets-images-rt/AO43MLarmGDVYGGOioAeNHqVRb6XvmGF0rPUPSOMo-5BOjx_6pgVz9DCl2xvDznXYTXnQmDKl719QAhn8OJTxTB8gJpw2wbJ97NzSt1fwvFctRqREJFhJPJTuLl4ndGlFtdIiLl_wJgOsOQcQ1UWGsrPUjq0tUJIrL81QXdb=w174-h123
 🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
 🔎 <b><i>NOMBRE DEL ARTÍCULO: CAMISETAS PLAYER VERSION 26/27</i></b>
