@@ -142,3 +142,10 @@
 2026-10-30T09:25:09 OK message_id=3129: 'FOTO: https://docs.google.com/sheets-images-rt/AO4'
 2026-10-30T09:26:13 No se pudo descargar la foto (HTTP Error 403: Forbidden)
 2026-10-30T09:26:15 OK message_id=3133: 'FOTO: https://docs.google.com/sheets-images-rt/AO4'
+2026-10-30T12:13:20 No se pudo descargar la foto (HTTP Error 403: Forbidden)
+2026-10-30T12:13:21 OK message_id=3137: 'FOTO: https://docs.google.com/sheets-images-rt/AO4'
+2026-10-30T12:14:24 No se pudo descargar la foto (HTTP Error 403: Forbidden)
+2026-10-30T12:14:26 OK message_id=3141: 'FOTO: https://docs.google.com/sheets-images-rt/AO4'
+2026-10-30T12:15:26 No se pudo descargar la foto (HTTP Error 403: Forbidden)
+2026-10-30T12:15:26 Se envía solo el texto
+2026-10-30T12:15:26 OK message_id=3145: 'FOTO: https://docs.google.com/sheets-images-rt/AO4'

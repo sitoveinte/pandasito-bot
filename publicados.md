@@ -1005,3 +1005,27 @@ FOTO: https://docs.google.com/sheets-images-rt/AO43MLa19dOBx5tkl0zRVZfvr0pzHoBDm
 🛒 <a href="https://usfans.com/product/1/854809591400?ref=6T2VKE">LINK DE USFANS</a>
 
 🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/AO43MLanA5boIuknJeuVr7dMuAOtEW_XlVVi1emGDOKoctjP6TsP83UZhUiYWBYMUcAsBG3xHlHHuOh3m2Ub_rWFLfkXhlh53ndBl4ixOnZTX9h-4rBDwjWOLJ7KXGGWv6wyxsgIfZjNUcTFUbGdetpGSF5n7HfpAfIPQVzx=w187-h123
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: SUÉTERES DE LA LIGA (+10 MODELOS)</i></b>
+💶 <b><i>PRECIO: 9€</i></b>
+🛒 <a href="https://usfans.com/product/1/1003558766506?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/AO43MLagEQ_JNiGICn9Ej1LxXXHINUZTqWy5VTofzxCM4NGnka0eQYBfJkut8L_wdOtZYRIDQYDxWGAPaYTW90vaMa1ahXFz15AcZfNVSILqQ2GqlMlueyTwTwbQDQxsuIlN3ZTLLxgzoQ48dFoOoS5ZKfO4SyTTa0BZOzPLhQc=w174-h123
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: CAMISETAS REAL MADRID FAN VERSION LOCAL Y VISITANTE 26/27 PERSONALIZABLE+PARCHES CHAMPIONS</i></b>
+💶 <b><i>PRECIO: 6$</i></b>
+🛒 <a href="https://usfans.com/product/1/1047975658042?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/AO43MLYeq5A0KMpAeEeb4CFZZ4aAe0qFJGdcU6sRmBfb1aOSUqFkgsiGSMguO-vyfFo39RZlP8PURt4F29jajgCj7iZBGgjxpX_6MlQsAVq_0r8OAW_Rfge-QXM6L7DlzvsiWQIFWzOvH16c0vOqofnY9wUP3FgBQZPRKB_F114=w187-h123
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: CAMISETAS RETRO INTER &amp; AC MILAN (+20 MODELOS)</i></b>
+💶 <b><i>PRECIO: 7€</i></b>
+🛒 <a href="https://usfans.com/product/1/1052203421051?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
