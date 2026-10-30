@@ -2,30 +2,6 @@
 // Separa cada mensaje con una línea que solo tenga ---
 // Para foto: primera línea "FOTO: https://enlace-de-la-imagen.jpg" y debajo el texto.
 // Negrita <b>así</b>, enlace <a href="https://...">TEXTO</a>. Las líneas que empiezan por // no se publican.
-FOTO: https://docs.google.com/sheets-images-rt/AO43MLarmGDVYGGOioAeNHqVRb6XvmGF0rPUPSOMo-5BOjx_6pgVz9DCl2xvDznXYTXnQmDKl719QAhn8OJTxTB8gJpw2wbJ97NzSt1fwvFctRqREJFhJPJTuLl4ndGlFtdIiLl_wJgOsOQcQ1UWGsrPUjq0tUJIrL81QXdb=w174-h123
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: CAMISETAS PLAYER VERSION 26/27</i></b>
-💶 <b><i>PRECIO: 7€</i></b>
-🛒 <a href="https://usfans.com/product/1/1048784108509?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://docs.google.com/sheets-images-rt/AO43MLbzk9Qafn127TuGb8-eb9SlXUgpdfxwA1yV4adrr1xeFWrIDaJo9szFs7bNtZx1EKS2EYM-T871UhMtsamLeWgcMOEQzDZ6sQBinMxMN7pR2XUWEDSRrje_UNGt8mKIUAeepmR-6eWO15e_dbFYQBvkNOBzRq0bFjpB43M=w187-h123
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: CHÁNDALS DE LA LIGA (+10 MODELOS)</i></b>
-💶 <b><i>PRECIO: 11€</i></b>
-🛒 <a href="https://usfans.com/product/1/990507097458?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://docs.google.com/sheets-images-rt/AO43MLa19dOBx5tkl0zRVZfvr0pzHoBDm8KEsM0rI91vaY_0Yw_hmGE2TTZ_zV_4ZC9k7Cd5HE4R4mExTpEg5QsSepNXxTbOC1Bqeqi5kas5-ISwnzckkpaV-sbjEIJJNkyO-bge1pJpxC7YypNZYjjWUBOjWilHNTuf80EjVOU=w174-h123
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: CAMISETAS 26/27 PLAYER VERSION PERSONALIZADAS CON PARCHES LIGA (+50 MODELOS)</i></b>
-💶 <b><i>PRECIO: 10€</i></b>
-🛒 <a href="https://usfans.com/product/1/854809591400?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
 FOTO: https://docs.google.com/sheets-images-rt/AO43MLanA5boIuknJeuVr7dMuAOtEW_XlVVi1emGDOKoctjP6TsP83UZhUiYWBYMUcAsBG3xHlHHuOh3m2Ub_rWFLfkXhlh53ndBl4ixOnZTX9h-4rBDwjWOLJ7KXGGWv6wyxsgIfZjNUcTFUbGdetpGSF5n7HfpAfIPQVzx=w187-h123
 🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
 🔎 <b><i>NOMBRE DEL ARTÍCULO: SUÉTERES DE LA LIGA (+10 MODELOS)</i></b>
