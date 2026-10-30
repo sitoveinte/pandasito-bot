@@ -2,30 +2,6 @@
 // Separa cada mensaje con una línea que solo tenga ---
 // Para foto: primera línea "FOTO: https://enlace-de-la-imagen.jpg" y debajo el texto.
 // Negrita <b>así</b>, enlace <a href="https://...">TEXTO</a>. Las líneas que empiezan por // no se publican.
-FOTO: https://docs.google.com/sheets-images-rt/AO43MLZzcgcSpH20Ohhvbvaxd_OaFTm1EOpjWLnsamJLlfBHegf3egidtLNwkby_g_qCTIZhRS5zBiMz1RrA5TqSfnDUbd2kmQMGu6oqBxDHBXQXMoCKv03lTG2QFpYH8AX5WxukUj2aUxZ99Jr6ufT5Sro-ZJSlAzmvHV6nDwQ=w174-h123
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: CAMISETAS DE ENTRENAMIENTO SIN MANGAS 26/27 +40 MODELOS</i></b>
-💶 <b><i>PRECIO: 6€</i></b>
-🛒 <a href="https://usfans.com/product/1/828553389769?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://docs.google.com/sheets-images-rt/AO43MLaKoxP3em3odWzi0dNnot-Sfjbl1pDkOAnvFlJ-85GST4ml9RiKaheI8B8MmXjG6btbfHvvBKdPBi2Z20_tVP4jZtRb8LeeiJ1Vvm3Cx1ZOA_Anvae6aLxvzgERzy5Qw2KZJnS_twrJLK9jXiJxeB0wWTr23-rZ4tbQOkk=w187-h123
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: CHÁNDALES MUNDIAL 26/27 LARGOS Y CORTOS (+40 MODELOS)</i></b>
-💶 <b><i>PRECIO: 7-12€</i></b>
-🛒 <a href="https://usfans.com/product/1/787505774276?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://docs.google.com/sheets-images-rt/AO43MLa-smD8trMEVZ5Js26eEeqC0hWiPoQLdo9UnHczhedK9dFTnbShGJmi-im4yauIJUZXRVtLNvbhJSqIyVIBIFN0rPgSeOFFiykBrrnGcBNGBIwIKcoLQ-xgzjtXvmNWG_9IVjFCJV50oTIIX1axJg34sFx91CkycqAj=w174-h123
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: CHÁNDALES VERSIONES ESPECIALES +10</i></b>
-💶 <b><i>PRECIO: 20-35€</i></b>
-🛒 <a href="https://usfans.com/product/1/1032493222108?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
 FOTO: https://docs.google.com/sheets-images-rt/AO43MLYvYsi_FWOF0hslXURGl7JrtaZnQKlhvx4-LnT3siYwja2qSyxd1eGfh_DB6RUnRDMhwBVfljYqjuJMw2tBQAhFhd-Ao9D4S9vB4O77X5NRXnBoz6Nxvl8aCWat46lHEcZUXg5xbvKxHtbibgxLZz8tB5B0S1YvAQz5Zgo=w187-h123
 🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
 🔎 <b><i>NOMBRE DEL ARTÍCULO: NIKE TECH SELECCIONES +4</i></b>
