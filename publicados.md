@@ -1077,3 +1077,27 @@ FOTO: https://docs.google.com/sheets-images-rt/AO43MLYhsdymEoPUQwfK3HdlTCJjLNXH9
 🛒 <a href="https://usfans.com/product/1/974937539530?ref=6T2VKE">LINK DE USFANS</a>
 
 🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/AO43MLbq_0tQo-SXp-4YyD6aNid1rV0OEiYQlde_eR2fkFPRWKzwdK9yZ4s2rZarX8P19lOmr9jiNylpIzy_9zEf2iTvHFae8fcDrRvmsx_V-K9Ly-ijdfUhiKdrHCIYW2csW6ytvhXXx2vi4DFH-JdWAFCrXLpfS_W4mjByAAg=w174-h123
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: BANDOLERA CARHARTT (+4 COLORES)</i></b>
+💶 <b><i>PRECIO: 2€</i></b>
+🛒 <a href="https://usfans.com/product/1/808124012477?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/AO43MLa-EshzEJJn6HycxNCMO8JhtMGRFRiqI88KZF8C6vxAUb1lplFcOciYwV1VP5TzVwMbkgRFGeHwxkJC7IXt2M-bTLLUgNnPnDtZtewMemzPYdoQGmJFP8-ktZEyA_II4WipQP78FNMYR2s2TawqLF9lvZO2cHZgBvluBlQ=w187-h123
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: CALCETINES NIKE (+3 COLORES)</i></b>
+💶 <b><i>PRECIO: 1€ x 3</i></b>
+🛒 <a href="https://usfans.com/product/1/951007788246?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/AO43MLah_zIHFhbVhfx18e-Sjultil81-y2gxuWjMTuZL95OZ1cLICHJlyNaVrx99EgzJxFab3Wt7txOYWze7vNEMxhThQGeAkDQ9tZWFjk8JWp7vH5StjXhXRmIM6UszKtWsouC4CISYyArWRZoUZHqwnCYcXo2YD2AqVTx2yQ=w174-h123
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: CALZONCILLOS EA7 (+5 COLORES)</i></b>
+💶 <b><i>PRECIO: 1€</i></b>
+🛒 <a href="https://usfans.com/product/1/828655785294?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
