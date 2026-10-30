@@ -1053,3 +1053,27 @@ FOTO: https://docs.google.com/sheets-images-rt/AO43MLa-smD8trMEVZ5Js26eEeqC0hWiP
 🛒 <a href="https://usfans.com/product/1/1032493222108?ref=6T2VKE">LINK DE USFANS</a>
 
 🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/AO43MLYvYsi_FWOF0hslXURGl7JrtaZnQKlhvx4-LnT3siYwja2qSyxd1eGfh_DB6RUnRDMhwBVfljYqjuJMw2tBQAhFhd-Ao9D4S9vB4O77X5NRXnBoz6Nxvl8aCWat46lHEcZUXg5xbvKxHtbibgxLZz8tB5B0S1YvAQz5Zgo=w187-h123
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: NIKE TECH SELECCIONES +4</i></b>
+💶 <b><i>PRECIO: 32€</i></b>
+🛒 <a href="https://usfans.com/product/1/1085570804346?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/AO43MLa0hdqb8r08GRO3rchaDmZ8Ovc_q4KET--UoNsIuQUz9_cbzEABN8o2gCQkvaTJbJC_KP2EMAmWr_uCYH2tRglj-hhGFzfO7z-1piy4ZGmX__CPeZlsvJEwiOJ_laJwPsTATqND1M1Ev8_CQiePxVIkSbmfUZ7S66qdv24=w174-h123
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: GAFAS OAKLEY POLARIZADAS (+15 COLORES)</i></b>
+💶 <b><i>PRECIO: 8€</i></b>
+🛒 <a href="https://usfans.com/product/1/984933052288?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/AO43MLYhsdymEoPUQwfK3HdlTCJjLNXH9_YOcwA4B9PbPh2_yjiPOVFU8vS-BgeUslSwKlJj15ZC5fNm1Daa_7qwdaS8xYu3dXKBkxK9WK8C_QwPK4P9-kVi4WzHQ8qUzNORT20kw9E38h8HToDiQu9MWhePaQgd1ocOUFs8zw0=w187-h123
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: MOCHILAS NIKE ELITE (+40 MODELOS)</i></b>
+💶 <b><i>PRECIO: 8€</i></b>
+🛒 <a href="https://usfans.com/product/1/974937539530?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
