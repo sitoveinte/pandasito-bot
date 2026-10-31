@@ -2,30 +2,6 @@
 // Separa cada mensaje con una línea que solo tenga ---
 // Para foto: primera línea "FOTO: https://enlace-de-la-imagen.jpg" y debajo el texto.
 // Negrita <b>así</b>, enlace <a href="https://...">TEXTO</a>. Las líneas que empiezan por // no se publican.
-FOTO: https://docs.google.com/sheets-images-rt/AO43MLZjLFZ7tNpYqmU0Ljjx-A8hJ_FdZFYQ5xlReTs1Ezu7xnITLxMOxa8VIqjrlKWYj_OV7GK3yY6Z7h1qwHLn2Ij8lnuH5Nba1RTN9EUOc5v7d18CsLqqkMsAziyJ-bI4iojj4s93kkyuKf_DeF481XdrJ3_gIyn8wzVHbFk=w187-h123
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: CINTURONES AMIRI +20 MODELOS</i></b>
-💶 <b><i>PRECIO: 4€</i></b>
-🛒 <a href="https://usfans.com/product/1/855838038164?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://docs.google.com/sheets-images-rt/AO43MLZeqy_vwarnUCzghgSJfz3IV0EAPseZOqEMauRzgXnTEB7xJ4H0lbF7FiA4NmNF_oBaYkExBUE_NuF6DLf0uuZRFpHN2h26FyA6_aUE4L9SSAwa9Q9pEZUQghLmjfM1opOpTk4bFFrcmdpdFmn2hVqNBrLyau3UvpXs=w187-h123
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: CINTURONES RALPH LAUREN +10 COLORES</i></b>
-💶 <b><i>PRECIO: 4€</i></b>
-🛒 <a href="https://usfans.com/product/1/857620796415?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://docs.google.com/sheets-images-rt/AO43MLaMSj4YdOu1nG5kIWbOEDVgLCmrBV2O8mwfazhFEuPG8b20RhLxsjwPPAUCueKjOpo61U3FgMEr8Nzu2mkvMLoWTqIk50bq-40EO7wxuVEMS0oxBI6WVxUdkwhOuMHewgREDJluyzP5WON-VjJmIebp42QuuJ10He3iB2Y=w174-h123
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: PRADA SYMBOLE</i></b>
-💶 <b><i>PRECIO: 2€</i></b>
-🛒 <a href="https://usfans.com/product/1/1060856198078?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
 FOTO: https://docs.google.com/sheets-images-rt/AO43MLbJrWO0ydEbQqC-TIPWkXcbU12BMRugxJC1nKaQIJxaH0GUSWpYPO-LCLG2RRbXiLtDcJUkXpsLSEF9p97P3DbnKAVXkqf93UgmjcOML4rr3nVbAfuOIkh-k4SHzRNP44kjf5PRXDLNZ1R6GN0jV517a1mRk0LtxBc7=w174-h123
 🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
 🔎 <b><i>NOMBRE DEL ARTÍCULO: RELOJ PLATEADO OAKLEY</i></b>
