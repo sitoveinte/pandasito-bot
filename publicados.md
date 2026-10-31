@@ -1197,3 +1197,27 @@ FOTO: https://docs.google.com/sheets-images-rt/AO43MLYuLNdLGcv9b1Zfxv7XGDHkIOTaW
 🛒 <a href="https://usfans.com/product/1/987312376127?ref=6T2VKE">LINK DE USFANS</a>
 
 🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/AO43MLaaH4CjU1BQVWb33b_b0gdN4GUXk0Yu0nT9BYaQDY0kr1lLPzQLadkVNOzNjhG1rPT1NmXiIm4kluLf6XkWHDRkKin5TRGXcnly1QkefupL0Ut7MJ3ykYO8mliNa1n7MxoIy3V89yVJ5LbMn2A6qTCwyDn0ZMWVLLWk=w187-h123
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: BANDOLERA HERMES (+5 MODELOS)</i></b>
+💶 <b><i>PRECIO: 18€</i></b>
+🛒 <a href="https://usfans.com/product/3/7788144201?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/AO43MLbLJ5pmJBTyW5BXhD2m2IB72KSJmGt5h37yY3xA-fKuT3dEOXcfhcZfMnmHEKTfkgDIV_KpKEa_fOqTYhxLsFiCoFQ-iJLDC5K1dhQHuii8AyBQenOKG9HtxixmChdC9IDbZpcrJpc1sMJmlJoFm84xMY_eLLsUxnOp=w174-h140
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: PANTALONES CORTOS STUSSY (+20 MODELOS)</i></b>
+💶 <b><i>PRECIO: 7€</i></b>
+🛒 <a href="https://usfans.com/product/1/925650244125?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/AO43MLbIzT9moAmX5KVybreEmRToraSDIYN7ZSJIX26lTmR8yRMqSn1fjFUxouIIMPcyJl06LVWg344LGfuqwt4G-0ymikiYhrK1srn8cUssu9uTDrDSJ2JEgCR9AETM0YAVeJlpNYEiD8zQzFSOWV7aUlmPFcqOFbk1ltHZucU=w187-h140
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: SHORTS ERIC EMMANUELE +30 MODELOS</i></b>
+💶 <b><i>PRECIO: 9€</i></b>
+🛒 <a href="https://usfans.com/product/1/992372635875?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
