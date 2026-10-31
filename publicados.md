@@ -1173,3 +1173,27 @@ FOTO: https://docs.google.com/sheets-images-rt/AO43MLaMSj4YdOu1nG5kIWbOEDVgLCmrB
 🛒 <a href="https://usfans.com/product/1/1060856198078?ref=6T2VKE">LINK DE USFANS</a>
 
 🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/AO43MLbJrWO0ydEbQqC-TIPWkXcbU12BMRugxJC1nKaQIJxaH0GUSWpYPO-LCLG2RRbXiLtDcJUkXpsLSEF9p97P3DbnKAVXkqf93UgmjcOML4rr3nVbAfuOIkh-k4SHzRNP44kjf5PRXDLNZ1R6GN0jV517a1mRk0LtxBc7=w174-h123
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: RELOJ PLATEADO OAKLEY</i></b>
+💶 <b><i>PRECIO: 20€</i></b>
+🛒 <a href="https://usfans.com/product/1/930164779880?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/AO43MLbC76FDlLZ5nAxxU83AEhLTkALL38E1lJCF_VBJVt2_lZFXAlomX6BRgj5KlRY8fCVi38yV9ncoBAe_6BeCjJCmM9eQWPAFE60Sv7qaoVEiIe6Io-qf9rzXN5EH-uY0Kt1VXckc8gZstp6-DCuRQstWzpPTmS7JgxFx=w187-h123
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: GAFAS RAYBAN (+20 MODELOS)</i></b>
+💶 <b><i>PRECIO: 7€</i></b>
+🛒 <a href="https://usfans.com/product/1/1058835335495?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/AO43MLYuLNdLGcv9b1Zfxv7XGDHkIOTaWu1jjNDGAUyrCpFu1ZAPzcvZ_x0TPU0TlKVNKNL_6um0-lN54N6el2vjeg_YOQby34qoirT42__ffLCjgVq39eknm9GFlcljBBtDDJ_aUVbPfr2B0Obeho_7aB0M9iB0eh3uNGjg51w=w174-h123
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: RELOJES OAKLEY (+5 COLORES)</i></b>
+💶 <b><i>PRECIO: 13€</i></b>
+🛒 <a href="https://usfans.com/product/1/987312376127?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
