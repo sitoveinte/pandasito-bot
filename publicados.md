@@ -1101,3 +1101,27 @@ FOTO: https://docs.google.com/sheets-images-rt/AO43MLah_zIHFhbVhfx18e-Sjultil81-
 🛒 <a href="https://usfans.com/product/1/828655785294?ref=6T2VKE">LINK DE USFANS</a>
 
 🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/AO43MLa1rWokg9-Qjy7Xaaot2ETuXPiZ_dIZI3HnAPKM5U9QEd7KzK6wqZraLHXm0v0E_PJ7P8XdPOutZAy0CQ6Jk1ajp0uhQmvEyIg7BqbbiakLLE5Nf1Gq9rJ0iCLf8C8vsSc3b06ko2rIYDGdrvHxMLsH95fvWI5eWzuw=w187-h123
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: CALCETINES RALPH LAUREN (+20 MODELOS)</i></b>
+💶 <b><i>PRECIO: 1€</i></b>
+🛒 <a href="https://usfans.com/product/1/1043253373463?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/AO43MLaQw0yAE2IGeKQLUu8sPE0u8BVXMW4skc0yn6F9D0jfdk4t6-bt3Q9CBZnB4L_Ct180h7mCTxmVSrarR71QVjkt0D_m6iL5S8x8CAYsvIPDarP0UcNDmxH_BCQPxf_DDUfcJZQZ43T9BrZD4lHMOxMCrVU1aEgtF2zh-Bc=w174-h123
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: CINTURONES GUCCI +10 MODELOS</i></b>
+💶 <b><i>PRECIO: 3€</i></b>
+🛒 <a href="https://usfans.com/product/1/1000340282779?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/AO43MLZwYZfcQEDX4hSgXco8HwTLcKeaBHTNGi150z9lYWiugZRFvd7uK1NFrXiq5YG1jF4tzrCn1Sn6onvpZPhwAs02kgToPiURQI82m6IZaCvkIYMoBESNW82jKsdlldzv3BB3l0NdoYT5hCiVk1mAPN5TRbOE5R5SqZZEpZc=w187-h123
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: CALZONCILLOS CK (+3 COLORES)</i></b>
+💶 <b><i>PRECIO: 5€ x 3uds</i></b>
+🛒 <a href="https://usfans.com/product/1/990854557256?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
