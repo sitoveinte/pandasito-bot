@@ -1221,3 +1221,27 @@ FOTO: https://docs.google.com/sheets-images-rt/AO43MLbIzT9moAmX5KVybreEmRToraSDI
 🛒 <a href="https://usfans.com/product/1/992372635875?ref=6T2VKE">LINK DE USFANS</a>
 
 🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/AO43MLaX1UIiR6MrRxl5Cbs6bvV167ZtGY8gEqE4rEHBoZ01qFMnF_LV_fUEUnilDcJXC35WkCXm17wUGuNsWNLLLj9PH0wxZuQHONs1FhUqPDSpJMThpduHGIo6JjNoQE54INEjZlhVyJpAhnfkPrlCsQFiJjDLNjZsWtU8gsA=w174-h140
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: PANTALONES NIKE TECH CORTOS (+4 MODELOS)</i></b>
+💶 <b><i>PRECIO: 9€</i></b>
+🛒 <a href="https://usfans.com/product/1/1056808650736?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/AO43MLZiX48fgz4Wsz57Cf82-xbIglKycxf-ZAnZkDK4ec9l9XOe0CDJv1pCgX_NBjgloXXjZyzsny6BKEzv4y-37PDU5iA2_A56XiCZbxiPDrLlPAwfV8cYV7uDvcLQt6FpzUaLNE2VGzwfFghbhWT2V_G4TzR54txz1j60=w187-h140
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: PANTALONES SP5DER &amp; SYNA WORLD (+20 MODELOS)</i></b>
+💶 <b><i>PRECIO: 9€-11€</i></b>
+🛒 <a href="https://usfans.com/product/1/895731912011?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/AO43MLa4LevtmhY9POhtwHkxsXhN3El3j208-PIU1UGz9OFMDrw9-cUZ0aBDUkM7x09JYX8xk7jRNTJ8-cLRhGOQh38bewJTq_hNDqmWTjwER4IeT04-Z1dgKXpmxVghHTK9CHjN2AqKJZ5LFy2pViMM_ZoTV4k36Pi2wX0f8Bc=w174-h140
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: PANTALONES BAGGY CORTEIZ +2 COLORES</i></b>
+💶 <b><i>PRECIO: 12€</i></b>
+🛒 <a href="https://usfans.com/product/1/974109976769?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
