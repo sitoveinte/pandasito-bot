@@ -2,30 +2,6 @@
 // Separa cada mensaje con una línea que solo tenga ---
 // Para foto: primera línea "FOTO: https://enlace-de-la-imagen.jpg" y debajo el texto.
 // Negrita <b>así</b>, enlace <a href="https://...">TEXTO</a>. Las líneas que empiezan por // no se publican.
-FOTO: https://docs.google.com/sheets-images-rt/AO43MLb8WkZYEA3sm-4WK-Jc6_YJt5oiIUL1VMVDr-uVWmRw-6iMey6_HjbaPM_QlS_dFRSgfNiJwI0jisdco3cWmMjLbMsprtMy5YkbpdiOLJyTklD5wlk90YD8gJel_Moh4-WebcijcDX8y1LB6eXx17FeC7TEBGMHENG-=w187-h140
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: PANTALONES CARGO STONE ISLAND CARGOHOSE GHOST</i></b>
-💶 <b><i>PRECIO: 21€</i></b>
-🛒 <a href="https://usfans.com/product/1/1070502223696?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://docs.google.com/sheets-images-rt/AO43MLY7_V-q1Vu0m1Si2XpvxUUlNd0LxLuMRAHMXZtw7n529S8mzihr7YL4GDxaOMQNtqmtDneRT5HocHO9CZ2tfWyNPisgpJoXysnkDhqV31nX-QMt8Zdrz8S8iXVBbmVAcw3wjf9RCisBiVtOMFryrXvnhacZUI81BgVI=w174-h123
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: SUÉTERES OFFWHITE (+10 MODELOS)</i></b>
-💶 <b><i>PRECIO: 17€</i></b>
-🛒 <a href="https://usfans.com/product/1/989071921807?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://docs.google.com/sheets-images-rt/AO43MLa4M2Uw7qMty4ZW504NQtepiSNR_Xj9e8kl-Oisrtq2iRj0_GkfxHr6cYmD7A6BRdYT1ttiVJjYL4hNiMawE9WO9OpFXlBtE9PG3EIapfdEDTdEPMMrf06RPrVfpLfa2EbK8Ybx3yawdKAQP9GkF6Bdk5nzJJe0z2yicoU=w187-h123
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: SUDADERAS OFFWHITE (+40 MODELOS)</i></b>
-💶 <b><i>PRECIO: 9$</i></b>
-🛒 <a href="https://usfans.com/product/1/960119533487?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
 FOTO: https://docs.google.com/sheets-images-rt/AO43MLa--DGvCB-eVR0e1Z9L2zRXzeAIT2zferO7UaHpIT2TmorzYRfQPGpN6IXKRcHsTpAhkFG_Wvg5Aqnlis8HU6HJI3-YjGcgvfeoB_UBad5XGiRk9jJ3dQuatv-PhYPPOC00kos9IgCN3bF5ATsPA6XgP4EEnqqZSggfX_U=w174-h123
 🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
 🔎 <b><i>NOMBRE DEL ARTÍCULO: SUÉTERES CORTEIZ (+2MODELOS)</i></b>
