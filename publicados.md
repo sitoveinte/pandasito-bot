@@ -1245,3 +1245,27 @@ FOTO: https://docs.google.com/sheets-images-rt/AO43MLa4LevtmhY9POhtwHkxsXhN3El3j
 🛒 <a href="https://usfans.com/product/1/974109976769?ref=6T2VKE">LINK DE USFANS</a>
 
 🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/AO43MLanKOeB090DnC8TMEeekWzKjQjf-DDuEZ7-x1CZJ6_PeOToqVps-TebBtmro5NI6ayYzV6sEvrGeQY1if-cf_DpuNC5U6hQk_YpDZSyI_5wUj7NM8SSx22lppK1jlNcgfjiGa4_cUuGptUpriJHpjs7_HSWVp5Zxwlk9DM=w187-h140
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: PANTALONES CORTOS ESSENTIALS +20 MODELOS</i></b>
+💶 <b><i>PRECIO: 9€</i></b>
+🛒 <a href="https://usfans.com/product/1/1029368300113?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/AO43MLbFEqjfzlUMH3D6DifrSmdpfxqsN_diE_sTE39nAAT2dYgPnAlGrkiHd6dA5o3eWOI_Gv6ELPEF0toNzqkLtVjQGYmtQJZ6pt5N6mTuPp81hIYQ9_BJ0LO3P0mt78z8OTOPUoCWnm8QDeOrrtTrZTr8ogQMjVj4vA2gn24=w174-h140
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: PANTALONES TRACK BAGGY ACG NIKE +2 COLORES</i></b>
+💶 <b><i>PRECIO: 19€</i></b>
+🛒 <a href="https://usfans.com/product/1/981596900669?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/AO43MLavOAAq_KD0NKfMb35FP_8Wv640aHHuB-2FXuIwIsLKqBEkH2D-4oSk0-gEsfH4nQigNJ3UQynSwiixSlmDZi5YAR-fT-2UCFGunc9mjSOmxBpYZMBdx8ZSzJ-idJCF0BHV82_rstPzQSJz2T-6YxNxwyovi-jfsQVy=w187-h140
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: BAÑADORES LACOSTE (+10 COLORES)</i></b>
+💶 <b><i>PRECIO: 5€</i></b>
+🛒 <a href="https://usfans.com/product/1/1040386264302?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
