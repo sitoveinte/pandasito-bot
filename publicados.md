@@ -1293,3 +1293,27 @@ FOTO: https://docs.google.com/sheets-images-rt/AO43MLbxfAAXkKYTxkf0YaMtYJ_ikMDCk
 🛒 <a href="https://usfans.com/product/1/838296040045?ref=6T2VKE">LINK DE USFANS</a>
 
 🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/AO43MLYU8R7JpdmM7PkSf8ZFQmjqBQLrwF21eUd5YbuU9Si-gLwvefdlRMWxGTIsAPZv2NR5T8KWzrd7Ru3t5iYU_7rAL-Oa6I0KEe2S8Ow6geca7hPnCb0ryVVKii5tkpGcAfiY2BsnftmzN9DQGwzOkDHvTwg1PtS5PVs-oUs=w174-h140
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: PANTALONES BAGGY CHÁNDAL STONE ISLAND</i></b>
+💶 <b><i>PRECIO: 13€</i></b>
+🛒 <a href="https://usfans.com/product/1/1072221784390?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/AO43MLYsOfYhjzS4bFOBlGEuUvO7BqBqeD0xwTLMOv6EMb4PUpiBWrxGZWFESUVNmqzNiWbQ3W4rWgpc-xIBRV8KVf5yP0JT5duD1DEs9uPCKs9oDdIeuy1uuYzqLzx7kd63rnoTHHt9X5KpETJaWTMXpwr4Y-4wNRHWoc2kBCw=w187-h140
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: PANTALONES CHÁNDAL CORTOS EVISU +2 MODELOS</i></b>
+💶 <b><i>PRECIO: 11€</i></b>
+🛒 <a href="https://usfans.com/product/1/985923528835?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/AO43MLZNWILKoYg-c_VqG6FezFEEYnVzgn888jI90ua0mpYZ-26sKxY1yPSy4Oz2NGyOKarTkcPLAn46RO41geAxXddn-OGLHcMilnzE8F_iLgxf5FKY942bltaoJ3Ch9h2NhJNRLDSpZbgcLx3FOiEPGdsAygYO3MrqKwXjhp0=w174-h140
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: PANTALONES CORTOS STONE ISLAND</i></b>
+💶 <b><i>PRECIO: 9€</i></b>
+🛒 <a href="https://usfans.com/product/1/1044062202852?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
