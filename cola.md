@@ -2,30 +2,6 @@
 // Separa cada mensaje con una línea que solo tenga ---
 // Para foto: primera línea "FOTO: https://enlace-de-la-imagen.jpg" y debajo el texto.
 // Negrita <b>así</b>, enlace <a href="https://...">TEXTO</a>. Las líneas que empiezan por // no se publican.
-FOTO: https://docs.google.com/sheets-images-rt/AO43MLZIzrhEeTCDv7nar4QATd9Lb3S2gcpDr836q1bd2Duzcbs1Bde8cAkfnZsxhHwXQYFaWAyTD62MbPlvcHBZoed7la3zBAHZ_SeDZAQWBZIOMYUHPehcf2faHGzA9yqkmIWIHvZGTDAY7apB6KGS6se55KYBOtotOrTspIw=w174-h140
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: PANTALONES CORTOS EVISU +20 MODELOS</i></b>
-💶 <b><i>PRECIO: 16€</i></b>
-🛒 <a href="https://usfans.com/product/1/1055933644748?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://docs.google.com/sheets-images-rt/AO43MLYVqsr6_KNkLmUOs7hK2N4NSVvM8fiEnwW_YP7mDFrMGhtw7jYyJRrbVqn94zsmEUBMkKbDHBm32mCgC-2l2Rgai5Fm60yGfBmxIz4lyz2-Ni10p512iUpoq1u5p17I2Ydd94HGprWITGyZ_ekd25ca5uZ2wUt7JRhMN6s=w187-h140
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: PANTALONES VAQUEROS CORTOS EVISU</i></b>
-💶 <b><i>PRECIO: 16€</i></b>
-🛒 <a href="https://usfans.com/product/1/811675357866?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://docs.google.com/sheets-images-rt/AO43MLbxfAAXkKYTxkf0YaMtYJ_ikMDCkhreZnvvCMRb5G4LAGSuDTvXjD2W_vWERfXvhE5NM7XB9UqRYscArkJ6lIHUwariQc1h_v_tUNvJBOhZUPw_cyDhy1ZRi3K60jdA-3iO5Vy8Vq2aeWIs34VN2_LoTk14Xi6ljvOfODE=w174-h140
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: PANTALONES YOUNGLA X AOT</i></b>
-💶 <b><i>PRECIO: 9€</i></b>
-🛒 <a href="https://usfans.com/product/1/838296040045?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
 FOTO: https://docs.google.com/sheets-images-rt/AO43MLYU8R7JpdmM7PkSf8ZFQmjqBQLrwF21eUd5YbuU9Si-gLwvefdlRMWxGTIsAPZv2NR5T8KWzrd7Ru3t5iYU_7rAL-Oa6I0KEe2S8Ow6geca7hPnCb0ryVVKii5tkpGcAfiY2BsnftmzN9DQGwzOkDHvTwg1PtS5PVs-oUs=w174-h140
 🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
 🔎 <b><i>NOMBRE DEL ARTÍCULO: PANTALONES BAGGY CHÁNDAL STONE ISLAND</i></b>
