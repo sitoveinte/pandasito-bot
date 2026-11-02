@@ -30,7 +30,7 @@ FOTO: https://docs.google.com/sheets-images-rt/AO43MLYSYTMMSMx-1J1D3QtydtkaS1vZv
 🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
 🔎 <b><i>NOMBRE DEL ARTÍCULO: CHAQUETA RALPH LAUREN +3 COLORES</i></b>
 💶 <b><i>PRECIO: 24€</i></b>
-🛒 <a href="https://weidian.com/item.html?itemID=7760931468">LINK DE USFANS</a>
+🛒 <a href="https://usfans.com/product/3/7760931468?ref=6T2VKE">LINK DE USFANS</a>
 
 🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
 ---
