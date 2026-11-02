@@ -1437,3 +1437,27 @@ FOTO: https://docs.google.com/sheets-images-rt/AO43MLZ-ilMOYq2dXsExHmvqXbNbRmQYA
 🛒 <a href="https://usfans.com/product/1/990436588705?ref=6T2VKE">LINK DE USFANS</a>
 
 🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/AO43MLYSYTMMSMx-1J1D3QtydtkaS1vZvKV3w9EZtJJvrtoxEwXaj8oQWHYuHtSKVc77Pqvqzi6XekyRJrCsDS40zRChBffbf4eXrzDYqsNYJAqhmrclglz8mzAZMPFcu9r5UMWq13EamU57jLjTjAbrVr8nw48GwnXopsGR=w174-h123
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: CHAQUETA RALPH LAUREN +3 COLORES</i></b>
+💶 <b><i>PRECIO: 24€</i></b>
+🛒 <a href="https://weidian.com/item.html?itemID=7760931468">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/AO43MLYpyiqTeeabZYtGjufAPaYLyiSG7ZutR63E70O6wdajmzJYobXfezp1mB0JGnWhmYJzqe0p10dUCUGw1B5V-g2Ppjoi8H5u_i_vJLcG0wpVATVcDpaG8Yn0a_FJgB3lSeRiw_8bz9X4519xjmPUlIe4ojE1i-RbpjMccxg=w187-h123
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: SUÉTER NIKE 90 X PALACE +2 COLORES</i></b>
+💶 <b><i>PRECIO: 27€</i></b>
+🛒 <a href="https://usfans.com/product/1/1004573711912?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/AO43MLZ8VFnqLDX7f5tFIjffiIPWL2ZIhfKpa9aWocKGsWs-zM7yiIXI-6TYeVEtnF04BhFuJLqsbOyZBRkwu2c2adnOVVOpQLijUkIMKJrlDP_w1x63AjbQH6gN14OMIkKaHKNN8Pc6xNpvp6yScHQHeIc_M0bvGipSUHQdUws=w174-h123
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: CHAQUETA STONE ISLAND +4 COLORES</i></b>
+💶 <b><i>PRECIO: 22€</i></b>
+🛒 <a href="https://usfans.com/product/1/1069510699512?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
