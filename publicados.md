@@ -78,14 +78,6 @@ FOTO: https://docs.google.com/sheets-images-rt/AO43MLYHrko6_e1MmdfmIPeSIbrQwVK6t
 
 🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
 ---
-FOTO: https://docs.google.com/sheets-images-rt/AO43MLYZpG4IbFOZCl0RVLI_vGRR3swhYzO2oFEqsg5apLzQai9h5J2tleoAnqP5t-ixzw0fEoYJcdy82d7fM3kP929whh77y-fqY4gjEshqhHmFU0JifOKmGVo-FQ-wzea0Jdx0NuN5JMt1bb1oZee_Pd3lNly7ebEo4DwW=w174-h152
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: PUMA SPEEDCAT +15 COLORES</i></b>
-💶 <b><i>PRECIO: 20€</i></b>
-🛒 <a href="https://usfans.com/product/1/1063329883130?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
 FOTO: https://docs.google.com/sheets-images-rt/AO43MLY42Zw69_N2u70kZZOmPX60XdfDvn9zpz9ypAFcTJ2Za0n1-4N-3V1e0RYD-vumQgIyrVLCmdqTCN2T0r4866kiLEMTdUcYNYHE6bc5aQptcVPvob1i9kANPwMzb0YfdTR2_t3PrYba9wYEHhmsWP_jlF3cnLvN0GAPJsg=w187-h152
 🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
 🔎 <b><i>NOMBRE DEL ARTÍCULO: NEW BALANCE 550</i></b>
@@ -246,22 +238,6 @@ FOTO: https://docs.google.com/sheets-images-rt/AO43MLYKXjvkVXvUlCAhDEFFjM7rt5MVh
 
 🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
 ---
-FOTO: https://docs.google.com/sheets-images-rt/AO43MLYlj2L80e9kOMVEc146XE8yj_tkIPUV5_6E2eYZd4OEO1eTgkPVbHaEFi1iV0WtWzF3myzq7t7Q8TfZck8pNr6EljkC1yVB1C6gEf3jtfLE_BH0BlfCqn1G4S6BZKNqTdlLicmonFnx9eijeJ6B6AG1jkTi75AOphJ_yUM=w174-h152
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: ONITSUKA TIGER TOKUTEN</i></b>
-💶 <b><i>PRECIO: 18€</i></b>
-🛒 <a href="https://usfans.com/product/1/1053822234599?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://docs.google.com/sheets-images-rt/AO43MLZvzKL4xxyJ9WdrEngAAbil2ega3JX8H5Uq35pkOngOEq1ZLXBYgghg8y4PMAPpoPGfdpfJCrqapUZ_sqMpitJtSEqg_iiXPCcyL8ODbO0fCCIEqO3iJ-6dwilk50CJkbgvsbY7Kvn6lvaSbJZGbDFz60fggyyqC9HStQQ=w187-h152
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: ASICS GEL-NYC</i></b>
-💶 <b><i>PRECIO: 21€</i></b>
-🛒 <a href="https://usfans.com/product/1/1060262470547?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
 FOTO: https://docs.google.com/sheets-images-rt/AO43MLZOZGx4TLjcuX0CcjZSioHZ7jvgg5mEbSU67RN_VJtZJcwQUee5fQs3sTztrBzAKa_KZLCEjHLJvuF2F_6lg_v0SNoAznLR8KZeA3-R5YFZCAw91Lo9JDDECEsQDUrRjKAK4JIpaZ_yCQPXIAQpCTODnQ_3tsV8hUvqTXM=w174-h152
 🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
 🔎 <b><i>NOMBRE DEL ARTÍCULO: MAISON MIHARA YASUHIRO</i></b>
@@ -363,14 +339,6 @@ FOTO: https://docs.google.com/sheets-images-rt/AO43MLbto0Y4tbOqN1J6gdPP3AGxQIK2T
 🔎 <b><i>NOMBRE DEL ARTÍCULO: NIKE GIANNIS IMMORTALITY 4</i></b>
 💶 <b><i>PRECIO: 23€</i></b>
 🛒 <a href="https://usfans.com/product/1/1066451608942?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://docs.google.com/sheets-images-rt/AO43MLbR_GbI0Zhn-GUOmF0Pabjedqq8r1PRlnAlQdloUg4vcd1KSazmBGTZMoAMIQGVG5JVnFdkeHDfoE8LVzfzy-iVvTyMl6mYIx4MAY7H0iSHQuwrXuWmAa1kn7T3oPchS1DmuipaEnitcLk3KMpmwdobS3hFD7NbENssJSc=w187-h152
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: NEW BALANCE 2002R</i></b>
-💶 <b><i>PRECIO: 20€</i></b>
-🛒 <a href="https://usfans.com/product/1/1038691579001?ref=6T2VKE">LINK DE USFANS</a>
 
 🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
 ---
@@ -603,14 +571,6 @@ FOTO: https://docs.google.com/sheets-images-rt/AO43MLYHBQBrETpDgfjMcPJ90trgcaZnq
 🔎 <b><i>NOMBRE DEL ARTÍCULO: NIKE VOMERO PLUS +10 MODELOS</i></b>
 💶 <b><i>PRECIO: 18€</i></b>
 🛒 <a href="https://usfans.com/product/1/1052374391292?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://docs.google.com/sheets-images-rt/AO43MLYRPAO_ZaKSRSHovS1K12FTqt8xUXdRuccEl6AR9ZlzYWKo1DSoPNrOrwX8EqjFUfFyag_paLV5LKt5qVAG-Ux3HgCRRpF3LzFBWsRju9iTSlzpGPEfY-idYGB82vXx_VytGC48Ay7GDPCOxdulGTvNSsPqZvluzZ5D=w187-h152
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: NIKE HOT STEP 2 X NOCTA +8 MODELOS</i></b>
-💶 <b><i>PRECIO: 22€</i></b>
-🛒 <a href="https://usfans.com/product/1/1062623628102?ref=6T2VKE">LINK DE USFANS</a>
 
 🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
 ---
@@ -934,14 +894,6 @@ FOTO: https://docs.google.com/sheets-images-rt/AO43MLYwZ5ZHoVKlcTqNA99Nfv7c3UENv
 
 🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
 ---
-FOTO: https://docs.google.com/sheets-images-rt/AO43MLZSp3xFxJcRQPoJrF4KrthTn-nRkX6RfEVJz_-xYV5U-9eq3CmffbC9-OI1G_8y92jFafIPt1-RDGoNiuUnPY6amc5kR8Kb9HT9FDSCUTDw0DcNb63e8adBbko2byhCoUFYVnnGCzV7zDoN5X_3cdT7Xpu0X6dXAUStv2Q=w174-h123
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: CAMISETA MARRUECOS MUNDIAL + PARCHES+ PERSONALIZABLE</i></b>
-💶 <b><i>PRECIO: 9€</i></b>
-🛒 <a href="https://usfans.com/product/1/1046039838807?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
 FOTO: https://docs.google.com/sheets-images-rt/AO43MLbb3omRjzMGRKO88MYsyNzZh5DBVpRjGCCm27M5hRvpWP2p6_gR6s_5rENQgzig1gGSn_moeYlLmtmKzYQW23Aj9eRyGaWtn_4zQF-4nV4dGMOVaSOMD3B3CTAlq_09FNjJoybS0Psjfp9FWx-CFkfqFGG4OVpyjq_Hvpo=w187-h123
 🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
 🔎 <b><i>NOMBRE DEL ARTÍCULO: CAMISETA HOLANDA MUNDIAL + PARCHES+ PERSONALIZABLE</i></b>
@@ -1134,14 +1086,6 @@ FOTO: https://docs.google.com/sheets-images-rt/AO43MLYixljqwN17zclv8ilRq57l6KC93
 
 🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
 ---
-FOTO: https://docs.google.com/sheets-images-rt/AO43MLbh2FnzXMAd-JgJN9pnVEgzxAFi8JpSzTIPF4GCw3GBIoQgKX3Kn4JRHbUWYMHtDgaRqcUHUgVlfGSiucOwM4c9J-_mIFJGi4BjDciUIGuyeCtNe5j0t-jqSsr8iHhAp1296ImgxrFOFuVxFbob5p3IhyYeh1gH_lhj=w187-h123
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: CINTA ADHESIVA SUPREME +2 COLORES</i></b>
-💶 <b><i>PRECIO: 1€</i></b>
-🛒 <a href="https://usfans.com/product/1/893033251377?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
 FOTO: https://docs.google.com/sheets-images-rt/AO43MLYmx1anuGbUNAqYg1JDGS-BeIbE7SAee16i_an60m-uH19JqYvRPgKAubaYwdbZh7DqeQ47OLuHrbPhLS8KYXlt6P5OWCldw453aP6shL4rMAIgQcsqJiBVbtEChPtI-AI-r2D0odNcn_1qsBzK_weYDse4rlyNoMkQUdU=w174-h123
 🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
 🔎 <b><i>NOMBRE DEL ARTÍCULO: CINTURONES RALPH LAUREN +6 COLORES</i></b>
@@ -1179,14 +1123,6 @@ FOTO: https://docs.google.com/sheets-images-rt/AO43MLbJrWO0ydEbQqC-TIPWkXcbU12BM
 🔎 <b><i>NOMBRE DEL ARTÍCULO: RELOJ PLATEADO OAKLEY</i></b>
 💶 <b><i>PRECIO: 20€</i></b>
 🛒 <a href="https://usfans.com/product/1/930164779880?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://docs.google.com/sheets-images-rt/AO43MLbC76FDlLZ5nAxxU83AEhLTkALL38E1lJCF_VBJVt2_lZFXAlomX6BRgj5KlRY8fCVi38yV9ncoBAe_6BeCjJCmM9eQWPAFE60Sv7qaoVEiIe6Io-qf9rzXN5EH-uY0Kt1VXckc8gZstp6-DCuRQstWzpPTmS7JgxFx=w187-h123
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: GAFAS RAYBAN (+20 MODELOS)</i></b>
-💶 <b><i>PRECIO: 7€</i></b>
-🛒 <a href="https://usfans.com/product/1/1058835335495?ref=6T2VKE">LINK DE USFANS</a>
 
 🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
 ---
@@ -1411,14 +1347,6 @@ FOTO: https://docs.google.com/sheets-images-rt/AO43MLaB2uhTzticPUbKYzJqVL3T0Sn8V
 🔎 <b><i>NOMBRE DEL ARTÍCULO: CHAQUETA BÁSICA CARHARTT +2 COLORES</i></b>
 💶 <b><i>PRECIO: 14€</i></b>
 🛒 <a href="https://usfans.com/product/1/972322440707?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://docs.google.com/sheets-images-rt/AO43MLboc-um9Z7FcG7lY0vs3U2Lo_RVI9YnlBd6TfhuT4LHxeHH9qSGFpt4UNpdsft1FEsyUx1869hKRrjqaB6BWfzBiUcGp_VldjKIAxhbTwDNX0mhS4Iv5iz_qBqWvpHDkM-Wgr683ITZOjYWNwdzMhWd8jJF1UKQVOpbvu8=w187-h123
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: SUÉTERES STUSSY +20 MODELOS</i></b>
-💶 <b><i>PRECIO: 11€</i></b>
-🛒 <a href="https://usfans.com/product/1/989048136849?ref=6T2VKE">LINK DE USFANS</a>
 
 🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
 ---
