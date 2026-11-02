@@ -1341,3 +1341,27 @@ FOTO: https://docs.google.com/sheets-images-rt/AO43MLa4M2Uw7qMty4ZW504NQtepiSNR_
 🛒 <a href="https://usfans.com/product/1/960119533487?ref=6T2VKE">LINK DE USFANS</a>
 
 🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/AO43MLa--DGvCB-eVR0e1Z9L2zRXzeAIT2zferO7UaHpIT2TmorzYRfQPGpN6IXKRcHsTpAhkFG_Wvg5Aqnlis8HU6HJI3-YjGcgvfeoB_UBad5XGiRk9jJ3dQuatv-PhYPPOC00kos9IgCN3bF5ATsPA6XgP4EEnqqZSggfX_U=w174-h123
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: SUÉTERES CORTEIZ (+2MODELOS)</i></b>
+💶 <b><i>PRECIO: 10€</i></b>
+🛒 <a href="https://usfans.com/product/1/865563627111?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/AO43MLbgSBtYWzVdcCsyDs3lTjTxW0B0vpoejEBLX7m1MhV5DlbtLLoJ_E2aXqeGW783U6-tHvI-k4tCZ8s9iB-yLS8fEV928P48BIZz1jPd0zqfXMHwOxku_YtvHnvI8hOajerCY553Dy7aueeM6VD3g3WZnK-8s36ylW-I=w187-h123
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: SUÉTERES COLE BUXTON (+5 MODELOS)</i></b>
+💶 <b><i>PRECIO: 22$</i></b>
+🛒 <a href="https://usfans.com/product/1/849689775966?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/AO43MLZ-4-OiIz4davH14JsP024RTJdYCP0nROMbR9DfU2AEU9UnU9o5DH9l2-lByRZxShkwFfO6R8NtG8xSo8e_8uV4mrIZKzrnetolhWwiwx9vrFKUo3Zun6Ppwa4YZ9dG3Gyty1DUK6hayPTmsTvLJXQnxDp3m_uV34sSOBE=w174-h123
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: SUÉTERES Y SUDADERAS REPRESENT (+30 MODELOS)</i></b>
+💶 <b><i>PRECIO: 20-25€</i></b>
+🛒 <a href="https://usfans.com/product/1/909572987263?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
