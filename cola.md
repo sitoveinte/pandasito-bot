@@ -2,30 +2,6 @@
 // Separa cada mensaje con una línea que solo tenga ---
 // Para foto: primera línea "FOTO: https://enlace-de-la-imagen.jpg" y debajo el texto.
 // Negrita <b>así</b>, enlace <a href="https://...">TEXTO</a>. Las líneas que empiezan por // no se publican.
-FOTO: https://docs.google.com/sheets-images-rt/AO43MLboc-um9Z7FcG7lY0vs3U2Lo_RVI9YnlBd6TfhuT4LHxeHH9qSGFpt4UNpdsft1FEsyUx1869hKRrjqaB6BWfzBiUcGp_VldjKIAxhbTwDNX0mhS4Iv5iz_qBqWvpHDkM-Wgr683ITZOjYWNwdzMhWd8jJF1UKQVOpbvu8=w187-h123
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: SUÉTERES STUSSY +20 MODELOS</i></b>
-💶 <b><i>PRECIO: 11€</i></b>
-🛒 <a href="https://usfans.com/product/1/989048136849?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://docs.google.com/sheets-images-rt/AO43MLZZAjxc2ryVzjbuz_OLigyzj3iJtSOz0NEzOkq82vaQ_lOW6F6BZi86AMr2eE3pcwG_5uaxBb-L49qk4vr-VB1LNJ3VJMp8NfpZHnSbm0v0PLffvC3JHWDm9NX7vd-v5PzABTA6G8Gejs54Xw0Rbj0PYVvakFyPYAVwcd0=w174-h123
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: CHAQUETA CK +2 COLORES</i></b>
-💶 <b><i>PRECIO: 22€</i></b>
-🛒 <a href="https://usfans.com/product/1/988013112202?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://docs.google.com/sheets-images-rt/AO43MLZ-ilMOYq2dXsExHmvqXbNbRmQYAXTKprOhivPpePBEIhUcdzfRtOZy4PzhYWVip2jztNPG8eGDbJwp3DwZKogqHNhwF7XoVtCOlXq8Xviw8M-thzFU6ywxZLqgAtBjatPKHhlII4187VOsorb2_h6i9Y8BbkRWXF2tisg=w187-h123
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: SUDADERAS STUSSY +30 MODELOS</i></b>
-💶 <b><i>PRECIO: 11€</i></b>
-🛒 <a href="https://usfans.com/product/1/990436588705?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
 FOTO: https://docs.google.com/sheets-images-rt/AO43MLYSYTMMSMx-1J1D3QtydtkaS1vZvKV3w9EZtJJvrtoxEwXaj8oQWHYuHtSKVc77Pqvqzi6XekyRJrCsDS40zRChBffbf4eXrzDYqsNYJAqhmrclglz8mzAZMPFcu9r5UMWq13EamU57jLjTjAbrVr8nw48GwnXopsGR=w174-h123
 🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
 🔎 <b><i>NOMBRE DEL ARTÍCULO: CHAQUETA RALPH LAUREN +3 COLORES</i></b>
