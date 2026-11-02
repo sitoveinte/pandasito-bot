@@ -2,30 +2,6 @@
 // Separa cada mensaje con una línea que solo tenga ---
 // Para foto: primera línea "FOTO: https://enlace-de-la-imagen.jpg" y debajo el texto.
 // Negrita <b>así</b>, enlace <a href="https://...">TEXTO</a>. Las líneas que empiezan por // no se publican.
-FOTO: https://docs.google.com/sheets-images-rt/AO43MLZjuQiVvN4qoq67Klk7WZ5TbC9mAAPXXy-lRFGFpYRqHJWrSmB-R0BzxNPBdmgW9AJ6UsTnFFXD-ZuFPxGPD8Cbo5jsyqw0k4lgT8WnYizVDPChhVOKB7aM9A-siKessFFFta1tM4aYluTAhtjpnmMgT3CHm6t4F7jvtiI=w187-h123
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: SUÉTERES CASABLANCA (+20 MODELOS)</i></b>
-💶 <b><i>PRECIO: 20€</i></b>
-🛒 <a href="https://usfans.com/product/1/967056180027?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://docs.google.com/sheets-images-rt/AO43MLbyKknfnQIAE2RMhSQkIzNt4A2xa1BrQ6t8rcsamE-aEnOBhH-ba8ckZh6Sbb6izyCkPU90yiRfOV_kg6_kua15FXlaoD9YdT8R6C0fNaS3fbXaUBCVnadrRF7Ogin3IXv_i4vm8F_9QYzI86_Z6SPE6kW1jVogaTUt=w174-h123
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: SUÉTERES CALVIN KLEIN (+3 MODELOS)</i></b>
-💶 <b><i>PRECIO: 14€</i></b>
-🛒 <a href="https://usfans.com/product/1/983649999356?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://docs.google.com/sheets-images-rt/AO43MLa0-GKU8rT1nhQG-_KD0ap0R-lazeBY5JXgEBYNRKHLJ2G-fi4KGMCepCU4jkPgZ9FVon1ME-YfKFMSdwI-2zYJ4LbDDC05omtngCxZnHnnsaNi-jKEiuEjDlrr7G8uSMB5idkz2fyIeePjydPRlJWw_zuKkYu1FsyGAHQ=w187-h123
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: CHAQUETA NIKE</i></b>
-💶 <b><i>PRECIO: 11€</i></b>
-🛒 <a href="https://usfans.com/product/1/891568607644?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
 FOTO: https://docs.google.com/sheets-images-rt/AO43MLbnmtyVg7TtFZ1gExq6lF_mXsEf07bbnw-2iWThZPGiCr5Yzf3jBLP8F_ceCJxoli8ZCDa-N6FIPIOcR84dGqU-IYiOTBXlCbnWlZ8KpazPXOUszobvH874hldUdZ8plyufP4CEkJSgI50dGU33Dlfx0s2XV1cGmYeO=w174-h123
 🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
 🔎 <b><i>NOMBRE DEL ARTÍCULO: SUDADERA DE ALGODÓN STUSSY BÁSICA +5 COLORES</i></b>
