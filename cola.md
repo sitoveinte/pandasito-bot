@@ -2,30 +2,6 @@
 // Separa cada mensaje con una línea que solo tenga ---
 // Para foto: primera línea "FOTO: https://enlace-de-la-imagen.jpg" y debajo el texto.
 // Negrita <b>así</b>, enlace <a href="https://...">TEXTO</a>. Las líneas que empiezan por // no se publican.
-FOTO: https://docs.google.com/sheets-images-rt/AO43MLbnmtyVg7TtFZ1gExq6lF_mXsEf07bbnw-2iWThZPGiCr5Yzf3jBLP8F_ceCJxoli8ZCDa-N6FIPIOcR84dGqU-IYiOTBXlCbnWlZ8KpazPXOUszobvH874hldUdZ8plyufP4CEkJSgI50dGU33Dlfx0s2XV1cGmYeO=w174-h123
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: SUDADERA DE ALGODÓN STUSSY BÁSICA +5 COLORES</i></b>
-💶 <b><i>PRECIO: 13€</i></b>
-🛒 <a href="https://usfans.com/product/1/987315719521?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://docs.google.com/sheets-images-rt/AO43MLaqkj9TE7g5O9SFk0DLP8ZYvjwSzhRmqlPb9I2RiR5_VV9X9JV9OIqxh6uvi0jddCcU3_NP1y9qU_X_mGNBefauhbirQS4vaz0Xfmf5wICFFjPVOiYeeWz87oBXpVl2diUTAGQ0dnwA3pDd-SYcxw9I7sznqD0KgmiElkU=w187-h123
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: CHAQUETAS FINAS NORTH FACE (+3 COLORES)</i></b>
-💶 <b><i>PRECIO: 8€</i></b>
-🛒 <a href="https://usfans.com/product/1/917575436707?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://docs.google.com/sheets-images-rt/AO43MLaB2uhTzticPUbKYzJqVL3T0Sn8VFoHAPrFg8MEXkrF-Kvy5SZHMY1dUXA1ovhy2HCNWefOK5-_bm73k0kvLKZomW0u1vOdZqJgxq4k8KNe3XfRZJCGGnFhFdfaEEQHSBPs4rnNKcvFeXS8PAA67USfwN3jguali_ebR5M=w174-h123
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: CHAQUETA BÁSICA CARHARTT +2 COLORES</i></b>
-💶 <b><i>PRECIO: 14€</i></b>
-🛒 <a href="https://usfans.com/product/1/972322440707?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
 FOTO: https://docs.google.com/sheets-images-rt/AO43MLboc-um9Z7FcG7lY0vs3U2Lo_RVI9YnlBd6TfhuT4LHxeHH9qSGFpt4UNpdsft1FEsyUx1869hKRrjqaB6BWfzBiUcGp_VldjKIAxhbTwDNX0mhS4Iv5iz_qBqWvpHDkM-Wgr683ITZOjYWNwdzMhWd8jJF1UKQVOpbvu8=w187-h123
 🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
 🔎 <b><i>NOMBRE DEL ARTÍCULO: SUÉTERES STUSSY +20 MODELOS</i></b>
