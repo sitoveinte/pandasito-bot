@@ -83,6 +83,12 @@ def api(metodo, datos, archivos=None):
         return json.load(e)
 
 
+def id_producto(texto):
+    """ID del producto (USFans o Weidian) del primer enlace del texto."""
+    m = re.search(r"usfans\.com/product/\d+/(\d+)|weidian\.com/item\.html\?itemID=(\d+)", texto)
+    return (m.group(1) or m.group(2)) if m else ""
+
+
 def portadas():
     """portadas.json: {ID de USFans: URL o nombre de archivo de la foto que va primero}."""
     try:
@@ -95,10 +101,9 @@ def portadas():
 def fotos_qc(bloque):
     """Fotos QC del producto enlazado en el mensaje, con la portada primero:
     las locales de qc/ (<ID>.jpg, <ID>_2.jpg...) si existen, si no las de USFans."""
-    m = re.search(r"usfans\.com/product/\d+/(\d+)", bloque)
-    if not m:
+    gid = id_producto(bloque)
+    if not gid:
         return []
-    gid = m.group(1)
     fotos = sorted(
         (os.path.join(QC_DIR, f) for f in os.listdir(QC_DIR) if re.fullmatch(rf"{gid}(_\d+)?\.jpg", f))
         if os.path.isdir(QC_DIR) else [],
@@ -121,8 +126,8 @@ def fotos_qc(bloque):
 def local(foto):
     """Telegram no consigue bajar las fotos QC de USFans (pesan ~5 MB y llegan como
     application/octet-stream), así que se descargan aquí, se reducen y se suben."""
-    if foto.startswith("/"):
-        return foto
+    if not foto or foto.startswith("/"):
+        return foto or None
     try:
         req = urllib.request.Request(foto, headers={"User-Agent": "Mozilla/5.0"})
         with urllib.request.urlopen(req, timeout=60) as r:
@@ -141,6 +146,24 @@ def local(foto):
         with open(ruta, "wb") as f:
             f.write(datos)
     return ruta
+
+
+_FRESCAS = None
+
+
+def foto_fresca(bloque):
+    """Los enlaces de las fotos del spreadsheet caducan: se vuelve a leer la hoja para
+    sacar el enlace actual de este producto, en tamaño grande."""
+    global _FRESCAS
+    if _FRESCAS is None:
+        try:
+            ps = productos_del_sheet(descargar_sheet())
+        except Exception as ex:
+            log(f"ERROR leyendo el spreadsheet para la foto: {ex}")
+            ps = []
+        _FRESCAS = {id_producto(x["link"]): x["foto"] for x in ps if x["foto"]}
+    foto = _FRESCAS.get(id_producto(bloque), "")
+    return re.sub(r"=w\d+-h\d+$", "=w1200", foto)
 
 
 def enviar_album(fotos, caption):
@@ -167,7 +190,8 @@ def enviar(bloque):
         foto_sheet = primera[5:].strip()
         bloque = bloque.strip()
     qc = [f for f in map(local, fotos_qc(bloque) if USAR_QC else []) if f]
-    foto_sheet = local(foto_sheet) if foto_sheet else ""
+    if foto_sheet:
+        foto_sheet = local(foto_sheet) or local(foto_fresca(bloque))
     if len(qc) > 1:
         r = enviar_album(qc, bloque)
         if r.get("ok"):
