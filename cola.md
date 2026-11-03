@@ -2,30 +2,6 @@
 // Separa cada mensaje con una línea que solo tenga ---
 // Para foto: primera línea "FOTO: https://enlace-de-la-imagen.jpg" y debajo el texto.
 // Negrita <b>así</b>, enlace <a href="https://...">TEXTO</a>. Las líneas que empiezan por // no se publican.
-FOTO: https://docs.google.com/sheets-images-rt/AO43MLa9tH4NZdsf6f5gNGzw33oYGHjKNueVKkUwgyEEdwM-2FQ39nGseK7GK_tq9e331VnGIRWmofMzZE8vmXzfkfNEq9v-ZuS8hO1JnO-5KcQ7S1QxwIHTnn7VWBJYF0_pkaZcm7wpeCeUv8DjcbWqSTkWX8WoxknPGQrA85s=w174-h123
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: SUÉTERES CP COMPANY</i></b>
-💶 <b><i>PRECIO: 10€</i></b>
-🛒 <a href="https://usfans.com/product/1/1063698463132?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://docs.google.com/sheets-images-rt/AO43MLbz-iBnvELuZsY5SAcNSe84EsoZwXpOG50Alc7QGd_6ntYTQOfNkXAaOR7vXmNGYXPLf5m_EdtLz-oWoOHsOooZ4M4HU4g4AtOjTOttAGpZTKMRM0HESFezxT5qbuhMrjtbzPJc973dEz5lC0X6tw2B2wl2CR_Ptlmicyg=w187-h123
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: CORTAVIENTOS NORTH FACE</i></b>
-💶 <b><i>PRECIO: 17€</i></b>
-🛒 <a href="https://usfans.com/product/3/7801479860?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://docs.google.com/sheets-images-rt/AO43MLYitr1D6OODzYIqgnZ57KB7ZAWlzd1-XlPI0bTZE482QWJuEo8V2TR_eKGzCCylilIA83ZSErznZOq4NVtSrATR8CpGljSN7kte0vMaqtpg4UxDC-fttoyA-P7vzqntAmA-JfaEza8_MhOid6SXUsA-U5BJvd-5l3lDLgg=w174-h123
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: CHAQUETAS DE PANA CARHARTT</i></b>
-💶 <b><i>PRECIO: 21€</i></b>
-🛒 <a href="https://usfans.com/product/1/1065290600313?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
 FOTO: https://docs.google.com/sheets-images-rt/AO43MLapaWm5_T1DOjHlyvTFef9qIbZ0hy8o62RC_qvKFJ-NqnnfWqXFeSpdEy2PLDPQ7_ZdH5tjiwjDAnPVZ5UNuy9-pT0CXFJhob3cY43OtFuq9i23_-C-43ZTQmc1lJld5dQ78vNB0MJ_8lSxznJgrZeMG8_VJZMM-gYvZoo=w187-h123
 🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
 🔎 <b><i>NOMBRE DEL ARTÍCULO: CHAQUETAS/SUDADERAS VALLEY</i></b>
