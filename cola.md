@@ -2,30 +2,6 @@
 // Separa cada mensaje con una línea que solo tenga ---
 // Para foto: primera línea "FOTO: https://enlace-de-la-imagen.jpg" y debajo el texto.
 // Negrita <b>así</b>, enlace <a href="https://...">TEXTO</a>. Las líneas que empiezan por // no se publican.
-FOTO: https://docs.google.com/sheets-images-rt/AO43MLYHlytVgzFY15yRANJFfUOiSQgXvA9bo8M_f_RA_CiNf1ZHDGSCTOhijMn0AQchqWW3vEDiUFUL7GzlhD2lUhHfFAQDhKyWc_vCrLqMwWxUFgaPfguvpub0NRBGpO_VHxjS0jeEmvR5h8vswAp_xj-osksRrBG_RTIT=w187-h123
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: CHAQUETA TECNHIQUE LACOSTE+2 COLORES</i></b>
-💶 <b><i>PRECIO: 32€</i></b>
-🛒 <a href="https://usfans.com/product/1/976648497807?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://docs.google.com/sheets-images-rt/AO43MLYmNUqZR282nWxdODm3q-tH8Clvziu-DyZSjdwFC70M4xcMaHPrhk50tFPJsihXMkyOWW6v4Wg5WvB0FDkS2oSwefSBIHjuHC_wveMAFr2lZtv4ijkjD_erbQ5zsvsc97rI4bEVeeAuEEuPWUJzEQ6ap2qq_mveszDMcZw=w174-h123
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: SUÉTERES CP COMPANY</i></b>
-💶 <b><i>PRECIO: 11€</i></b>
-🛒 <a href="https://usfans.com/product/1/996760298160?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://docs.google.com/sheets-images-rt/AO43MLZV1j1_-4O-fuWhCb2f1QWFlInkRtDEV8TuQYDF8hmbPZcigk3owQdQekpWY5lQhjSx2-iTB3Nsy9KnoCKAwtAeYn22T2SKSDyXPvNiRE33i0lnxICrTNDsYveuKcgs44Kl7ONTj8EelY7rIJh7Dh0bRmEkUrEq_VG4Y38=w187-h123
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: CORTAVIENTOS NIKE</i></b>
-💶 <b><i>PRECIO: 10€</i></b>
-🛒 <a href="https://usfans.com/product/1/1052122839510?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
 FOTO: https://docs.google.com/sheets-images-rt/AO43MLa9tH4NZdsf6f5gNGzw33oYGHjKNueVKkUwgyEEdwM-2FQ39nGseK7GK_tq9e331VnGIRWmofMzZE8vmXzfkfNEq9v-ZuS8hO1JnO-5KcQ7S1QxwIHTnn7VWBJYF0_pkaZcm7wpeCeUv8DjcbWqSTkWX8WoxknPGQrA85s=w174-h123
 🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
 🔎 <b><i>NOMBRE DEL ARTÍCULO: SUÉTERES CP COMPANY</i></b>
