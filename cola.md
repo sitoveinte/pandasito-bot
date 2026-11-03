@@ -2,30 +2,6 @@
 // Separa cada mensaje con una línea que solo tenga ---
 // Para foto: primera línea "FOTO: https://enlace-de-la-imagen.jpg" y debajo el texto.
 // Negrita <b>así</b>, enlace <a href="https://...">TEXTO</a>. Las líneas que empiezan por // no se publican.
-FOTO: https://docs.google.com/sheets-images-rt/AO43MLapaWm5_T1DOjHlyvTFef9qIbZ0hy8o62RC_qvKFJ-NqnnfWqXFeSpdEy2PLDPQ7_ZdH5tjiwjDAnPVZ5UNuy9-pT0CXFJhob3cY43OtFuq9i23_-C-43ZTQmc1lJld5dQ78vNB0MJ_8lSxznJgrZeMG8_VJZMM-gYvZoo=w187-h123
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: CHAQUETAS/SUDADERAS VALLEY</i></b>
-💶 <b><i>PRECIO: 11€</i></b>
-🛒 <a href="https://usfans.com/product/1/1079711486867?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://docs.google.com/sheets-images-rt/AO43MLbINsQ2diq2FSWHhUJD7VRTMC039yZcVZAo4AZVTSETcPgFwieSZgY2qHvhxHfAZilLl2j0cGpPQ0wlv5W1rrmriIbGODajDObf8bG83Qkv_wn4XCYCkLQ1TqtO4yFe-vwGzNnmJA0WHRLAzCo6jPV1aH5Uidt88xhj=w174-h123
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: CHAQUETA DE CUERO RALPH LAUREN</i></b>
-💶 <b><i>PRECIO: 30€</i></b>
-🛒 <a href="https://usfans.com/product/1/1040272095520?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://docs.google.com/sheets-images-rt/AO43MLbfijV_djQkkrOE6ZNGhO1QFr_PoAPZ37prUsfuW9XjXaA87U44or6Hfd_bhCbjJraYBHexpMI7v75A250iCkkAjDCYqTmJUzM5uyky6ZipgS3x2oOMO6MxPOVFf2BjSX4cmG_ybPPEZwPJ94yLf9DS_ufAUHDvdKDDOU0=w174-h123
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: SUÉTERES GALLERY DEPT (+30 MODELOS)</i></b>
-💶 <b><i>PRECIO: 10€</i></b>
-🛒 <a href="https://usfans.com/product/1/1010342891389?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
 FOTO: https://docs.google.com/sheets-images-rt/AO43MLZOdbukoGys5_Hm-PhyeWlOgP06KZY5cFhKmtgrdbdCZCXloLmkK_qf_AZAho9QaHDKtwaTLWevjToCFJ8hUD4Dfr0N8xEsmrqRj4PBsN3inMMXWSVQ1nrMVKNveTv0kpVareFNGs2eX1mkoQYoO2WqX8k_hSmFo6PtEGY=w187-h123
 🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
 🔎 <b><i>NOMBRE DEL ARTÍCULO: SUDADERAS RHUDE +30 MODELOS</i></b>
