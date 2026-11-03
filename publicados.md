@@ -1557,3 +1557,27 @@ FOTO: https://docs.google.com/sheets-images-rt/AO43MLbbeiqQOtl8kpWoFqynYjXQzF4Zr
 🛒 <a href="https://usfans.com/product/1/969848928783?ref=6T2VKE">LINK DE USFANS</a>
 
 🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/AO43MLY1ffWzcaSWFMF1QUYEOpuCNFJk5yXjyHbr2dHxX9TAYfDBqnnONdeQMhgevG9mxeiEg_b0PRcR5ivS_gY19QMTAMMx0jqfSP6vPAEiTUl1HL3MkOZ8UTXqusYH5riAh1aVxaLPoHF0cIJ72vEU2UbriVuNJLNZSh6W=w174-h123
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: CONJUNTOS CORTOS CASABLANCA (+10 MODELOS)</i></b>
+💶 <b><i>PRECIO: 25-38€</i></b>
+🛒 <a href="https://usfans.com/product/1/959507996066?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/AO43MLYnzPwFOfyZ6ATvuYdGp6fgTnS7dWQ1RWbogRL-XhZ3v89I2YhVZ45zBOPY6zLhNxVX379VLlkuEfacxCj5Zh9rW_ycyY7vDMwbORgS3Cs7ycbXkW8nebF6Y0xfUJUF3Y9amTTTfdN3KQrOZDCdC-9iDRhak7FH0ZNcymE=w143-h123
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: CONJUNTO NIKE 90 X PALACE +2 COLORES</i></b>
+💶 <b><i>PRECIO: 36-40€</i></b>
+🛒 <a href="https://usfans.com/product/1/1030804972407?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/AO43MLbmB3j22UMRbwieLWt1NOQSQ6aVZr0GAJpG6sRIls8rSRd1KBQMUikAM0-TbCwSZAgsJwccGvEuf9wJrcXW-OXp6EOuvQEt-PrgdVtkMVOtVtyXbGehFosNwLM5vnPLr4nUqwILyNlTItWSdA5K751_lZG1XP7O73ja=w174-h123
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: NIKE NOCTA TECH (+2 COLORES)</i></b>
+💶 <b><i>PRECIO: 22€</i></b>
+🛒 <a href="https://usfans.com/product/1/966426530936?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
