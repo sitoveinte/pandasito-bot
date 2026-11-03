@@ -2,30 +2,6 @@
 // Separa cada mensaje con una línea que solo tenga ---
 // Para foto: primera línea "FOTO: https://enlace-de-la-imagen.jpg" y debajo el texto.
 // Negrita <b>así</b>, enlace <a href="https://...">TEXTO</a>. Las líneas que empiezan por // no se publican.
-FOTO: https://docs.google.com/sheets-images-rt/AO43MLZOdbukoGys5_Hm-PhyeWlOgP06KZY5cFhKmtgrdbdCZCXloLmkK_qf_AZAho9QaHDKtwaTLWevjToCFJ8hUD4Dfr0N8xEsmrqRj4PBsN3inMMXWSVQ1nrMVKNveTv0kpVareFNGs2eX1mkoQYoO2WqX8k_hSmFo6PtEGY=w187-h123
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: SUDADERAS RHUDE +30 MODELOS</i></b>
-💶 <b><i>PRECIO: 13€</i></b>
-🛒 <a href="https://usfans.com/product/1/969876636348?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://docs.google.com/sheets-images-rt/AO43MLYM4PXE10blXFy7VvNkUb6Uyd53ofEDkSZpZ8KFur9N6Pi8T1s8pMCZ8_HWYuK-WF63sKjDhS81OrtB5RdqJAbdhybm_wQ4cHHcNJDuUJbj3HFO3745gAumi2Bl2jfrEeK2irnsLOpjPQJguiyXmIQ60b5KA6J2VVw8TT0=w174-h123
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: SUDADERAS REPRESENT +20 MODELOS</i></b>
-💶 <b><i>PRECIO: 13€</i></b>
-🛒 <a href="https://usfans.com/product/1/979113749951?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://docs.google.com/sheets-images-rt/AO43MLbbeiqQOtl8kpWoFqynYjXQzF4ZrqnqwxyrF-Y-1Ls1VEbB3mVK763j6g5pzbhWQNlgxCuN7tJOo5x8cT5N02IMVEjKHGqHhKMpI9Hb4Jx-Iw5--eH3vP-pGM37aVpqUZpaWeMf6b0FRME2pZEIO5Gx-HycsudmE_ioH1k=w187-h123
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: SUDADERAS CASABLANCA +10 MODELOS</i></b>
-💶 <b><i>PRECIO: 12€</i></b>
-🛒 <a href="https://usfans.com/product/1/969848928783?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
 FOTO: https://docs.google.com/sheets-images-rt/AO43MLY1ffWzcaSWFMF1QUYEOpuCNFJk5yXjyHbr2dHxX9TAYfDBqnnONdeQMhgevG9mxeiEg_b0PRcR5ivS_gY19QMTAMMx0jqfSP6vPAEiTUl1HL3MkOZ8UTXqusYH5riAh1aVxaLPoHF0cIJ72vEU2UbriVuNJLNZSh6W=w174-h123
 🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
 🔎 <b><i>NOMBRE DEL ARTÍCULO: CONJUNTOS CORTOS CASABLANCA (+10 MODELOS)</i></b>
