@@ -1629,3 +1629,27 @@ FOTO: https://docs.google.com/sheets-images-rt/AO43MLa07ML5qCci-1LsvXdYjwoD7hcMt
 🛒 <a href="https://usfans.com/product/1/1045539247607?ref=6T2VKE">LINK DE USFANS</a>
 
 🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/AO43MLaQCMul05TJEush5KOpb_BL9K3GjJi8VLLZzxKNB7Zbw8CNKA2sVnzjpTwHRTraTDlMBG0nS23PoMGZXubMXq60vueL_-2jCnzdutFaLXKC9g__JlP8RsW_QiCMBIQdwxTiEdmbgbkZPKsl_HqhhF71spfdv6wxp1g8yLk=w174-h123
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: TANGAS CK (+5 MODELOS)</i></b>
+💶 <b><i>PRECIO: 4€ x 3uds</i></b>
+🛒 <a href="https://usfans.com/product/1/967601119683?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/AO43MLYBAekqaJclBTGGgdDfbnDQX2DaaJ8qbQSfG-oSgGqMyyBF2cJR14be052XkWmz0jTNIFyrENolJqjozE_BRqIxFCmNqfNMXYw1Mo3qu2afDNc2ps6kVnydvLaLakZQYlynAfnVVL8JqdV0rAkfZ7gzk2ctMSIWmCpXfJg=w187-h123
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: SUJETADOR + BRAGAS CK (+3 COLORES)</i></b>
+💶 <b><i>PRECIO: 4€</i></b>
+🛒 <a href="https://usfans.com/product/1/972738501632?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/AO43MLZwiesP_tumec1AiXfdLnoUPENG_AMOLKxxU3EeHKlRnLWb6zedt0zzcWkzXlqaiYpYi5xna_qbmlsnp-kNvMhVYzA9bU2QURc6p9ZToeELFLc4U-OweRt3docrWL4CWDQZhhgzK-el7qgdz4sFlAm-hR6ubK1wu1C6bfQ=w174-h123
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: CAMISETAS INTERIORES CK (+3 COLORES)</i></b>
+💶 <b><i>PRECIO: 6€ x 3uds</i></b>
+🛒 <a href="https://usfans.com/product/1/967601119683?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
