@@ -2,30 +2,6 @@
 // Separa cada mensaje con una línea que solo tenga ---
 // Para foto: primera línea "FOTO: https://enlace-de-la-imagen.jpg" y debajo el texto.
 // Negrita <b>así</b>, enlace <a href="https://...">TEXTO</a>. Las líneas que empiezan por // no se publican.
-FOTO: https://docs.google.com/sheets-images-rt/AO43MLZ0CsDm3xVMK0Q0AkjJxICVFkVnKL3zaPJBx0dHXybnwo-xk84Gm8deJ-Q_Y5JpqgptHv18TdWWCefdXnvnqCE0st4tj5CfbQBr1SBHwywKGB9xVMK59nbY28fzg5Ptw_d9TJnQadjr-XWwXf-AYtOPRvs5Fuws7lRy=w174-h123
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: NIKE NOCTA CONJUNTO +2 COLORES</i></b>
-💶 <b><i>PRECIO: 19€</i></b>
-🛒 <a href="https://usfans.com/product/1/974685611378?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://docs.google.com/sheets-images-rt/AO43MLbUk0X1j8RMb7HwEtmUHCLN0IReetMOE3dRJvtsPUITq5VPVembiUeRawFHtG_G-oUtxx-LKbCNIajuPEUHpTN8GzXjiY-PT3JyzfsfEXakEfYeOLZtW8RQp5E6uLpEQg1bNSrA7-hnoYvFe4kEYSDImm0fgbZOdVtcOdQ=w187-h123
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: CONJUNTOS CORTAVIENTOS LACOSTE</i></b>
-💶 <b><i>PRECIO: 30€</i></b>
-🛒 <a href="https://usfans.com/product/1/1081838391704?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://docs.google.com/sheets-images-rt/AO43MLa07ML5qCci-1LsvXdYjwoD7hcMtH4Grbq6lLOs9kcOVxX9pS9edJEw2fkWN-o_E_iWhSFN2ZOeE1XYN8DGfCtLy_E9nZ78_7F7wgVvs4QCJkL7_pYeJuXSdD6MEUEVMPO0XHkSl9pwU2t5_zB37cK9cvuA59dOhNya37U=w174-h123
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: CHAQUETAS Y PANTALONES VINTAGE NIKE</i></b>
-💶 <b><i>PRECIO: 9-13€</i></b>
-🛒 <a href="https://usfans.com/product/1/1045539247607?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
 FOTO: https://docs.google.com/sheets-images-rt/AO43MLaQCMul05TJEush5KOpb_BL9K3GjJi8VLLZzxKNB7Zbw8CNKA2sVnzjpTwHRTraTDlMBG0nS23PoMGZXubMXq60vueL_-2jCnzdutFaLXKC9g__JlP8RsW_QiCMBIQdwxTiEdmbgbkZPKsl_HqhhF71spfdv6wxp1g8yLk=w174-h123
 🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
 🔎 <b><i>NOMBRE DEL ARTÍCULO: TANGAS CK (+5 MODELOS)</i></b>
