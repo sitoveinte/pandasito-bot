@@ -2,30 +2,6 @@
 // Separa cada mensaje con una línea que solo tenga ---
 // Para foto: primera línea "FOTO: https://enlace-de-la-imagen.jpg" y debajo el texto.
 // Negrita <b>así</b>, enlace <a href="https://...">TEXTO</a>. Las líneas que empiezan por // no se publican.
-FOTO: https://docs.google.com/sheets-images-rt/AO43MLajyqbJkFQ6YlBB33s_TSI8QInN-pTsENJiuBeg4ugZ_EG1ACb1kyO8ozpui5hGpsXjdgpsITQ_InH3UAAzCAIVORvBhR1b8D4h_j2Nt8LRb04tigrZYEnBhLOZXv6ekfl8iH8ooutlxcDeafRjJDQd4dpAXfAZ_TATkbQ=w187-h123
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: CINTURONES CELINE +5 COLORES</i></b>
-💶 <b><i>PRECIO: 4€</i></b>
-🛒 <a href="https://usfans.com/product/1/855948383383?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://docs.google.com/sheets-images-rt/AO43MLamxEuiBCt5fwmJJpzDikMeWQzq0nT4DMB8cBeUFWA5qDOozpkoG3St581ndOB285rHMLbcGuWumWh7tIQ2CINUxNtglyIwiOmRrEzumgmP-LipcXMypo-W4KMDaOYOqbJhkMbXHfte9tobGQjMRhc6AGtIl7B212uFHgc=w187-h123
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: SUÉTER ALO +3 COLORES</i></b>
-💶 <b><i>PRECIO: 18€</i></b>
-🛒 <a href="https://usfans.com/product/1/1005106196702?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://docs.google.com/sheets-images-rt/AO43MLZoiBHtazo_aIjPLJcaKcOcYAhNskvWYln0285KmmID8_0qjuzv-1tYxiMzcUqHCWnoV1uFmHAQQAdRs0wzEboo2jyzxanmGDkWUTlLf5z3Y-cSdYaNiIn-NgXbcapX7-1mdtLfwy5bASoMOidEU73R1o4l5_qXM5ij=w174-h123
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: CAMISAS AMI PARIS (+30 MODELOS)</i></b>
-💶 <b><i>PRECIO: 11€</i></b>
-🛒 <a href="https://usfans.com/product/1/917715638430?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
 FOTO: https://docs.google.com/sheets-images-rt/AO43MLb6aCSb7Yub1TMrNOwMi4lB-ksq10JADtpvwN9uFRPYFQqzxVn2XUZnlciDHMDMJFXqL1NsGJi5opnYpWm5vdwVlIAQJcKVaPq5abpp-KIIzQAd5v_CI1RSCA-2EqwrFXYlqxvf2COG_VBjy-dGtQND6RTN69m7AhAt=w187-h123
 🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
 🔎 <b><i>NOMBRE DEL ARTÍCULO: CAMISETAS CORTEIZ +2 COLORES</i></b>
