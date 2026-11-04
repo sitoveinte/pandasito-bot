@@ -2,30 +2,6 @@
 // Separa cada mensaje con una línea que solo tenga ---
 // Para foto: primera línea "FOTO: https://enlace-de-la-imagen.jpg" y debajo el texto.
 // Negrita <b>así</b>, enlace <a href="https://...">TEXTO</a>. Las líneas que empiezan por // no se publican.
-FOTO: https://docs.google.com/sheets-images-rt/AO43MLb6aCSb7Yub1TMrNOwMi4lB-ksq10JADtpvwN9uFRPYFQqzxVn2XUZnlciDHMDMJFXqL1NsGJi5opnYpWm5vdwVlIAQJcKVaPq5abpp-KIIzQAd5v_CI1RSCA-2EqwrFXYlqxvf2COG_VBjy-dGtQND6RTN69m7AhAt=w187-h123
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: CAMISETAS CORTEIZ +2 COLORES</i></b>
-💶 <b><i>PRECIO: 9€</i></b>
-🛒 <a href="https://usfans.com/product/1/1016965225237?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://docs.google.com/sheets-images-rt/AO43MLYf57adi4R06-AcGskEItl3xkKYXCTV7Iu4zihePiymwi7nCCAGVhRKeLg-BEsew-rXffrYkGcKWoySEbpWJrMAflQiq1omtaO6LUD_viaV1uA6LEAMmAdWAAo9X4sQaTmqCg6QOtTpaYD-NuYBgCCm72QWh-IpZHDa4vs=w174-h123
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: POLO DE PUNTO RALPH LAUREN (+10 COLORES)</i></b>
-💶 <b><i>PRECIO: 11€</i></b>
-🛒 <a href="https://usfans.com/product/1/922735297471?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://docs.google.com/sheets-images-rt/AO43MLY-FD8BJFNYNPRAkBRnr418_BfRgSJ6StK4fGKo-ME-XQrtN79Pira5KL4-ioRPwZyRYS0koZZoNXMNF0a_hnd1ZUIMRLoYfSO38Q_cbnAhEhAeGJY9_SK_v51QM8kxr4-nBT38udm514K1j0Gd0E0yadu1OCd_sfG-Ytw=w187-h123
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: CAMISETAS CORTEIZ +40 MODELOS</i></b>
-💶 <b><i>PRECIO: 7€</i></b>
-🛒 <a href="https://usfans.com/product/1/1016716101294?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
 FOTO: https://docs.google.com/sheets-images-rt/AO43MLZJXhsz2qgS6jwGerU3RDEm9FVqQZCxw3r3RqMSZ9v0V1yi_VCnJG8K328Oow2OW7zZONGijRogrRkswFyW79dKQo07jEpNy2w4i-biwtKTzLJ3vVXrSPRUGCodb-ngtDXN_L8DDKb0rfCVnFpsVTBJ35IY-yB8oOPcWHA=w174-h123
 🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
 🔎 <b><i>NOMBRE DEL ARTÍCULO: CAMISETA LV (+40 MODELOS)</i></b>

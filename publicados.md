@@ -1677,3 +1677,27 @@ FOTO: https://docs.google.com/sheets-images-rt/AO43MLZoiBHtazo_aIjPLJcaKcOcYAhNs
 🛒 <a href="https://usfans.com/product/1/917715638430?ref=6T2VKE">LINK DE USFANS</a>
 
 🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/AO43MLb6aCSb7Yub1TMrNOwMi4lB-ksq10JADtpvwN9uFRPYFQqzxVn2XUZnlciDHMDMJFXqL1NsGJi5opnYpWm5vdwVlIAQJcKVaPq5abpp-KIIzQAd5v_CI1RSCA-2EqwrFXYlqxvf2COG_VBjy-dGtQND6RTN69m7AhAt=w187-h123
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: CAMISETAS CORTEIZ +2 COLORES</i></b>
+💶 <b><i>PRECIO: 9€</i></b>
+🛒 <a href="https://usfans.com/product/1/1016965225237?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/AO43MLYf57adi4R06-AcGskEItl3xkKYXCTV7Iu4zihePiymwi7nCCAGVhRKeLg-BEsew-rXffrYkGcKWoySEbpWJrMAflQiq1omtaO6LUD_viaV1uA6LEAMmAdWAAo9X4sQaTmqCg6QOtTpaYD-NuYBgCCm72QWh-IpZHDa4vs=w174-h123
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: POLO DE PUNTO RALPH LAUREN (+10 COLORES)</i></b>
+💶 <b><i>PRECIO: 11€</i></b>
+🛒 <a href="https://usfans.com/product/1/922735297471?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/AO43MLY-FD8BJFNYNPRAkBRnr418_BfRgSJ6StK4fGKo-ME-XQrtN79Pira5KL4-ioRPwZyRYS0koZZoNXMNF0a_hnd1ZUIMRLoYfSO38Q_cbnAhEhAeGJY9_SK_v51QM8kxr4-nBT38udm514K1j0Gd0E0yadu1OCd_sfG-Ytw=w187-h123
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: CAMISETAS CORTEIZ +40 MODELOS</i></b>
+💶 <b><i>PRECIO: 7€</i></b>
+🛒 <a href="https://usfans.com/product/1/1016716101294?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
