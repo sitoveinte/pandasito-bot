@@ -2,30 +2,6 @@
 // Separa cada mensaje con una línea que solo tenga ---
 // Para foto: primera línea "FOTO: https://enlace-de-la-imagen.jpg" y debajo el texto.
 // Negrita <b>así</b>, enlace <a href="https://...">TEXTO</a>. Las líneas que empiezan por // no se publican.
-FOTO: https://docs.google.com/sheets-images-rt/AO43MLYmsLGEZK2ktpG7_IpRB5vZ9b2Trl9WUOIwNRJ_55QMWx4lrSszDyktdkh5QD8qkAQrPVa7W2k_5cyhTkADycMvRI-0Go1i5-K1gqkImGpj3QiNAbXj5ZPWlNYvScuZvPMLIleb2o_wBVFq2Tuss6BxOG9ccWYhe9c9=w187-h123
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: CONJUNTO GUCCI NEGRO</i></b>
-💶 <b><i>PRECIO: 12€/PIEZA</i></b>
-🛒 <a href="https://usfans.com/product/1/1049935684568?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://docs.google.com/sheets-images-rt/AO43MLbUIuYj3MtUc9mk9gnr7ihaCrviiscPZdEWe2AivMWRmjtxyCO066CGl7zmdTG5okvpbuW15cw4tz04T8rB34JHXmwJ5Yb9KJ0QixM-M4D5uxzI_-603rCQFNGyXEzALu6kb4ImDAwYR6_v9ZPSXwiFpuOxz3ONeY3t1nw=w174-h123
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: TRACKSUIT JORDAN (+2 COLORES)</i></b>
-💶 <b><i>PRECIO: 21€</i></b>
-🛒 <a href="https://usfans.com/product/1/1033945844358?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://docs.google.com/sheets-images-rt/AO43MLaXF3eUgOxKCq-RSFGcWAPR7fPLCvX5EckpwSCszxoxL52UoGtLq6GekXfUmjKXWjU8Tha_4loI3MncwQymRgpSi5infpq6jrJUt_Ffd5dQfW1Ql5-_dEvC3RKfvPMWK7rnPDjLGMtYXCMp7JHXVWsFT_zqB7oJIe-E=w187-h123
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: CONJUNTOS CP COMPANY</i></b>
-💶 <b><i>PRECIO: 24€</i></b>
-🛒 <a href="https://usfans.com/product/1/996760298160?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
 FOTO: https://docs.google.com/sheets-images-rt/AO43MLZ0CsDm3xVMK0Q0AkjJxICVFkVnKL3zaPJBx0dHXybnwo-xk84Gm8deJ-Q_Y5JpqgptHv18TdWWCefdXnvnqCE0st4tj5CfbQBr1SBHwywKGB9xVMK59nbY28fzg5Ptw_d9TJnQadjr-XWwXf-AYtOPRvs5Fuws7lRy=w174-h123
 🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
 🔎 <b><i>NOMBRE DEL ARTÍCULO: NIKE NOCTA CONJUNTO +2 COLORES</i></b>
