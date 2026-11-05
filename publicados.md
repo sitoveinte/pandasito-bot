@@ -1725,3 +1725,27 @@ FOTO: https://docs.google.com/sheets-images-rt/AO43MLblmnSe5oq2t78vv-E9eCNzOfaZ-
 🛒 <a href="https://usfans.com/product/1/998227432030?ref=6T2VKE">LINK DE USFANS</a>
 
 🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/AO43MLac501XGnq3D51hq41h9ey2FgQ6qgBsleDQGNqqx-pWFY5QAd9QFUV2TI4Rm8HFmGs2pJOc0e2_4sb8jko1zfG0BEq1MfoI31VqG4bDLlnTaymo4H6zMDY6JpX6EEdNJPShxFAmx1sJ91y_j-H-9kIg-bTZv2nK5RrL=w187-h123
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: CAMISETAS STUSSY +50 MODELOS</i></b>
+💶 <b><i>PRECIO: 6€</i></b>
+🛒 <a href="https://usfans.com/product/1/988585317545?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/AO43MLZo4HWtXGNLFIwZavDygZHsozZIgPlYYG-Ff6_8mKj133cySy_2GsnmE5L1e04WJ8rMRZ7p-sz51OFoVQJPcCAlvO7hIW80fThsEtQnm4BBWVAhSXkpoWcLuZUnIPuFs1IwIKwh9Dmd4oflanWpRhlfFQik9njPf0DAyTU=w174-h123
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: POLOS RALPH LAUREN +15 COLORES</i></b>
+💶 <b><i>PRECIO: 10€</i></b>
+🛒 <a href="https://usfans.com/product/1/946902962485?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/AO43MLYB0Jr2LLdFz0mvVriyd7d3-LU4f_wdrNeUExPwvisgrpOcpzvcgYj8av6lW7vikTSOfkf0X9eizZuPwQW8ve_0O8z64hllUdLOoQ_O1ZM0iwdxlVgsrW8BA-BOGs1HQxdhomiMEKcmvIliTj-4FCOoL6usKU3NlysjeoQ=w187-h123
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: CAMISETAS SIN MANGAS CP COMPANY +4 COLORES</i></b>
+💶 <b><i>PRECIO: 7€</i></b>
+🛒 <a href="https://usfans.com/product/1/945313139261?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
