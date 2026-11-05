@@ -2,30 +2,6 @@
 // Separa cada mensaje con una línea que solo tenga ---
 // Para foto: primera línea "FOTO: https://enlace-de-la-imagen.jpg" y debajo el texto.
 // Negrita <b>así</b>, enlace <a href="https://...">TEXTO</a>. Las líneas que empiezan por // no se publican.
-FOTO: https://docs.google.com/sheets-images-rt/AO43MLZJXhsz2qgS6jwGerU3RDEm9FVqQZCxw3r3RqMSZ9v0V1yi_VCnJG8K328Oow2OW7zZONGijRogrRkswFyW79dKQo07jEpNy2w4i-biwtKTzLJ3vVXrSPRUGCodb-ngtDXN_L8DDKb0rfCVnFpsVTBJ35IY-yB8oOPcWHA=w174-h123
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: CAMISETA LV (+40 MODELOS)</i></b>
-💶 <b><i>PRECIO: 10€</i></b>
-🛒 <a href="https://usfans.com/product/1/901851092469?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://docs.google.com/sheets-images-rt/AO43MLbn-7xK0kDJWUD0V2IkGdEgRjlNJ08r0HBBNhD_Zg-MPkfRh_IZeUUEdaFnK9XZyHpZDTaNLkBoDtYSh3Acs8Ndocs9h-8PDHmNTu0jEODESZanP2KM9cnmEoy1VQ0phzMx3OqYhQjsURxHZtQ22lIJP5f-A1zM83rA3H0=w187-h123
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: CAMISETAS STUSSY +40 MODELOS</i></b>
-💶 <b><i>PRECIO: 6€</i></b>
-🛒 <a href="https://usfans.com/product/1/987872482640?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://docs.google.com/sheets-images-rt/AO43MLblmnSe5oq2t78vv-E9eCNzOfaZ-CZ5TFgO7KSB-KFrBD_aIDP6IObp-T5e29Pynqv-0nlyljIB6_fryNBmlBrSO988r8YTs2-igl8xjcL0U6qyyWCfAubDtuPGPVaEuIOztzXwMGSlbXt9zbCqQ8JpKGQggrMzT62njQc=w174-h123
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: CAMISETA LV (+50 MODELOS)</i></b>
-💶 <b><i>PRECIO: 8€</i></b>
-🛒 <a href="https://usfans.com/product/1/998227432030?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
 FOTO: https://docs.google.com/sheets-images-rt/AO43MLac501XGnq3D51hq41h9ey2FgQ6qgBsleDQGNqqx-pWFY5QAd9QFUV2TI4Rm8HFmGs2pJOc0e2_4sb8jko1zfG0BEq1MfoI31VqG4bDLlnTaymo4H6zMDY6JpX6EEdNJPShxFAmx1sJ91y_j-H-9kIg-bTZv2nK5RrL=w187-h123
 🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
 🔎 <b><i>NOMBRE DEL ARTÍCULO: CAMISETAS STUSSY +50 MODELOS</i></b>
