@@ -1749,3 +1749,27 @@ FOTO: https://docs.google.com/sheets-images-rt/AO43MLYB0Jr2LLdFz0mvVriyd7d3-LU4f
 🛒 <a href="https://usfans.com/product/1/945313139261?ref=6T2VKE">LINK DE USFANS</a>
 
 🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/AO43MLajBezlyT6q0_43G1wLRi-V45YRunVz3EI604LVsqkZQ9AcnI7lmxwCVojb8fJaunXaex0D99NwNKi_wAeKoUA7YQvZeQMLL0Ap6wh3r-jle-1Yc_L20W79TzhkTK7AeCZY5CeRNQ0g9hCrOzaZWOT2nPOn7kTmOIqt=w174-h123
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: CAMISETAS BALENCIAGA +30 MODELOS</i></b>
+💶 <b><i>PRECIO: 10€</i></b>
+🛒 <a href="https://usfans.com/product/1/1007421454191?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/AO43MLYAYUiub-0mx4qlk4l3FidcxN9_IH0oVCsTksJuPXx9ib3TM7baoRazV68aLs-dUGe5THyCKbftQN7wfcwKD9XkNSItLIxnz2FLksD7NTIkgNv2-daqhN2o5JXefonKq3AmqZ_rP3FlEp6dODuM4mdPkSJfYX3O1mfc=w187-h123
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: CAMISETAS RALPH LAUREN BÁSICAS +10 COLORES</i></b>
+💶 <b><i>PRECIO: 7€</i></b>
+🛒 <a href="https://usfans.com/product/1/1020903387415?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/AO43MLa-wgMEBufwYV_RHkTPz00tbZI3OS_OByl5iNKHbewsGpewX54FChXmVJ2Ic2nAyqS6GMnUXBC_vZq4LQSluIOwUKkox8YgqYJMS11jJ8NF4JEC6THVf-duvX83Vvk02wHFSSIhKp7gKW81_W7BoL87UN2KJAQ_yn3SJz4=w174-h123
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: CAMISETAS BALENCIAGA +2 MODELOS</i></b>
+💶 <b><i>PRECIO: 11€</i></b>
+🛒 <a href="https://usfans.com/product/1/1047291075774?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
