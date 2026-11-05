@@ -2,30 +2,6 @@
 // Separa cada mensaje con una línea que solo tenga ---
 // Para foto: primera línea "FOTO: https://enlace-de-la-imagen.jpg" y debajo el texto.
 // Negrita <b>así</b>, enlace <a href="https://...">TEXTO</a>. Las líneas que empiezan por // no se publican.
-FOTO: https://docs.google.com/sheets-images-rt/AO43MLa-HJTgoZwxJONSG_amJZAz1Yyd6mcLqIpx8dL0EI678w9vtWctdq5fMaeS58bXpu774sGc401oNsmedfF4ycx2pnyTjJH6u9J0Zwog3XoiMzP6qpw7AsHJ2XFaowhNNgoVWHVuWhNzbcmw4dHgkLhoScJJGqzVClmXTXI=w174-h123
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: CAMISETAS COLD CULTURE +10 MODELOS</i></b>
-💶 <b><i>PRECIO: 8€</i></b>
-🛒 <a href="https://usfans.com/product/1/1049606724212?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://docs.google.com/sheets-images-rt/AO43MLZ1i6cVYUIzQeVigCvooVRs8QejuPuA6z7cLfXjiB2Wgn4J8UhpXSoSe4JDSv6f48KoTjniVcc0yJcT5_41buQD6ovR6CYjVnOvZ5wahjahNDZIGt9JXsX_6NLHn4c6g94baTupUF0A6cIOaFSSSHZTHkHudrjaSDhM-ew=w187-h123
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: CAMISETAS SCUFFERS +10 MODELOS</i></b>
-💶 <b><i>PRECIO: 8€</i></b>
-🛒 <a href="https://usfans.com/product/1/1049446974100?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://docs.google.com/sheets-images-rt/AO43MLZlO10rzzymfi_qPYTeeh1kw_Ngr7f8DPDr_gmIh3T9n6bPhKCbBAt1eg6WJKia13q7bz5HCNELi0wOzUIPrxcxdYlN-hC5zT6uiie1enbtJNlI97Tvylwqr4ERhcLcVpEWZkY09HAx5v6FdD6X8zA5op3VFuG8dr_I710=w174-h123
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: CAMISETAS NUDE PROJECT +20 MODELOS</i></b>
-💶 <b><i>PRECIO: 8€</i></b>
-🛒 <a href="https://usfans.com/product/1/1045525211830?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
 FOTO: https://docs.google.com/sheets-images-rt/AO43MLZQ6wcsHX25timaltQ10KYsDiWIaFexluq8aupsqexBFPJpZqq1BP2gEkKZTjVk8FOXRQbYxfWmEhzZx_WdMKBEyNVJYgOPa18rtpug07tzC1PF3i0nC4RVN9oEifMDWMUaBmrpYl-y79ctXjY2TrrC683fFabmxyqDqP0=w187-h123
 🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
 🔎 <b><i>NOMBRE DEL ARTÍCULO: CAMISETAS SCUFFERS +15 MODELOS</i></b>
