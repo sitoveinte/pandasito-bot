@@ -2,30 +2,6 @@
 // Separa cada mensaje con una línea que solo tenga ---
 // Para foto: primera línea "FOTO: https://enlace-de-la-imagen.jpg" y debajo el texto.
 // Negrita <b>así</b>, enlace <a href="https://...">TEXTO</a>. Las líneas que empiezan por // no se publican.
-FOTO: https://docs.google.com/sheets-images-rt/AO43MLZxVSRUVqUsnmQrs7RPpGBONfM8HKksNwnITlirpXSzevln0Dl3G9Q4idVjz4OakfX2ba1jzkVO7aRS7a-mmqXT0tlqp92s163UssNSbcli1ezVbDaCyDrwR4hfO5rXmWffMYxH2chRkfQv6BBS_aEKqBAlaQQPAueD=w187-h123
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: CAMISETAS RALPH LAUREN OSO +40 MODELOS</i></b>
-💶 <b><i>PRECIO: 8€</i></b>
-🛒 <a href="https://usfans.com/product/1/965244006154?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://docs.google.com/sheets-images-rt/AO43MLaYCL1k3uwPuBSw0zQPEd5aLsqni67LlqviLxC1qJ0TOkQ_qQZuFrsqq0ZLW8aryWdTgNTaK-du9vyucLiTuuYJ18L-WxbZOLUMhK5FEwqeqG1LbR8gZyXFaJAUyhNzEiphNNUC6W_4dBAxVbLiTRvG5kYYRyW2Aal-=w174-h123
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: CAMISETAS STUSSY +40 MODELOS</i></b>
-💶 <b><i>PRECIO: 11€</i></b>
-🛒 <a href="https://usfans.com/product/1/978455556657?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://docs.google.com/sheets-images-rt/AO43MLaLYAKm-EykxCpq4qmM82m13MTGQdlhII-s3wTBthG9A9NspWkH2v66qe_Czc205x8f1_ssTzif_Lbooil7dw3zBqgIyTxULzVAUDaFpoxwWZXbVswSbTBEDHvkGgLoUGkpxR-R9_Wh9H3yFZKk3RSBMGUsoPV0NN6L2Pc=w187-h123
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: CAMISETAS COLD CULTURE +20 MODELOS</i></b>
-💶 <b><i>PRECIO: 8€</i></b>
-🛒 <a href="https://usfans.com/product/1/1046997455789?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
 FOTO: https://docs.google.com/sheets-images-rt/AO43MLa-HJTgoZwxJONSG_amJZAz1Yyd6mcLqIpx8dL0EI678w9vtWctdq5fMaeS58bXpu774sGc401oNsmedfF4ycx2pnyTjJH6u9J0Zwog3XoiMzP6qpw7AsHJ2XFaowhNNgoVWHVuWhNzbcmw4dHgkLhoScJJGqzVClmXTXI=w174-h123
 🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
 🔎 <b><i>NOMBRE DEL ARTÍCULO: CAMISETAS COLD CULTURE +10 MODELOS</i></b>
