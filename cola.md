@@ -2,30 +2,6 @@
 // Separa cada mensaje con una línea que solo tenga ---
 // Para foto: primera línea "FOTO: https://enlace-de-la-imagen.jpg" y debajo el texto.
 // Negrita <b>así</b>, enlace <a href="https://...">TEXTO</a>. Las líneas que empiezan por // no se publican.
-FOTO: https://docs.google.com/sheets-images-rt/AO43MLYLE5RtjdmOQQh4BkAkvo7jbawjTLH5vGC910r5UhBlzznCxD-Q3eCIkUXZGcPwQGl59QZq1hcL0K-jcV4O5lQeHuuCLp5JWTZBP5gJHmE6jI-sKqD1Cpxypwjq-3fxrK41BpX7MT4mqhRUh2tUWJualoDtNOs6bTk8D6k=w187-h123
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: CAMISETAS SAINT MICHAEL +30 MODELOS</i></b>
-💶 <b><i>PRECIO: 7€</i></b>
-🛒 <a href="https://usfans.com/product/1/1004244963169?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://docs.google.com/sheets-images-rt/AO43MLYmsfs7WTWd7GsP3MpWHHbRYKW94n-a31EXpwccrewXaaHe8SZvweJ1JIhhAe-_pgWxji0ZfwrcpC6SB8B9lGHy0ywpdGFVq5_whCQdt4RCyowKn8kD4O0Fu7Yo7gLlanSnCkIVKDt6skWlqn_7JIkQuL3kQZcWNxb2N5E=w174-h123
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: CAMISETA ACNE STUDIOS MANGA LARGA +5 COLORES</i></b>
-💶 <b><i>PRECIO: 13€</i></b>
-🛒 <a href="https://usfans.com/product/3/7575365300?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://docs.google.com/sheets-images-rt/AO43MLbVZ5MmlRhLaf0nzN3Tkb2L585aVYqLPPLgbeQaVOrPPACiW0Alj1SpBgIt0jOMPPkW1aSIgSK5gIZBncI2Ok2o7ryYk6LWV-uyX5sXivsiszaZC92uwZGGYgJQzCe30ph5Xx2hdc51l9i44yDsDxvh4E7d5Bs4B_3anV8=w187-h123
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: CAMISETAS HELLSTAR +30 MODELOS</i></b>
-💶 <b><i>PRECIO: 9€</i></b>
-🛒 <a href="https://usfans.com/product/1/998632685523?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
 FOTO: https://docs.google.com/sheets-images-rt/AO43MLYmxSogs3KnHgv6OEu6M18VwHuLllLnRnJd3C00a4T_d7O8-usQIYV1ZhlkOYHtg_vBVcv4da26f-_q1d5pzduOsNlxNLJC0ta0QUdSXsBq-ckjMxLDiFPVRx7F9otbD054MegyAd4JDgc5pmPFY8MJMcnbtrDwUiYt814=w174-h123
 🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
 🔎 <b><i>NOMBRE DEL ARTÍCULO: GORRAS RALPH LAUREN +20 COLORES</i></b>
