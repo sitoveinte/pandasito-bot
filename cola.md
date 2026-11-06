@@ -2,30 +2,6 @@
 // Separa cada mensaje con una línea que solo tenga ---
 // Para foto: primera línea "FOTO: https://enlace-de-la-imagen.jpg" y debajo el texto.
 // Negrita <b>así</b>, enlace <a href="https://...">TEXTO</a>. Las líneas que empiezan por // no se publican.
-FOTO: https://docs.google.com/sheets-images-rt/AO43MLZKsGtqEG4Anrv96oGzZat76rS8Q7E24v6f5nuZqAaL4zt9vmb853tp4O9UKOjw_Iy8hsPIs1ZCV03XsAHvK-g2vjHxSGC3dpN0BHPGJFFL4TP51HSYdBcc4xMau9jdM1r1eIaFwP_n8-MILfZZ9yEQKinUYEI3RMPd=w174-h123
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: CAMISETAS DE TIRANTES GYMSHARK ONYX (+10 MODELOS)</i></b>
-💶 <b><i>PRECIO: 5€</i></b>
-🛒 <a href="https://usfans.com/product/1/1032871590379?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://docs.google.com/sheets-images-rt/AO43MLazr9BHoAmb-za6Wy64941IelHuNhMblaw4JuIsZjidPoATXn0VnyfWTJsW9DyHVxIBEBgjuYa0BS-Ny70S4qJHpVHpyjeepbPlFltVhVrEkLx94zbbViohVrGbuVCNBPJdXe2lrMutTGmwetLPxezuvUoR5_rTAJrIhxI=w187-h123
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: ROPA DEPORTIVA NIKE (+10 MODELOS)</i></b>
-💶 <b><i>PRECIO: 6€</i></b>
-🛒 <a href="https://usfans.com/product/1/951167228247?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://docs.google.com/sheets-images-rt/AO43MLZLzvUKgT_LXZrFDri3cH5QOXyoI_NONFl-CXWtWQe60ZyeQP05J_BpmYslb5kJarAIk7ZvShCO58wvif8UwiDnTcIsCXUdgAg-AZGASRuz6i6mlK09euyKLDKP97_9wz1QFL1KFaFxn273pEpZSUgI-hm9wQuPyk-y=w174-h123
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: CAMISETAS DE TIRANTES GYMSHARK ALGODÓN (+5 MODELOS)</i></b>
-💶 <b><i>PRECIO: 6€</i></b>
-🛒 <a href="https://usfans.com/product/1/993429851287?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
 FOTO: https://docs.google.com/sheets-images-rt/AO43MLb8v2DY9N5D1ecrU98AfuVkcU5D0ubu9ZU7WJt2lCyDhhSDq9zvTEFIvOX8gvriD09JXAmBfdiGkNpWNuMjIFvLkDXc3Io-OjRFPwiiG5-R3RGxlKs2W95TKTN8nHtUQTGmNLCbpmwb0zubzbwr3jO-TwRxdCEvfddv=w174-h123
 🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
 🔎 <b><i>NOMBRE DEL ARTÍCULO: NIKE ABRIGO (+4 COLORES)</i></b>
