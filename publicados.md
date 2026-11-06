@@ -1821,3 +1821,27 @@ FOTO: https://docs.google.com/sheets-images-rt/AO43MLZlO10rzzymfi_qPYTeeh1kw_Ngr
 🛒 <a href="https://usfans.com/product/1/1045525211830?ref=6T2VKE">LINK DE USFANS</a>
 
 🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/AO43MLZQ6wcsHX25timaltQ10KYsDiWIaFexluq8aupsqexBFPJpZqq1BP2gEkKZTjVk8FOXRQbYxfWmEhzZx_WdMKBEyNVJYgOPa18rtpug07tzC1PF3i0nC4RVN9oEifMDWMUaBmrpYl-y79ctXjY2TrrC683fFabmxyqDqP0=w187-h123
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: CAMISETAS SCUFFERS +15 MODELOS</i></b>
+💶 <b><i>PRECIO: 8€</i></b>
+🛒 <a href="https://usfans.com/product/1/1049440682473?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/AO43MLb43aHzSootk98iSOzBn07nEqBvJWWAa5-_3zt8Dl25JLi56jmDwxrr9BfM-MAW1W_UQ6z8FImvG7ARhNcgCguFAjzNSYVU_7cdcY7t83G_QfjzFh8jmsaHIYN1QM0Xe1QgP5udyjhEZIWMqqUfZ2iSvUeoJuLMxuZVH3A=w187-h123
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: CAMISETAS MANGA LARGA VALLEY</i></b>
+💶 <b><i>PRECIO: 8€</i></b>
+🛒 <a href="https://usfans.com/product/1/1080767073806?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/AO43MLaM7_vptPg-DUfR8DrVTSRJRqVSBEC2iJ0BwSHxsMfmXW0mzH7k5UUDt9gP5QANyuI4zF-FN-Z_cx1bNGzRHCHx8N6Ohyk2OHMBZBiq559DRSFuS6DoYc0EDekjK37cxK5nbZX0vDtJiUF2C5fSgZfHbzihTwqgWPSb=w174-h123
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: CAMISETAS NUDE PROJECT +10 MODELOS</i></b>
+💶 <b><i>PRECIO: 8€</i></b>
+🛒 <a href="https://usfans.com/product/1/1047227125443?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
