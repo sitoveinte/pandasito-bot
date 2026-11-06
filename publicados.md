@@ -1869,3 +1869,27 @@ FOTO: https://docs.google.com/sheets-images-rt/AO43MLbVZ5MmlRhLaf0nzN3Tkb2L585aV
 🛒 <a href="https://usfans.com/product/1/998632685523?ref=6T2VKE">LINK DE USFANS</a>
 
 🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/AO43MLYmxSogs3KnHgv6OEu6M18VwHuLllLnRnJd3C00a4T_d7O8-usQIYV1ZhlkOYHtg_vBVcv4da26f-_q1d5pzduOsNlxNLJC0ta0QUdSXsBq-ckjMxLDiFPVRx7F9otbD054MegyAd4JDgc5pmPFY8MJMcnbtrDwUiYt814=w174-h123
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: GORRAS RALPH LAUREN +20 COLORES</i></b>
+💶 <b><i>PRECIO: 3€</i></b>
+🛒 <a href="https://usfans.com/product/1/1028205291085?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/AO43MLafF1QvjbeOdGlG3WA1vJ6demjnzPBitGfmHWX2c6d2lW57xf-rjeTpPuJ_zU2kLGsGA29sDWiK_fP_2n8WoxoeFlI6HBgW1rbszDmOjp-U4AZEmbv2LcbRADxzhzhMYQ1jKYvvAONVOlpNUSmBJR7V3l1tpDmGZrTiFwY=w187-h123
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: GORRAS STREETWEAR DE MARCA +50 MODELOS</i></b>
+💶 <b><i>PRECIO: 4-8€</i></b>
+🛒 <a href="https://usfans.com/product/1/991784744760?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/AO43MLaSjnUOalKFRFS_ErPr0vAVh8-eBaqWHAOdyrqPFNtRqG96_Z3Ar2yjpirFK3bkV1eYyxpUHoPWreym0b41EWSwCpunQrKdNfdlYZMtuikhLRqcirOQM6bnESy3YbbpmeAorKoD-ehq3iJIBEx3_x1wC8toflvyxMgp0sw=w187-h123
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: GORRAS NEW ERA BEISBALL</i></b>
+💶 <b><i>PRECIO: 2€</i></b>
+🛒 <a href="https://usfans.com/product/1/1048713681815?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
