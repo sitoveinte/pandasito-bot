@@ -2,30 +2,6 @@
 // Separa cada mensaje con una línea que solo tenga ---
 // Para foto: primera línea "FOTO: https://enlace-de-la-imagen.jpg" y debajo el texto.
 // Negrita <b>así</b>, enlace <a href="https://...">TEXTO</a>. Las líneas que empiezan por // no se publican.
-FOTO: https://docs.google.com/sheets-images-rt/AO43MLZeB0KBONQWkpQLi3k0aOYAWWAEyykmyGzWTQqdgiZdaqIr7_AKx839oK9xh7rnWIdi9CwgJFEjsE-UK9_Bt--tI5ZI1pGyNnWJdsMSeMQI85wix1QXUPyjOL86Gp-qHOb3lT2a4L9oIXphk9ei7rliu2A4oXxKQAlauc8=w187-h123
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: GORRAS NEW ERA BEISBALL</i></b>
-💶 <b><i>PRECIO: 2€</i></b>
-🛒 <a href="https://usfans.com/product/1/1060651259715?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://docs.google.com/sheets-images-rt/AO43MLZbsjuIIMl9pThegebFTMUvcR2Etc7d3gQmyffLUh5zn2SrYHz3z-GtoZTch6fCPQgmK3Mw94byFNuLwVZmDBrzLEt58Bn4SU3YywVDDWQRT3NGH1LvOxoxedkJwudl2hMffMbcxB-N6CBWG6Q7j1-eqdPu8oiRQRqi=w174-h123
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: CAMISETAS NIKE PRO, UNDER ARMOUR... (+30 MODELOS)</i></b>
-💶 <b><i>PRECIO: 5€</i></b>
-🛒 <a href="https://usfans.com/product/1/893044112777?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://docs.google.com/sheets-images-rt/AO43MLYFwRYHvmvmUaYnQhqdqRQFY1u1ErAAsppjVlT_j8Hn_oR2LZ6zvL3ntGApq-9HjIXeROivBcM72O5qHAEcVL-vXRXNEt1wQ3vWKaz0V1qsGmfiYwfNvEygk3z7p9v8VHmdE9Frr9gPvoc8eO7ekONzZro2X_x0SBDz=w187-h123
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: CAMISETA NIKE BÁSICA (+3 COLORES)</i></b>
-💶 <b><i>PRECIO: 5€</i></b>
-🛒 <a href="https://usfans.com/product/1/949962766782?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
 FOTO: https://docs.google.com/sheets-images-rt/AO43MLZKsGtqEG4Anrv96oGzZat76rS8Q7E24v6f5nuZqAaL4zt9vmb853tp4O9UKOjw_Iy8hsPIs1ZCV03XsAHvK-g2vjHxSGC3dpN0BHPGJFFL4TP51HSYdBcc4xMau9jdM1r1eIaFwP_n8-MILfZZ9yEQKinUYEI3RMPd=w174-h123
 🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
 🔎 <b><i>NOMBRE DEL ARTÍCULO: CAMISETAS DE TIRANTES GYMSHARK ONYX (+10 MODELOS)</i></b>
