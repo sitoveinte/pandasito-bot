@@ -2,30 +2,6 @@
 // Separa cada mensaje con una línea que solo tenga ---
 // Para foto: primera línea "FOTO: https://enlace-de-la-imagen.jpg" y debajo el texto.
 // Negrita <b>así</b>, enlace <a href="https://...">TEXTO</a>. Las líneas que empiezan por // no se publican.
-FOTO: https://docs.google.com/sheets-images-rt/AO43MLb8v2DY9N5D1ecrU98AfuVkcU5D0ubu9ZU7WJt2lCyDhhSDq9zvTEFIvOX8gvriD09JXAmBfdiGkNpWNuMjIFvLkDXc3Io-OjRFPwiiG5-R3RGxlKs2W95TKTN8nHtUQTGmNLCbpmwb0zubzbwr3jO-TwRxdCEvfddv=w174-h123
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: NIKE ABRIGO (+4 COLORES)</i></b>
-💶 <b><i>PRECIO: 18€</i></b>
-🛒 <a href="https://usfans.com/product/1/967730768892?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://docs.google.com/sheets-images-rt/AO43MLbG9p4LGjfnDK0vwvw74Nn7YZsHllZFdxIXHyuX080CcZ4v4wyuiEbAXtSym1FylmjbpwxH2WuSAIsrPDLgph_kn6AciLU4KmtOTOzkUGaP6sX5SY0pSjgqLOb3-_jvUM6Dvf-FK9C1QMUGa2nOWRcEEcK9m4aYCf-8w-Q=w187-h123
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: ABRIGOS LACOSTE +2 COLORES</i></b>
-💶 <b><i>PRECIO: 39€</i></b>
-🛒 <a href="https://usfans.com/product/1/1002519314530?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://docs.google.com/sheets-images-rt/AO43MLYA5zRNMuMGcRH2hgnjG2EHxMLbpRy92cbVomcjU5QbbglYIlasID2sC_hYIJFIY3XRFwdMt0R7LbuZaWaxR5bl9OjhXWVd4ty8VyIQc7Kln67HHu92Sw3iQvL05CGmEJ2gXxKO9T8ZEDrGV3GVztSsCWHQ6yjLtYh45pY=w174-h123
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: CÁRDIGANS Y CHAQUETAS MONCLER</i></b>
-💶 <b><i>PRECIO: 42-44€</i></b>
-🛒 <a href="https://usfans.com/product/1/970746995489?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
 FOTO: https://docs.google.com/sheets-images-rt/AO43MLYxXyEhCVkCCSoRor8wne-Ay2Xm0oYG-cF1XcZ0xOi2mMVPydTsRedjhHYxtzir2ZoMmG8T0Pnoy4nv5pPH40e6eGT-Myl3seQFCsNZRV4bCCgA6iEs1QuRXnHYTIjYSf0SJa1UK_VabyjICj7qH1HJfrKbB7lNsW4lXNU=w187-h123
 🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
 🔎 <b><i>NOMBRE DEL ARTÍCULO: PUFFER RALPH LAUREN BARATO</i></b>

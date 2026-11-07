@@ -1941,3 +1941,27 @@ FOTO: https://docs.google.com/sheets-images-rt/AO43MLZLzvUKgT_LXZrFDri3cH5QOXyoI
 🛒 <a href="https://usfans.com/product/1/993429851287?ref=6T2VKE">LINK DE USFANS</a>
 
 🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/AO43MLb8v2DY9N5D1ecrU98AfuVkcU5D0ubu9ZU7WJt2lCyDhhSDq9zvTEFIvOX8gvriD09JXAmBfdiGkNpWNuMjIFvLkDXc3Io-OjRFPwiiG5-R3RGxlKs2W95TKTN8nHtUQTGmNLCbpmwb0zubzbwr3jO-TwRxdCEvfddv=w174-h123
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: NIKE ABRIGO (+4 COLORES)</i></b>
+💶 <b><i>PRECIO: 18€</i></b>
+🛒 <a href="https://usfans.com/product/1/967730768892?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/AO43MLbG9p4LGjfnDK0vwvw74Nn7YZsHllZFdxIXHyuX080CcZ4v4wyuiEbAXtSym1FylmjbpwxH2WuSAIsrPDLgph_kn6AciLU4KmtOTOzkUGaP6sX5SY0pSjgqLOb3-_jvUM6Dvf-FK9C1QMUGa2nOWRcEEcK9m4aYCf-8w-Q=w187-h123
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: ABRIGOS LACOSTE +2 COLORES</i></b>
+💶 <b><i>PRECIO: 39€</i></b>
+🛒 <a href="https://usfans.com/product/1/1002519314530?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/AO43MLYA5zRNMuMGcRH2hgnjG2EHxMLbpRy92cbVomcjU5QbbglYIlasID2sC_hYIJFIY3XRFwdMt0R7LbuZaWaxR5bl9OjhXWVd4ty8VyIQc7Kln67HHu92Sw3iQvL05CGmEJ2gXxKO9T8ZEDrGV3GVztSsCWHQ6yjLtYh45pY=w174-h123
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: CÁRDIGANS Y CHAQUETAS MONCLER</i></b>
+💶 <b><i>PRECIO: 42-44€</i></b>
+🛒 <a href="https://usfans.com/product/1/970746995489?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
