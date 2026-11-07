@@ -2,30 +2,6 @@
 // Separa cada mensaje con una línea que solo tenga ---
 // Para foto: primera línea "FOTO: https://enlace-de-la-imagen.jpg" y debajo el texto.
 // Negrita <b>así</b>, enlace <a href="https://...">TEXTO</a>. Las líneas que empiezan por // no se publican.
-FOTO: https://docs.google.com/sheets-images-rt/AO43MLYxXyEhCVkCCSoRor8wne-Ay2Xm0oYG-cF1XcZ0xOi2mMVPydTsRedjhHYxtzir2ZoMmG8T0Pnoy4nv5pPH40e6eGT-Myl3seQFCsNZRV4bCCgA6iEs1QuRXnHYTIjYSf0SJa1UK_VabyjICj7qH1HJfrKbB7lNsW4lXNU=w187-h123
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: PUFFER RALPH LAUREN BARATO</i></b>
-💶 <b><i>PRECIO: 27€</i></b>
-🛒 <a href="https://usfans.com/product/1/1047232084473?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://docs.google.com/sheets-images-rt/AO43MLY3HzqhaU8-cPZ67uWbvM-ErZ6cHaNty41vyjUOdrCt9VPCGlHWg6pdSbKWY6D4NXtTqhGDB4aInn5NLrTRnGYH9syh9Ya8XgyMVdq5qy0s9qxqJ1IV_I1yzAr0BSKqxxgVndtI6i30THwWWsH-xZ_xPcYaIGTJTbDJ=w187-h123
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: PUFFER RALPH LAUREN MEJOR CALIDAD Y MÁS MODELOS</i></b>
-💶 <b><i>PRECIO: 38€</i></b>
-🛒 <a href="https://usfans.com/product/3/7863753784?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://docs.google.com/sheets-images-rt/AO43MLbiedU6_j_rHlKENwBxBwRBLhm7xCGXs080Q6f7FDIXseDYv4SBsMv6E0Ci5XvBWuR630HcLpV3qjIyhGmwllzS2qkvhef2qnHdpQi9ezpNj0h2OrrBzsNpki0rriCfagda29YnoR2ms0_500CfSXTbdfR_DaW8nzoiKeU=w174-h123
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: CORTEIZ WINDBREAKER (LOGO ALCATRAZ)</i></b>
-💶 <b><i>PRECIO: 16€</i></b>
-🛒 <a href="https://usfans.com/product/1/1044639919988?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
 FOTO: https://docs.google.com/sheets-images-rt/AO43MLYhuXPh7SFMdxw5HH1aFOvL4lT8zT-Ln5cGb-dqL4PYd6mM4xxgU-0AwnIKL0LfShXkRGJVY9FiYzaZ0aKaQMfrq1YTlh5NGnJe3PTi-t4f3O1YAQnn7WDfdsax9DXpggriHhpmfuD3lQmgzfuusRL7mOwcMvUEJqcukbc=w174-h123
 🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
 🔎 <b><i>NOMBRE DEL ARTÍCULO: NIKE X CORTEIZ CHÁNDAL/CORTAVIENTOS</i></b>
