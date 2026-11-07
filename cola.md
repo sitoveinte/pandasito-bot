@@ -2,30 +2,6 @@
 // Separa cada mensaje con una línea que solo tenga ---
 // Para foto: primera línea "FOTO: https://enlace-de-la-imagen.jpg" y debajo el texto.
 // Negrita <b>así</b>, enlace <a href="https://...">TEXTO</a>. Las líneas que empiezan por // no se publican.
-FOTO: https://docs.google.com/sheets-images-rt/AO43MLZKEVZ5O8MBngIRBQYKWOgBtdmzyFEi67S2xmydWVqrZRKjhmaZDwWgrQPb70OcbUKwEr9nR2D48V4MBHh0ymaZH_zN8gng94R1R0xq9TofLP6sIVqT6xK2EDgz1W8ZJ2BrMylO4x1sxEtldflDY3vlNQ_uDGrjA9kxk_8=w187-h123
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: ADIDAS FIREBIRD / CHAQUETAS DE SELECCIÓN RETRO</i></b>
-💶 <b><i>PRECIO: 16€</i></b>
-🛒 <a href="https://usfans.com/product/1/1016008404358?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://docs.google.com/sheets-images-rt/AO43MLblH9KZEntNWbd97VCRxEZlbNMbOMDinOBiS2T3lfm8GKsPChKcDGWI60Ma7Hbeys9AvJg1_KmCoXjw9KEMZrryIqklyXRYTPviml94vkKNnMVtgdAWeENhELE635mgietViRgpeRiHdyeUkWHb8ZPo-19AKcBq3O9Y=w174-h123
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: ARCTERYX GAMMA MX HOODY</i></b>
-💶 <b><i>PRECIO: 15€</i></b>
-🛒 <a href="https://usfans.com/product/1/1077826519245?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://docs.google.com/sheets-images-rt/AO43MLb7mHAdgIHCpd2lsEIchkUdbCqkL96XFeze_6OqlOuPOVZ1HscNBacqUc_Unpd-kVtsWvJDHT0sLCOkjIxFdhQzKTrIFVnvqYF32Jau_h98zWWzx0c0p-6R9kQE_Bpgncd0A14k_dkj-z7BO3fK4J5xowEwx8UaD43AW4M=w187-h123
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: CHAQUETAS CORTAVIENTOS RETRO</i></b>
-💶 <b><i>PRECIO: 18€</i></b>
-🛒 <a href="https://usfans.com/product/1/1058943676349?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
 FOTO: https://docs.google.com/sheets-images-rt/AO43MLYBhm4p8TJ_5CZD4Fb_0-r5TUf_3PkWDmRTbZMlqmGiv30CxVNOoK_U76h8u3SDi7ciQNV821KSFQJWNN2UL1Ds3r-zvR3dv7RLwmlHMun4OfiAjd6CDd-mG9PIOhe9JaM4BGHHDmVywPpc_4AwwRGaA589lEJms5QECjc=w174-h123
 🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
 🔎 <b><i>NOMBRE DEL ARTÍCULO: CARHARTT WIP NIMBUS PULLOVER</i></b>
