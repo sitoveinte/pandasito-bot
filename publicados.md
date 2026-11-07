@@ -2037,3 +2037,27 @@ FOTO: https://docs.google.com/sheets-images-rt/AO43MLb7mHAdgIHCpd2lsEIchkUdbCqkL
 🛒 <a href="https://usfans.com/product/1/1058943676349?ref=6T2VKE">LINK DE USFANS</a>
 
 🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/AO43MLYBhm4p8TJ_5CZD4Fb_0-r5TUf_3PkWDmRTbZMlqmGiv30CxVNOoK_U76h8u3SDi7ciQNV821KSFQJWNN2UL1Ds3r-zvR3dv7RLwmlHMun4OfiAjd6CDd-mG9PIOhe9JaM4BGHHDmVywPpc_4AwwRGaA589lEJms5QECjc=w174-h123
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: CARHARTT WIP NIMBUS PULLOVER</i></b>
+💶 <b><i>PRECIO: 26€</i></b>
+🛒 <a href="https://usfans.com/product/1/1081097410566?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/AO43MLbfRSs-lH8wBiPMakJNVUkZsbigOYQHfAWKv30o2pXC5lCK3ANvbUWWWsZGe_6JJX8HVKT0uO0hZH5ETH6HxYyGVqlTq9YSkk1IQuAkPsl3Rth45eL-J7fdHwiEoXC6l4S7ECpANWa3A0DjAaeJVeqtYlyWI8ZxqTylCEk=w187-h123
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: THE NORTH FACE 1990 MOUNTAIN JACKET GTX</i></b>
+💶 <b><i>PRECIO: 22€</i></b>
+🛒 <a href="https://usfans.com/product/1/971397565576?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/AO43MLb2v0uS9wCFnvYSkeQrgUTverAZ1lX6uASfAqL9-ULh_8g85Ai9hs9PqUoNpufrz4Jjsq8ZRMAmv4DEarC7rZwzuzy-lnQydz-uNyu70c7l50rTfYQQDEB69G2pHBTXEuN1MIMspkhatfEAb4CZciFZdIxIBNV7HRAiMUg=w174-h123
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: MONCLER MAYA</i></b>
+💶 <b><i>PRECIO: 25-30€</i></b>
+🛒 <a href="https://usfans.com/product/1/961209256949?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
