@@ -2,30 +2,6 @@
 // Separa cada mensaje con una línea que solo tenga ---
 // Para foto: primera línea "FOTO: https://enlace-de-la-imagen.jpg" y debajo el texto.
 // Negrita <b>así</b>, enlace <a href="https://...">TEXTO</a>. Las líneas que empiezan por // no se publican.
-FOTO: https://docs.google.com/sheets-images-rt/AO43MLYhuXPh7SFMdxw5HH1aFOvL4lT8zT-Ln5cGb-dqL4PYd6mM4xxgU-0AwnIKL0LfShXkRGJVY9FiYzaZ0aKaQMfrq1YTlh5NGnJe3PTi-t4f3O1YAQnn7WDfdsax9DXpggriHhpmfuD3lQmgzfuusRL7mOwcMvUEJqcukbc=w174-h123
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: NIKE X CORTEIZ CHÁNDAL/CORTAVIENTOS</i></b>
-💶 <b><i>PRECIO: 19€</i></b>
-🛒 <a href="https://usfans.com/product/1/1056275879155?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://docs.google.com/sheets-images-rt/AO43MLY7LjaF21uv2jZHfxOgKD38yQ4vCMwl2kU7Md-ASZAVnCTseTpXozm11VZhd3FArs2W8cKFUZpP_1eEq7tZbcfRms7aVrh-h48O1YUtSs12-8zwJ_J9K9ft6C_zCyXEOKiF4pohDOcQXjHpuGhXfEYdDAP_x6E1fO8NoMs=w187-h123
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: MONCLER CORTAVIENTOS CON CAPUCHA</i></b>
-💶 <b><i>PRECIO: 25€</i></b>
-🛒 <a href="https://usfans.com/product/1/1082453760196?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://docs.google.com/sheets-images-rt/AO43MLZzuqs23GNONUt94DKGX6ZcWdL5dQD3oIgPUBakgRHoBt6mu58N7vaq8jCF1yZscveQd8wgkvWGhmuy4tJKmWniUjvOzLXDyqNLCB06reE8vR2fDR3wKhwigwrZB-o5txw9O7e_DVbpuylmsizTLqQZrG9AgMfpAYjp3fo=w174-h123
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: ARC&#x27;TERYX BETA LT / BETA SL</i></b>
-💶 <b><i>PRECIO: 26€</i></b>
-🛒 <a href="https://usfans.com/product/1/1061433698500?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
 FOTO: https://docs.google.com/sheets-images-rt/AO43MLZKEVZ5O8MBngIRBQYKWOgBtdmzyFEi67S2xmydWVqrZRKjhmaZDwWgrQPb70OcbUKwEr9nR2D48V4MBHh0ymaZH_zN8gng94R1R0xq9TofLP6sIVqT6xK2EDgz1W8ZJ2BrMylO4x1sxEtldflDY3vlNQ_uDGrjA9kxk_8=w187-h123
 🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
 🔎 <b><i>NOMBRE DEL ARTÍCULO: ADIDAS FIREBIRD / CHAQUETAS DE SELECCIÓN RETRO</i></b>
