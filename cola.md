@@ -2,30 +2,6 @@
 // Separa cada mensaje con una línea que solo tenga ---
 // Para foto: primera línea "FOTO: https://enlace-de-la-imagen.jpg" y debajo el texto.
 // Negrita <b>así</b>, enlace <a href="https://...">TEXTO</a>. Las líneas que empiezan por // no se publican.
-FOTO: https://docs.google.com/sheets-images-rt/AO43MLY4ZjUT8uWo3nWxplT44Fy2rzx99NFgDeOcGv-pJh4A5AOH11cMsOrqv5Gt0TRFQuxapUiR_yqKFMAtoG2cwKenPBQuWcPh5Zo6o2rBmfstGmJ4mGW3hU6Sccr7ytvCsEeuRVV9xIoJeqHu31CggEi6hZzte5e19Gr3Tiw=w187-h123
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: ARC&#x27;TERYX DELTA HOODY</i></b>
-💶 <b><i>PRECIO: 18€</i></b>
-🛒 <a href="https://usfans.com/product/1/1027291174114?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://docs.google.com/sheets-images-rt/AO43MLZr7UUB1G4I18BCB1--fAs5rpm5pRXJsfkIN7hNEjufioEXez6tInMM3Iybz8-4Yxii7vLPpcvDlnzLwRjg_cRNrbZNz7W4zmD-YwoF5PV4t3i2Pdimzi-uyfovq2UhLd45kWn2Q_OLJnMlZrVbDZkfnEfc37FgyWDpC4Y=w174-h123
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: THE NORTH FACE JACKET X KAWS</i></b>
-💶 <b><i>PRECIO: 26€</i></b>
-🛒 <a href="https://usfans.com/product/1/987077145188?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://docs.google.com/sheets-images-rt/AO43MLbqOK0F_ftQ9wvPTrWDyNUOsTamIdCFZMYtc-8-GWHIvYBh63LLOHcr-TdBSdbiEuxqcH6l7WBtte-BSupHRllZg_Da9qNbHQROnaN7h15IOuoBEn7uFa5rS7Ygy5AlEHdRhRbMTOa4Gwbwb3SAzT74Oc3gyX8ss-19B1M=w187-h123
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: CORTEIZ CHAQUETA DE CHÁNDAL/CORTAVIENTOS +30 MODELOS</i></b>
-💶 <b><i>PRECIO: 20-25€</i></b>
-🛒 <a href="https://usfans.com/product/1/1074429111796?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
 FOTO: https://docs.google.com/sheets-images-rt/AO43MLYupW-a-tsFtp9FNVWw0g6mukvJhJkFJkJ0KTaO_Ub3e9ss4wo-q0u-WvUv7_xBH3rhO8LwgZrQyih-2LC3FLs9oI6OUcnrB4J-hfHDANOibjhp4UMgY4ElIhBCVK56qKDkxw3lVP4UE0ntjVEhNF1gpvX78gX4JFLKPfY=w174-h123
 🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
 🔎 <b><i>NOMBRE DEL ARTÍCULO: NIKE NOCTA NORTHSTAR NYLON (DRAKE)</i></b>
