@@ -2,30 +2,6 @@
 // Separa cada mensaje con una línea que solo tenga ---
 // Para foto: primera línea "FOTO: https://enlace-de-la-imagen.jpg" y debajo el texto.
 // Negrita <b>así</b>, enlace <a href="https://...">TEXTO</a>. Las líneas que empiezan por // no se publican.
-FOTO: https://docs.google.com/sheets-images-rt/AO43MLaRLUCRV2hv5yOBTd1Fe5XosTEEPtmkMTsUGSLhPaMRhz7wl1m9586vSXZ42JUwY4i3_EFKdjcXu2WWkq0WSeGD-DCQFRvMfHesH_KtitK2IfvjbHLzKyeRAwYBLNgm6mqENPGo76o8LzIzqKfB0sAqTrZb13x4xrvM=w187-h123
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: STÜSSY CORTAVIENTOS</i></b>
-💶 <b><i>PRECIO: 20€</i></b>
-🛒 <a href="https://usfans.com/product/1/1014025541977?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://docs.google.com/sheets-images-rt/AO43MLZWvxdEqfo51bwFch65BOHAU38sIPBOZBP1Y9uwjhjFuezWO3a2D9a41qJuqw2tD4wc2myyHxCy8NyuaJy99GKSuxiXn0M5ig3p4jVIngzlL0kVi6BRVram-rWRYVM6kL5eAnsbfNiNDkbvkAJhKGcZaQwp6jhEd2uR9kA=w174-h123
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: CHAQUETA ACOLCHADA ARCTERYX</i></b>
-💶 <b><i>PRECIO: 27€</i></b>
-🛒 <a href="https://usfans.com/product/1/1050523065630?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://docs.google.com/sheets-images-rt/AO43MLa38h0iezjKd0tK-6lE6vx31zL8P45SP-pizTzZacRvCy_HbA6GatGu1lY-zPJsjFH0GOQyrrFxXG7YgwBRpPTzXBPDcX-Nrgj8_CkYJZdlvjr2xKvV7HnPc8u5e-X1HJXGV1CnAC0bKivBrcFvAViZquHvjC58-dysI9c=w187-h123
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: THE NORTH FACE 1996 RETRO NUPTSE</i></b>
-💶 <b><i>PRECIO: 25€</i></b>
-🛒 <a href="https://usfans.com/product/1/1048752882817?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
 FOTO: https://docs.google.com/sheets-images-rt/AO43MLbK__qsUa_r4AaLtjn8RixXk0yREBH0KL1Woxt5UTI3ozB14qtF0AtrZGSD4ffPJmUx--qimL5BIT0u14aFiFWL82pAUwpzJGEEtbTmPUJaZc18X-DouK1qCe2b0Dm5qgbWHe8o_pLxzfRmzRC9ONOG8b98GNivbHg2=w174-h123
 🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
 🔎 <b><i>NOMBRE DEL ARTÍCULO: STONE ISLAND CHAQUETAS Y CORTAVIENTOS</i></b>
