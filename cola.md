@@ -2,30 +2,6 @@
 // Separa cada mensaje con una línea que solo tenga ---
 // Para foto: primera línea "FOTO: https://enlace-de-la-imagen.jpg" y debajo el texto.
 // Negrita <b>así</b>, enlace <a href="https://...">TEXTO</a>. Las líneas que empiezan por // no se publican.
-FOTO: https://docs.google.com/sheets-images-rt/AO43MLbK__qsUa_r4AaLtjn8RixXk0yREBH0KL1Woxt5UTI3ozB14qtF0AtrZGSD4ffPJmUx--qimL5BIT0u14aFiFWL82pAUwpzJGEEtbTmPUJaZc18X-DouK1qCe2b0Dm5qgbWHe8o_pLxzfRmzRC9ONOG8b98GNivbHg2=w174-h123
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: STONE ISLAND CHAQUETAS Y CORTAVIENTOS</i></b>
-💶 <b><i>PRECIO: 21-26€</i></b>
-🛒 <a href="https://usfans.com/product/1/1078745380260?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://docs.google.com/sheets-images-rt/AO43MLZWl5cHkkIwMp3kmCZfWuKTrwbwPFwjH7ECuSW1wqyUFJsYBCBBBkrQbP-NppvUo7OlARMnwDxBflnOCoSdHGDVIuwKAPKK4uAwoPTPoeUeL_fBhmGvi7YtY9m6f_ddZEJEXzqnXdNsSE6gf9Nw3ZKb-lyUXPsY4yrhtks=w187-h123
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: POLO RALPH LAUREN JACKET BOMBER HARRINGTON</i></b>
-💶 <b><i>PRECIO: 23€</i></b>
-🛒 <a href="https://usfans.com/product/1/1036087041229?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://docs.google.com/sheets-images-rt/AO43MLbqVQtogp4vPDKG9iMd8mKh075whIjg4figpJd7ba_uLVDW605To8W4NQz57iUBznoEofMGnnvBp9I8KkGx6nUsxJxWLybudwGE7uF8zslNtU-tggJolvuu2dOJ8n-CIRiAyrlgPCKkUeKjNJsbmkynMAhVbCX1_9RZ6Iw=w174-h123
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: TRAPSTAR CORTAVIENTOS Y ABRIGOS</i></b>
-💶 <b><i>PRECIO: 19-35€</i></b>
-🛒 <a href="https://usfans.com/product/1/1046922254217?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
 FOTO: https://docs.google.com/sheets-images-rt/AO43MLY4ZjUT8uWo3nWxplT44Fy2rzx99NFgDeOcGv-pJh4A5AOH11cMsOrqv5Gt0TRFQuxapUiR_yqKFMAtoG2cwKenPBQuWcPh5Zo6o2rBmfstGmJ4mGW3hU6Sccr7ytvCsEeuRVV9xIoJeqHu31CggEi6hZzte5e19Gr3Tiw=w187-h123
 🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
 🔎 <b><i>NOMBRE DEL ARTÍCULO: ARC&#x27;TERYX DELTA HOODY</i></b>
