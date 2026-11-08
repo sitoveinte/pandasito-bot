@@ -2133,3 +2133,27 @@ FOTO: https://docs.google.com/sheets-images-rt/AO43MLbqOK0F_ftQ9wvPTrWDyNUOsTamI
 🛒 <a href="https://usfans.com/product/1/1074429111796?ref=6T2VKE">LINK DE USFANS</a>
 
 🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/AO43MLYupW-a-tsFtp9FNVWw0g6mukvJhJkFJkJ0KTaO_Ub3e9ss4wo-q0u-WvUv7_xBH3rhO8LwgZrQyih-2LC3FLs9oI6OUcnrB4J-hfHDANOibjhp4UMgY4ElIhBCVK56qKDkxw3lVP4UE0ntjVEhNF1gpvX78gX4JFLKPfY=w174-h123
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: NIKE NOCTA NORTHSTAR NYLON (DRAKE)</i></b>
+💶 <b><i>PRECIO: 12€</i></b>
+🛒 <a href="https://usfans.com/product/1/1071522426873?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/AO43MLbRoh-PDVS8bH5TYrdkzB7dxou4jD7tECcWLpYYjjWTKiEOJngmQBDpdyx5curmBnaQgESW_Tsn-UcgI2Q3xcAmA0ZhELvIhFDVJSiTaS806rj6QCNSUMC3o0u1mYy3SfohydlOYkoy2qoFINXL62zcenTH1gsetnWs=w187-h123
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: CORTAVIENTOS SUPREME</i></b>
+💶 <b><i>PRECIO: 23€</i></b>
+🛒 <a href="https://usfans.com/product/1/1065236864291?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/AO43MLYiV1Vooo17DV6uWQ3pbhys7DNqYK9W_uPltcLMBSG3hnJvDzy4h5SuOp9V5WN5o5QbTV4YmnSCLjilGwtfErdDfyXpf6Fb-w1YJeqx47fTBL3IDt_7oAramK9-V_LEz7nFILuNMR6OQ6izzUmVTb0g1esZ6wqpSm-H=w174-h123
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: CHAQUETA CORTAVIENTOS NIKE</i></b>
+💶 <b><i>PRECIO: 20€</i></b>
+🛒 <a href="https://usfans.com/product/1/1071883065009?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
