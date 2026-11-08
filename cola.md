@@ -2,30 +2,6 @@
 // Separa cada mensaje con una línea que solo tenga ---
 // Para foto: primera línea "FOTO: https://enlace-de-la-imagen.jpg" y debajo el texto.
 // Negrita <b>así</b>, enlace <a href="https://...">TEXTO</a>. Las líneas que empiezan por // no se publican.
-FOTO: https://docs.google.com/sheets-images-rt/AO43MLYGkFQvSHV-MQTgSlu6XXgq241UuYtLvQo-g93p9a_rW1x9h9Sy8slW4a-S-Mv96QQHpCkUPGCcAmjEjf4dc_Ux4pvUMh2UnaQi5lLDOIEVylDk2pR1pW15Rm2V0ECSBN4PeuK0N-SmEDGeRi9CKDVanHX5aQ_NgOWvE8w=w187-h123
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: CHAQUETAS DE CUERO DISEÑADOR</i></b>
-💶 <b><i>PRECIO: 40-55€</i></b>
-🛒 <a href="https://usfans.com/product/1/840738549261?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://docs.google.com/sheets-images-rt/AO43MLaQoG1NPeDVtG5_pyKlqB8glStqa8CzPOg67njfrmSmhm2018pW8KaUubvYem_jqArSpUyo2JfjT8ts_bYreb-Noxg1jxkUz05sPOF5tH_u9O3EIijmJZP8ROeVwCtPUN06f4eC-vFJdqhPyfN0NHoCn33dbA4hfeTBLVw=w174-h123
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: NIKE NOCTA PUFFER MEJOR CALIDAD</i></b>
-💶 <b><i>PRECIO: 59€</i></b>
-🛒 <a href="https://usfans.com/product/1/1076477591905?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://docs.google.com/sheets-images-rt/AO43MLbjwoiaqCstQuZWg4ahC_4XAbvmvkHaMbqdNy4YuI39jPd6nGZwwtc4v6BZDmvjgeTzqO_NiOUSkTJwhRqMv-uJWboUx00tY01829SWsZ-tPIJ8aMma0zJ8Vl73m4A57DeLA00akCdzLsWWNh3PVXjfXipX28ZWDVeX=w187-h123
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: CORTEIZ PUFFER</i></b>
-💶 <b><i>PRECIO: 25€</i></b>
-🛒 <a href="https://usfans.com/product/1/1063506766298?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
 FOTO: https://docs.google.com/sheets-images-rt/AO43MLaj7RUCF3FbUOTP-3s8aRcZbczgj3xe9ZZEE9QcpsH9SfZQdwt6A1q8WiFmua3t1HkqWaepNpHqybTm0G4TtfivwowzrmueX9X0uW34ojiha7IGCjYK8NM4MM8Ek0SSxDPiJwKseNIwaW4vvypWLyCCT2Lmn8I8kB4gpEg=w174-h123
 🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
 🔎 <b><i>NOMBRE DEL ARTÍCULO: LACOSTE PLUMÍFERO CORTO</i></b>
