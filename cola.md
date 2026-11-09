@@ -2,30 +2,6 @@
 // Separa cada mensaje con una línea que solo tenga ---
 // Para foto: primera línea "FOTO: https://enlace-de-la-imagen.jpg" y debajo el texto.
 // Negrita <b>así</b>, enlace <a href="https://...">TEXTO</a>. Las líneas que empiezan por // no se publican.
-FOTO: https://docs.google.com/sheets-images-rt/AO43MLaj7RUCF3FbUOTP-3s8aRcZbczgj3xe9ZZEE9QcpsH9SfZQdwt6A1q8WiFmua3t1HkqWaepNpHqybTm0G4TtfivwowzrmueX9X0uW34ojiha7IGCjYK8NM4MM8Ek0SSxDPiJwKseNIwaW4vvypWLyCCT2Lmn8I8kB4gpEg=w174-h123
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: LACOSTE PLUMÍFERO CORTO</i></b>
-💶 <b><i>PRECIO: 10€</i></b>
-🛒 <a href="https://usfans.com/product/1/1007090063745?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://docs.google.com/sheets-images-rt/AO43MLYr1yJjd2D8rPswDD85yo3izCV2_-lT3AuLxdKSWVot7lLDttUpS4UOj9kugRQofqGdPMQV6GlBpZjTtu-t580PE0FF6C_XtC3Zcj2VFWN-kZRr53tns1zv9kD803L-h6KT4W8ozXsRZDG06DLBHKZ-z_ki_c9mu10wXvU=w187-h123
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: STONE ISLAND NYLON METAL / GARMENT-DYED DOWN</i></b>
-💶 <b><i>PRECIO: 24€</i></b>
-🛒 <a href="https://usfans.com/product/1/1080090496151?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://docs.google.com/sheets-images-rt/AO43MLaeX5eje0qb9ubf-nPrjunKrcUd_DrLDQ4dFH_a0ntn19nlCiV5buAzvU73YwDKuTmlk93O7tgBTaRONV0vEc_SXvmBMhA-lUdJeeO8efdhG2bpXHWQrKVO-081ZiUjk8z7DiVoGORpp7rcpwvR80C68PrGOAAzvwrOQDA=w174-h123
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: CORTAVIENTOS DE DISEÑADOR LV, GUCCI</i></b>
-💶 <b><i>PRECIO: 26€</i></b>
-🛒 <a href="https://usfans.com/product/3/7772303554?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
 FOTO: https://docs.google.com/sheets-images-rt/AO43MLZ9OXW18HrFK3dch9gGyQ8J-PxBs1B0hjBYWKkbDuzyb7vWYhQOgP0fPyMWfR4m2ugd1po2gEHtFru8z8pECTxSC03MfNLpBIh2LwFFMZlEpRigyYNxWN64Zdj0wdpqHJIZsb0QaQMv79OLoevW-6JivCMYNUfrDSnB=w187-h123
 🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
 🔎 <b><i>NOMBRE DEL ARTÍCULO: CANADA GOOSE CROFTON / EXPEDITION</i></b>
