@@ -45,3 +45,27 @@ FOTO: https://docs.google.com/sheets-images-rt/ADdU-axkoC06jxWbbt0xtLDMPJVEAtZZf
 🛒 <a href="https://usfans.com/product/3/7521788027?ref=6T2VKE">LINK DE USFANS</a>
 
 🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/ADdU-axZVvoQQTQaU2dPKiVuA9MGBz1pzVQ6l4Rh1uB7mZbD1OQh3nVJ4JLxYJJ4lvx8d7EOIZtMEPTfMQ0UA45uNV4HWwAApvdcPghd0jABYYIjWRg3ANEi3LudjbRfpAhUreo-qJqZ4YeWiFi7nsfrBEKXKi5vuj29LdAbbsE=w174-h123
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: CHAQUETAS Y SUDADERAS LACOSTE</i></b>
+💶 <b><i>PRECIO: 11€</i></b>
+🛒 <a href="https://usfans.com/product/3/7521819915?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/ADdU-awmDmpPDP6nZzRL_RrPUC377FOvychEQV-VRzxwBBorZrPg-NHk3ZQu2P7TU9SRRJb5UOkvGW2W_SMqB-9EQwlm46ebPQ-2hMnIid6jZ2UFxyekJ90Ne8DGuyigwYDisEM4Z1ea4MeMFHwts0e7TVRjsImFu_ogOVEkxcw=w187-h123
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: SUÉTERES RALPH LAUREN</i></b>
+💶 <b><i>PRECIO: 12€</i></b>
+🛒 <a href="https://usfans.com/product/3/7523693956?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/ADdU-axp5wj_qZ_DbUT8R8RroyIfu0BEeyxbx_tNmhbAbffObRrS284iTUuay9_ospX4E2LhA72SRR5vjh6LFeWjqgLaPcQ2dAT_88Z8L-1A-EE2iuOYKjRv-MQOt1Gv8qlDtgTx05cMT4eztNIMdITU0VNvufSZyYj4oRQs=w174-h123
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: CONJUNTOS LACOSTE</i></b>
+💶 <b><i>PRECIO: 12€</i></b>
+🛒 <a href="https://usfans.com/product/3/7521807979?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
