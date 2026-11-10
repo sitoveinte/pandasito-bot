@@ -69,3 +69,27 @@ FOTO: https://docs.google.com/sheets-images-rt/ADdU-axp5wj_qZ_DbUT8R8RroyIfu0BEe
 🛒 <a href="https://usfans.com/product/3/7521807979?ref=6T2VKE">LINK DE USFANS</a>
 
 🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/ADdU-azKiygSlfhVD1x-IH4MGB-flwwO55OZCG2KpCtjTzg3XBazaQNtMN6tm9HIaob5ojojO-JtJ3S8_j1RlUSBlrJG31eRu3EIWtl6WtaSq35RrEld1gV1yJt_akzzk47zaBqciO4C4aWw7GSn6x3bjnR6Zr7S_tGObt2V=w187-h123
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: CANADA GOOSE ABRIGOS Y CHALECOS</i></b>
+💶 <b><i>PRECIO: 27-90€</i></b>
+🛒 <a href="https://usfans.com/product/3/7521811929?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/ADdU-awn36cgCe0QqF002FHOgfY9YiGM3RLoN8acOWeUxrSVo2XrREIwZWT-myKmibE_ujlQQxJr9l8tKeuna7gR2UhSD4XsgzCQD7KnQ8lG4bJXwqgOkgWP_qsRcKOJqgC42aYLHPHU1Zd3QcBQXN11Uq07XE_tZyd5Tn7uTuU=w174-h123
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: DIOR B30</i></b>
+💶 <b><i>PRECIO: 35€</i></b>
+🛒 <a href="https://usfans.com/product/3/7523636198?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://lh3.googleusercontent.com/docsubipk/AP9E6xVRdkn8BFxbL4MWMCkHYJ7Dgwu8fwzSerRge0bnU7H_i11lrNrKzyPNQu39Iu-8pSgoRACVwU6eHiTTCKwZU7PknBTLLR-ZhxOUSM-3-NtHIWv3PaiUhN6SxmBqMD8sm0l2otuow14rlnRZj0sXonScvn1NK8UX2_ywLnL-=s187-w187-h123
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: YEEZY 350 (+30 MODELOS)</i></b>
+💶 <b><i>PRECIO: 20€</i></b>
+🛒 <a href="https://usfans.com/product/3/7523623498?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
