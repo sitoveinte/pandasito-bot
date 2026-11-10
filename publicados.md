@@ -93,3 +93,27 @@ FOTO: https://lh3.googleusercontent.com/docsubipk/AP9E6xVRdkn8BFxbL4MWMCkHYJ7Dgw
 🛒 <a href="https://usfans.com/product/3/7523623498?ref=6T2VKE">LINK DE USFANS</a>
 
 🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://lh3.googleusercontent.com/docsubipk/AP9E6xUkcG0LoEGZsvKEChHbHsFuBFr4B3sI74vgLBqQ2rkCRifk95Y6ZmrLz_tL7mDV3ZbZpeP-2IHvfzBUJhmqiuV3yPHy4MFsSM0Qw7h3IJycEBLPErUXRN1HRgFUh_4ehjJ-Vsaei3lELupH9ExWKYe02nCwd76RDsb8BUdcbkw=s174-w174-h123
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: NIKE SB DUNK (+10 MODELOS)</i></b>
+💶 <b><i>PRECIO: 16€</i></b>
+🛒 <a href="https://usfans.com/product/3/7523623502?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://lh3.googleusercontent.com/docsubipk/AP9E6xXBOVFz5eH_Ch6xuDeGVJ2onfAMciBKceuSlMAx8CfgAjzESzbpqDa3KVSaNUghp-5loJEEe_2Th6rbMV_-aG_6hIP8f-NOIJtPNq1XNTVKQki_FH10hix04VDr2jiFaB7UNEyg6L9gMUE6mz_9LysE1pmerev2Pg-GHgg4ng=s187-w187-h123
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: CHAQUETAS BURBERRY Y PRADA (+20 MODELOS)</i></b>
+💶 <b><i>PRECIO: 37€</i></b>
+🛒 <a href="https://usfans.com/product/3/7523650126?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/ADdU-axMYW5LBshd-F201UqqvvL6PU7_PXxgUMBkXulbsGpzqdvJyS3C-Lmzx0M0MMm7kWjREUsSjmxYNNi7B3WSkme7qgAr6sSmOzAlqCNGgjYuzh7NEvq6Lswf_08F86AgWgvFqWydzNlfEL1fZDpDGmNkyn6RSinDOh8QcSk=w174-h123
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: PLUMÍFEROS MONCLER / THE NORTH FACE (+40 MODELOS)</i></b>
+💶 <b><i>PRECIO: 25€</i></b>
+🛒 <a href="https://usfans.com/product/3/7521744273?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
