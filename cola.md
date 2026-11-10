@@ -2,30 +2,6 @@
 // Separa cada mensaje con una línea que solo tenga ---
 // Para foto: primera línea "FOTO: https://enlace-de-la-imagen.jpg" y debajo el texto.
 // Negrita <b>así</b>, enlace <a href="https://...">TEXTO</a>. Las líneas que empiezan por // no se publican.
-FOTO: https://lh3.googleusercontent.com/docsubipk/AP9E6xVCTaIq_vI_Acg9DFwWmN0QGXQ5t8JwXANG9z48EHJHpl23B6GZqCa7MomrjthjrdZpDSRmpQzFcxe6Hy23nke_boavibAzRkmufc2vDFTynKCcxi3k-TwomHxgY7M-zqmyIqd23iJV33nakPXcwtEm0URbCiqXkHRXf0x_LUs=s187-w187-h123
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: PLUMÍFEROS (+9 MODELOS)</i></b>
-💶 <b><i>PRECIO: 19-25€</i></b>
-🛒 <a href="https://usfans.com/product/3/7521841791?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://docs.google.com/sheets-images-rt/ADdU-ayV3bqrkAF3gGAFuBfQ_TKEa6SchHnKbnofBkt59nq5swcHddgdp-7JtBqWgwAGLTGRVcFJW2vyVxxNuq-npebx1vyCNE5FirHWfa7kOcIuS_QKIIS9ht8gAtFRW-Pf9w5v1vhMQZ2JyTchK6WG7l1WP4bkH6D1fpZs=w174-h123
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: PLUMÍFEROS THE NORTH FACE Y BURBERRY (+20 MODELOS)</i></b>
-💶 <b><i>PRECIO: 22-46€</i></b>
-🛒 <a href="https://usfans.com/product/3/7521741107?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://lh3.googleusercontent.com/docsubipk/AP9E6xV66wNNlK4lVSJ6FuZphQmMiVrRU106vXx0KWZULX_GpR4Qg-aGZcY9q8ge9_BQzxT5zbSxZh6ntrI3yMYGryNClNGmXHZF1VB97scYCdgHklsOgT7MLVEMdY4Dabj7--mw2TdxNRIttQjjIlg6Wzq2UetQD-0hqoX1J9mVHw=s187-w187-h123
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: AIRPODS (2, 3, PRO Y MAX)</i></b>
-💶 <b><i>PRECIO: 4-20€</i></b>
-🛒 <a href="https://usfans.com/product/3/7523680014?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
 FOTO: https://docs.google.com/sheets-images-rt/ADdU-ayygpZvRj-MyZ3VPdSUB5kUl630UJC7qHVfQyWwxk4Uzz7VJz4H2uvIZf_SvU3hf3W4poHos_ZvuHpQlD6-ZrtwosQieV7Pu1rd88sOz-Rhuf3fJkQlu-oD2QaVQahjNthDe_1vaNvmtcmGHXxBq0GBygheJw28tilGJvg=w174-h123
 🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
 🔎 <b><i>NOMBRE DEL ARTÍCULO: ZIP UP LACOSTE (+10 MODELOS)</i></b>
