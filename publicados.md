@@ -141,3 +141,27 @@ FOTO: https://lh3.googleusercontent.com/docsubipk/AP9E6xV66wNNlK4lVSJ6FuZphQmMiV
 🛒 <a href="https://usfans.com/product/3/7523680014?ref=6T2VKE">LINK DE USFANS</a>
 
 🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/ADdU-ayygpZvRj-MyZ3VPdSUB5kUl630UJC7qHVfQyWwxk4Uzz7VJz4H2uvIZf_SvU3hf3W4poHos_ZvuHpQlD6-ZrtwosQieV7Pu1rd88sOz-Rhuf3fJkQlu-oD2QaVQahjNthDe_1vaNvmtcmGHXxBq0GBygheJw28tilGJvg=w174-h123
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: ZIP UP LACOSTE (+10 MODELOS)</i></b>
+💶 <b><i>PRECIO: 13€</i></b>
+🛒 <a href="https://usfans.com/product/3/7567807739?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://lh3.googleusercontent.com/docsubipk/AP9E6xXHcjnexLxP-P-xnH8ytQXe8r09Q6yYktorfqkY6rIr6Pgs-DNLD7ze_OJ4LpmO0B0CTlmUFYmq10j7yrAqzMnsCG7RMO7NewrT_lOut6T4wY-QAUsfwwBROmHsIG30cOI9Dinell6557oIWPZKTU5T9jyfeI8QyEBUaNMm7U4=s187-w187-h123
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: PLUMÍFEROS (+8 MODELOS)</i></b>
+💶 <b><i>PRECIO: 54€</i></b>
+🛒 <a href="https://usfans.com/product/3/7569634910?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://lh3.googleusercontent.com/docsubipk/AP9E6xU6G7QMGF-eFfq6gQw6ehtn7UuxoLgIRQ6ih0lzlU-Sp0yAtuHS-gUHCkLOKTP9xn6qvzfzG3ILtCMx3UF-gig0ZLgL2BHN8AuGM6AZ-fZpsJMuoY4Im_y9IsaoWpVGHLrKxoWp5YsykMiBhmpeDI5RdIHWRO4=s174-w174-h123
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: BOLSOS DE HOMBRE LV (+40 MODELOS)</i></b>
+💶 <b><i>PRECIO: 9-17€</i></b>
+🛒 <a href="https://usfans.com/product/3/7602055168?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
