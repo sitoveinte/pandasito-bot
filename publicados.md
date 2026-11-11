@@ -237,3 +237,27 @@ FOTO: https://docs.google.com/sheets-images-rt/ADdU-ay7ni8gFZ9QjeZHOT6Ba3C5SGKVq
 🛒 <a href="https://usfans.com/product/3/7883240374?ref=6T2VKE">LINK DE USFANS</a>
 
 🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/ADdU-ay1lr-okPLGTC7ey7SqrWIOk5hcvS3gJFO1H5Ay1HiMQlKE7XGOHbfOhr6VagwFx6lPmMQ10cYv3AWk7DVFdukAQHcTsPT3ZTVaxyWonQ3opqq2uZCt337B1iwxsSTJCWSCFqwom5w9TMryhTdRphNLOZf74a6p8YlKWAc=w174-h123
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: PLUMÍFEROS MONCLER (+40 MODELOS)</i></b>
+💶 <b><i>PRECIO: 42€</i></b>
+🛒 <a href="https://usfans.com/product/3/7880212373?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/ADdU-azGYlHCy7NtccBffVoMSCSK2Ypg8yvr1urAA0RLB7uaBAMxAekokJRLmdCmLueexDruMqIWiMEaRCFh--M7BL48UFbQXW_tzwDAI3RuGGtiaeQSVX2PJreIbGiU6GHqYpdQ_lAsQzBOd9Z5xFifV8oQXb2hQcAHVJM_=w187-h123
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: PLUMÍFEROS Y CHALECOS CANADA GOOSE (+40 MODELOS)</i></b>
+💶 <b><i>PRECIO: 37-54€</i></b>
+🛒 <a href="https://usfans.com/product/3/7880111339?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/ADdU-ayyTd_8wSOjJCbWMna_X2778fVYlZj90XTdrjpSueIw9ETEqrH8nL1SWfUTSNpfKYH6QGCDm2XGeXKCvTF5sGM3EkldTdCYeaWmEcjsI6BtQVn6xPNrpRz5Xu6ttgE2Ec6f2fkL-xXeI0vWZObF1743wYAH79yyZQ17oTk=w174-h123
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: CONJUNTOS (+40 MODELOS)</i></b>
+💶 <b><i>PRECIO: 26-34€</i></b>
+🛒 <a href="https://usfans.com/product/3/7883135362?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
