@@ -261,3 +261,27 @@ FOTO: https://docs.google.com/sheets-images-rt/ADdU-ayyTd_8wSOjJCbWMna_X2778fVYl
 🛒 <a href="https://usfans.com/product/3/7883135362?ref=6T2VKE">LINK DE USFANS</a>
 
 🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/ADdU-axA9THNYF_YrqKKgBUVLDW8ELWRAaHxBRBUsj4tPvjzCRXWMDG_CZ9Qgd6zk4GgKaGVvCMB2hri3VKBlblGiNfmtoL8i-Nj2pyzrS-wEIVap1-NSTwebzNA9Bo5K7YCrtRM2FYUroA19vFrDjEsUnCPsI_Lp9v_cHSIx6g=w187-h123
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: CHÁNDALES DE ENTRENAMIENTO NIKE (+40 MODELOS)</i></b>
+💶 <b><i>PRECIO: 14-30€</i></b>
+🛒 <a href="https://usfans.com/product/3/7880224139?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/ADdU-az47h4G3Kw-D29PjGxnz5SlpIozBa_Y6CqQzGg53acsEsrdvsJE6NyjbJzMqqT60Ngtfhz2UzdV3blyXZ723aIfvyqEyST3yu0H4cyTbHO_dEhfkm2CwT3-aKHcQtALRQ-IECczm5g3_hKii49MD696ilvqZhSaXXDSHDk=w174-h123
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: BUFANDAS BURBERRY (+20 MODELOS)</i></b>
+💶 <b><i>PRECIO: 11€</i></b>
+🛒 <a href="https://usfans.com/product/3/7883279890?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/ADdU-axE08hqjFDTuD4NZUsXmchIGfsn4u7ZroYnHBBVYCiWGJhmlk9gV37W7ouhSA69YnULDQElFWXZKWFLhbDDdFYwIxnTfaw8_Yj2P1PzOHZizp1JgxnYT-Gm1q7jS5g2gonUPBCkjD0BYJYJnPnmDGjuThSVkVpEqAaSoJg=w187-h123
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: CHAQUETAS Y CORTAVIENTOS MONCLER (+40 MODELOS)</i></b>
+💶 <b><i>PRECIO: 16-54€</i></b>
+🛒 <a href="https://usfans.com/product/3/7883283872?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
