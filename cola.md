@@ -2,30 +2,6 @@
 // Separa cada mensaje con una línea que solo tenga ---
 // Para foto: primera línea "FOTO: https://enlace-de-la-imagen.jpg" y debajo el texto.
 // Negrita <b>así</b>, enlace <a href="https://...">TEXTO</a>. Las líneas que empiezan por // no se publican.
-FOTO: https://docs.google.com/sheets-images-rt/ADdU-axjw0ZK9E55YwaCOqFnoiRjwS3aQGNRUVb597wbL-uJCrzeeW0ryissEkWzx9IAJ1sNTK4ywC_FR5-7DdSxWlH0a4ZJ1tuFh0t-sh_3nnPtmq7l2TPRHPdOVuPNg3HyBfqLAi0wWvupVDgRe3SDKW7hFutAzNWmi7jl8nw=w174-h123
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: CHÁNDALES DE ENTRENAMIENTO FÚTBOL (+40 MODELOS)</i></b>
-💶 <b><i>PRECIO: 20€</i></b>
-🛒 <a href="https://usfans.com/product/3/7600170879?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://lh3.googleusercontent.com/docsubipk/AP9E6xVbN5wNhNtZDhSePfaxjRSCUfp7uU5-bzOKXxnwta2QYJFCekTHKRrdwQa0f8Om1qi75R3vHLYEFU_6Af7VrHOhsdgMusK7QIXDOCIoK8XmtdSR6ImODkAaUkxz2LwAZ954_CCIDHo8M_4g-sf4HS_J5U_Er6maeUaiXVxRhPY=s187-w187-h123
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: SUDADERAS CON CAPUCHA SUPREME (+40 MODELOS)</i></b>
-💶 <b><i>PRECIO: 14€</i></b>
-🛒 <a href="https://usfans.com/product/3/7600170875?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://lh3.googleusercontent.com/docsubipk/AP9E6xVW1nPwTCawcqPbOU4oEZj8kNL6QqNlwCCWUMxMDMjSzcmiaKObDaWyL15fAvy-sh8D_Rxt6MUOxXNcxUD8cCZR4OLjIvTC_YjSITt7WIj3OSzW9Nt-7YcAPRpP7iwLW0xLMa0_3K2aFYbRASYpDujiYFizccAu=s174-w174-h123
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: PLUMÍFEROS CANADA GOOSE(LARGOS, CORTOS Y LIGEROS) (+35 MODELOS)</i></b>
-💶 <b><i>PRECIO: 48-134€</i></b>
-🛒 <a href="https://usfans.com/product/3/7600129225?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
 FOTO: https://lh3.googleusercontent.com/docsubipk/AP9E6xUQtFY2bxxVhlqT4cLxWcBh8Yn6I_8Z5jvae82j1NTpUOCSBeOfeT7NP5aqRJToY07nsJTTMnozA1nJbh3ZIzjGlSfxGO2e7VCOXaLo45wnn8s4zsJzcq2j-UPtcBDcxLA9WLpbthwXFqD2ELyWM59EklSf5VhDgFZ5za9k3-s=s187-w187-h123
 🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
 🔎 <b><i>NOMBRE DEL ARTÍCULO: ASICS GEL (+40 MODELOS)</i></b>

@@ -189,3 +189,27 @@ FOTO: https://lh3.googleusercontent.com/docsubipk/AP9E6xWar7XLGUsq-1TzUDCVsfQXw0
 🛒 <a href="https://usfans.com/product/3/7569711746?ref=6T2VKE">LINK DE USFANS</a>
 
 🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/ADdU-axjw0ZK9E55YwaCOqFnoiRjwS3aQGNRUVb597wbL-uJCrzeeW0ryissEkWzx9IAJ1sNTK4ywC_FR5-7DdSxWlH0a4ZJ1tuFh0t-sh_3nnPtmq7l2TPRHPdOVuPNg3HyBfqLAi0wWvupVDgRe3SDKW7hFutAzNWmi7jl8nw=w174-h123
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: CHÁNDALES DE ENTRENAMIENTO FÚTBOL (+40 MODELOS)</i></b>
+💶 <b><i>PRECIO: 20€</i></b>
+🛒 <a href="https://usfans.com/product/3/7600170879?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://lh3.googleusercontent.com/docsubipk/AP9E6xVbN5wNhNtZDhSePfaxjRSCUfp7uU5-bzOKXxnwta2QYJFCekTHKRrdwQa0f8Om1qi75R3vHLYEFU_6Af7VrHOhsdgMusK7QIXDOCIoK8XmtdSR6ImODkAaUkxz2LwAZ954_CCIDHo8M_4g-sf4HS_J5U_Er6maeUaiXVxRhPY=s187-w187-h123
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: SUDADERAS CON CAPUCHA SUPREME (+40 MODELOS)</i></b>
+💶 <b><i>PRECIO: 14€</i></b>
+🛒 <a href="https://usfans.com/product/3/7600170875?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://lh3.googleusercontent.com/docsubipk/AP9E6xVW1nPwTCawcqPbOU4oEZj8kNL6QqNlwCCWUMxMDMjSzcmiaKObDaWyL15fAvy-sh8D_Rxt6MUOxXNcxUD8cCZR4OLjIvTC_YjSITt7WIj3OSzW9Nt-7YcAPRpP7iwLW0xLMa0_3K2aFYbRASYpDujiYFizccAu=s174-w174-h123
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: PLUMÍFEROS CANADA GOOSE(LARGOS, CORTOS Y LIGEROS) (+35 MODELOS)</i></b>
+💶 <b><i>PRECIO: 48-134€</i></b>
+🛒 <a href="https://usfans.com/product/3/7600129225?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
