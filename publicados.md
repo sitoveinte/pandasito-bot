@@ -213,3 +213,27 @@ FOTO: https://lh3.googleusercontent.com/docsubipk/AP9E6xVW1nPwTCawcqPbOU4oEZj8kN
 🛒 <a href="https://usfans.com/product/3/7600129225?ref=6T2VKE">LINK DE USFANS</a>
 
 🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://lh3.googleusercontent.com/docsubipk/AP9E6xUQtFY2bxxVhlqT4cLxWcBh8Yn6I_8Z5jvae82j1NTpUOCSBeOfeT7NP5aqRJToY07nsJTTMnozA1nJbh3ZIzjGlSfxGO2e7VCOXaLo45wnn8s4zsJzcq2j-UPtcBDcxLA9WLpbthwXFqD2ELyWM59EklSf5VhDgFZ5za9k3-s=s187-w187-h123
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: ASICS GEL (+40 MODELOS)</i></b>
+💶 <b><i>PRECIO: 35€</i></b>
+🛒 <a href="https://usfans.com/product/3/7880178945?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://lh3.googleusercontent.com/docsubipk/AP9E6xWum_dgMdlQpIl61ThO4doNDJiFAaBYNK63rHrbTs1aZz9Tl0SgJ_-h5SJ4Lu6NNqJrO13MlNEvdOUqjmgqw3LIfY-aLh3IAXMnnjlGW3IL9XR6qsvndbPN245_irsaTLFryAgYUzMCwvWUyPI_1UhLJQeQmTrHuzp8XYWf_sI=s174-w174-h123
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: ZAPATILLAS LV (+30 MODELOS)</i></b>
+💶 <b><i>PRECIO: 34€</i></b>
+🛒 <a href="https://usfans.com/product/3/7883218704?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/ADdU-ay7ni8gFZ9QjeZHOT6Ba3C5SGKVqxcdOl767oPfcmRAazRaAZ0af_yoV5WKc1mlChN9oh-A5q_Rw-t447kv5JZUFsmss-OXZ9e7IF7ui7cTbhPO08LP9hCcXhX7TD9b7QuWJ5xO_FTFlJU3d6xflzOW-TLlssznl991Nj4=w187-h123
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: PLUMÍFEROS PRADA, FENDI, GUCCI... (+40 MODELOS)</i></b>
+💶 <b><i>PRECIO: 35-55€</i></b>
+🛒 <a href="https://usfans.com/product/3/7883240374?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
