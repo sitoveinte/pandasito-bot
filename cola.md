@@ -2,30 +2,6 @@
 // Separa cada mensaje con una línea que solo tenga ---
 // Para foto: primera línea "FOTO: https://enlace-de-la-imagen.jpg" y debajo el texto.
 // Negrita <b>así</b>, enlace <a href="https://...">TEXTO</a>. Las líneas que empiezan por // no se publican.
-FOTO: https://lh3.googleusercontent.com/docsubipk/AP9E6xXhfsCvWwWVg0KEWV2SIjwJ5uXPokmu4AtVtp5pnCGQwPRqOCh82swXt0jWETx8hPIH6RSjywJ4mL0XitOsmvs-x2_MMnCO3wm2ZBd5vcvyUhRHrgk81aCM7Qnj72c-gupYmSwh5rnaxmL_wxfLzRPqsPQAgzMsnZMCop0mFC0=s187-w187-h123
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: CHÁNDALES DE ENTRENAMIENTO DE FÚTBOL (+40 MODELOS)</i></b>
-💶 <b><i>PRECIO: 18€</i></b>
-🛒 <a href="https://usfans.com/product/3/7569711748?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://lh3.googleusercontent.com/docsubipk/AP9E6xXPmjOu9RYTzcKXmt4hyVjtPIlX2LSf3EjqddLXHS23Nq8iHpChlSFwU30Lvp9TQ9LQbduU8ojWptIpvf7QVrDSn3v3giEsYQNQgyH03Cph3tWILGEkGUfSgKFZP3UlFn8B8IkYE0WFxPwhp4n5-g1EztcveYHSXQIiQQxuHOY=s174-w174-h123
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: RELOJES CON CORREA DE ACERO ROLEX (+35 MODELOS)</i></b>
-💶 <b><i>PRECIO: 15€</i></b>
-🛒 <a href="https://usfans.com/product/3/7569694166?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://lh3.googleusercontent.com/docsubipk/AP9E6xWar7XLGUsq-1TzUDCVsfQXw03-4d_CBKdHkHNDlMJAyUAcP8em0azc7Jg8g-ySxDuKj4hvWowT3ccMNdbanVOV-FIkYQwjhIduOzF0o7lN-gX71RKGlW3GMBrGd0Flg0l1mZGGHGEf23VY_jEjdUkQ3Z1zynVSyHMMc9A=s187-w187-h123
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: CONJUNTOS DE SUDADERA (+20 MODELOS)</i></b>
-💶 <b><i>PRECIO: 11-16€</i></b>
-🛒 <a href="https://usfans.com/product/3/7569711746?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
 FOTO: https://docs.google.com/sheets-images-rt/ADdU-axjw0ZK9E55YwaCOqFnoiRjwS3aQGNRUVb597wbL-uJCrzeeW0ryissEkWzx9IAJ1sNTK4ywC_FR5-7DdSxWlH0a4ZJ1tuFh0t-sh_3nnPtmq7l2TPRHPdOVuPNg3HyBfqLAi0wWvupVDgRe3SDKW7hFutAzNWmi7jl8nw=w174-h123
 🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
 🔎 <b><i>NOMBRE DEL ARTÍCULO: CHÁNDALES DE ENTRENAMIENTO FÚTBOL (+40 MODELOS)</i></b>
