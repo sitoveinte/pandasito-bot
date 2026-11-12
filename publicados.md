@@ -333,3 +333,27 @@ FOTO: https://docs.google.com/sheets-images-rt/ADdU-aydCMoXOKQdI0Um-kyTfIjudstGh
 🛒 <a href="https://usfans.com/product/1/974720680033?ref=6T2VKE">LINK DE USFANS</a>
 
 🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/ADdU-ayPJEJfFQgDFSAwioEnkJJKKFuhp0tBZLkL8Iqm9_Clz-AxoxjDFzLUhXjvulkmfqOTdHIVRlMwQts0mP3tDmTl2XwO9049acvE5zdPVoMcHdyhR0MaZeBsLY3LL6oyYHe7YGo5TSaUpCHuhWmcD70BA6OQEO9-lNWxR7M=w174-h152
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: ADIDAS CAMPUS (+10 MODELOS)</i></b>
+💶 <b><i>PRECIO: 17€</i></b>
+🛒 <a href="https://usfans.com/product/1/1037297071738?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/ADdU-ayHdtFXjOdc_J3TiqrqOqyGDW02zx689oaK9V-nST3MPDAL1zrXB6xCpmwhq0zEUhTC5UwFHl3PtWheqdzREoaYrgpZGXBETfKgV18pGHz8E0zTEUmIhKtaR2zGWh-KkOA5gMpIwFuerufimsgE-4PvOheTr0rlotUPW44=w187-h152
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: ADIDAS GAZELLE (+8 MODELOS)</i></b>
+💶 <b><i>PRECIO: 19€</i></b>
+🛒 <a href="https://usfans.com/product/1/1031898946833?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/ADdU-ayKKRfun3tEP2nkhzTQmjynGr92Dl4Q-MudM8b-RXcxRBEKiQAd-6ns1mdWh5FUmt1cFnZNTOwNVpIp2WtbhtmEJGWnutz-zPJYoIymB91qzfjmM6bPgjXnoHhjC-HS_sFdqTJyZEnHhAWzionT7L7WmqQQeZFMAmPUPog=w174-h152
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: NEW BALANCE 530 (+20 MODELOS)</i></b>
+💶 <b><i>PRECIO: 16€</i></b>
+🛒 <a href="https://usfans.com/product/1/1067086628691?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
