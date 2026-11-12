@@ -309,3 +309,27 @@ FOTO: https://docs.google.com/sheets-images-rt/ADdU-ay-ZucewiuWMb5htD8fbx1kE49t4
 🛒 <a href="https://usfans.com/product/3/7883267778?ref=6T2VKE">LINK DE USFANS</a>
 
 🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://lh3.googleusercontent.com/docsubipk/AP9E6xXZcCfP47JlE1xhQ168h1QqbccTZlnBduLEiFMiV42xPLwwKPXSTtpL925TGMwIWRNFgFXKKbBvGQUtu8P-IK-KqrQfZDnx_RW120Pr_SdR8q2qg_fgcc08ZupLWpPJW-ihRlZ6sqOnoA--HWVAZHXhqOhpfG5StloRNzFzydc=s187-w187-h123
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: ZAPATILLAS CHANNEL (+40 MODELOS)</i></b>
+💶 <b><i>PRECIO: 38€</i></b>
+🛒 <a href="https://usfans.com/product/3/7880186753?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://lh3.googleusercontent.com/docsubipk/AP9E6xXIw3jkWPaAZJYxBRl56NBVrGEyQQ8-ePHl2EeGW0rRg6lIOv8DD0xREJE5ZJYyEwMqIqkFp4jIgPrUMSAvmaIAxoFz5g553MsR7ziT18b0mpDJ4wdKgDDmzY1V9QP4wxVBLSCouDIISzfLlFrauNy4CtH3mkLt=s174-w174-h152
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: ADIDAS SAMBA (+10 MODELOS)</i></b>
+💶 <b><i>PRECIO: 17€</i></b>
+🛒 <a href="https://usfans.com/product/1/1042710913722?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/ADdU-aydCMoXOKQdI0Um-kyTfIjudstGhmavr8mR4TS8z0gjDvAebjPGnhXvNE2e7Mw5IhFoopYyFjOygZTyt8VbNqiA_VhlK753OmbOxKPSpb7WcgW-2WT2mvxburOWZ8aNFcZPJPAkJWM_Vdq1vVjGNPGS9xzwzdvUwyVL_g8=w187-h152
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: ADIDAS SPEZIAL (+10 MODELOS)</i></b>
+💶 <b><i>PRECIO: 17€</i></b>
+🛒 <a href="https://usfans.com/product/1/974720680033?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
