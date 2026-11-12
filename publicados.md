@@ -285,3 +285,27 @@ FOTO: https://docs.google.com/sheets-images-rt/ADdU-axE08hqjFDTuD4NZUsXmchIGfsn4
 🛒 <a href="https://usfans.com/product/3/7883283872?ref=6T2VKE">LINK DE USFANS</a>
 
 🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://lh3.googleusercontent.com/docsubipk/AP9E6xUNdn38U8gEgQhDhEQisLs5NI3wTforeNi-aLvaAMLCj-uiid2W1Cr72Nvw2Iz3V0fiweycUbbrCxFYxamfZYTD21mDrIP2qToXcrTGzyp92qDHh03fKZtle7ZP-tEh8KfK9V5x6Wu6ZAfL-E3UBuH_Xa6h92NNFSOuiG1tCyw=s174-w174-h123
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: SUDADERAS CON CAPUCHA RALPH LAUREN (+40 MODELOS)</i></b>
+💶 <b><i>PRECIO: 17€</i></b>
+🛒 <a href="https://usfans.com/product/3/7883203076?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/ADdU-azUjNpJMC22JZkMgpv7vA4L_4qIVv9cL8Pk9C-6zO3D4KOPjaQWeiIsNnDsDHGycJ2NQLB1j-gPIFHJDPwDwr_7RARWc0qiZkViJ5OpIqPcDXHuSfbH6RtExPEZjn1Qz_65jF0eoZG-pvMebBvcD-GCRpEpM78oOoPIj5Q=w187-h123
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: JERSÉIS DIOR, GUCCI, LV, BURBERRY... (+40 MODELOS)</i></b>
+💶 <b><i>PRECIO: 14-47€</i></b>
+🛒 <a href="https://usfans.com/product/3/7883242328?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/ADdU-ay-ZucewiuWMb5htD8fbx1kE49t4Lk7Y_Gph2GTs8EIxgR9DSiqfdIPGkXko9eyizVPIqMcuZAja_tvO2sYxsMsABjBE4E8odl-XhZO5LP3MiEJUkqSnoxtu3Ul3qphC2is_FRjLhP5CB1_D-McD7NcbXAj3ToJBxncsMQ=w174-h123
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: AUDEMARS PIGUET (+35 MODELOS)</i></b>
+💶 <b><i>PRECIO: 11-19€</i></b>
+🛒 <a href="https://usfans.com/product/3/7883267778?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
