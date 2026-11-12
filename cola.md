@@ -2,30 +2,6 @@
 // Separa cada mensaje con una línea que solo tenga ---
 // Para foto: primera línea "FOTO: https://enlace-de-la-imagen.jpg" y debajo el texto.
 // Negrita <b>así</b>, enlace <a href="https://...">TEXTO</a>. Las líneas que empiezan por // no se publican.
-FOTO: https://docs.google.com/sheets-images-rt/ADdU-azNLnim4j7KHaPVmmrricjdWdYH0TCr_uWlrnZ3WFEnEA-JtLtjAsGKxYXDsfP5EeleE3s0IX40xsG_SaJ-5ZlPjnbzE_oRmTR3Jm1vEuBhgcUdjIzTqfjyydEfhBv-Gl7tot1W7dpcRysnltmml6jisHBDEiVyqGq-2Sk=w187-h152
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: NIKE DUNK LOW SB (+10 MODELOS)</i></b>
-💶 <b><i>PRECIO: 18€</i></b>
-🛒 <a href="https://usfans.com/product/1/975826578225?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://docs.google.com/sheets-images-rt/ADdU-az3R9CuPlSrcscIRzZjrROSylgrbjcvLIOFRxNk1MOvSQf49G0DQgEyhEORnZT3H745ELQRUJCxBUqZjrKlJ4vT4m50KhXgCEsM8YM1Otn5lukVscSqxesu4byrxvYpSEhtQY7laf_aIRYg8d6ltDUG_3-silUBvWQkfvU=w174-h152
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: CONVERSE CHUCK TAYLOR (+20 MODELOS) LOW/HIGH</i></b>
-💶 <b><i>PRECIO: 14€</i></b>
-🛒 <a href="https://usfans.com/product/1/998129630212?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://docs.google.com/sheets-images-rt/ADdU-axy5WapcjkP3Fcql2cQ9yQABLjfa5QxHFRIQ9XSNQBWgW-LAv7we3dGBYQe_zo4T-cgIZLw0-g96l9RClMQ-AhFBSe9M3dWGofhmqO04TwAo8IDlLlgiAXlRDkP5g3o2QWa4PrAFmVPQQ95J60VVVDZmQLxBbKLSdQBJ5w=w187-h152
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: ADIDAS ULTRABOOST (+20 MODELOS)</i></b>
-💶 <b><i>PRECIO: 22€</i></b>
-🛒 <a href="https://usfans.com/product/1/1049561120532?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
 FOTO: https://docs.google.com/sheets-images-rt/ADdU-ayOr9LSMerGcO-TuDtFcy9IU9REfqpcUL5j6LGcbdbU0_v9vBujqmakryMOg3_KEG0n8ljGenQj_0oAteCvwn-mNusi8hL95bsVZ29Ru-vNZTbpfZnSWr-r9rBguTP8slH3uEixe6DHUjL1XvOy726-nsqQ2tbyMO0i=w174-h152
 🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
 🔎 <b><i>NOMBRE DEL ARTÍCULO: ALEXANDER MCQUEEN (+15 COLORES)</i></b>
