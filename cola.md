@@ -2,30 +2,6 @@
 // Separa cada mensaje con una línea que solo tenga ---
 // Para foto: primera línea "FOTO: https://enlace-de-la-imagen.jpg" y debajo el texto.
 // Negrita <b>así</b>, enlace <a href="https://...">TEXTO</a>. Las líneas que empiezan por // no se publican.
-FOTO: https://docs.google.com/sheets-images-rt/ADdU-ax59NQVVO_iWEki-ZlRKVhMWwMzmIFfk5V2saMEU94ncLZhHW55eBiz8JenOlafLUb2WmfbguShYeGOu4kMgxQasvB2W8KWRYlVp1Rt0qQ9OYwfUSGfImd1pV1EIjxCtDjiZQY8uqzI1WwNPJ1xUctsMaWp44C6A6yjmjY=w187-h152
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: NIKE AIR MAX 90</i></b>
-💶 <b><i>PRECIO: 19€</i></b>
-🛒 <a href="https://usfans.com/product/1/1061247571437?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://docs.google.com/sheets-images-rt/ADdU-ayWH4FTzo_TLOSWlWQMNOdtbXNicVS2OLVLVuAMMzbbNA2JLShNJPaCOW-3E5mvNoQB-VfME3qPkWSi84InMOiQL8Tz1I4IdwaeNwD8UPaqy-xTC4GYnPS0H5BGZj08ruHr5AlWt-K2gKJ6AdVHZpW3yr8hJvw5EM9M=w174-h152
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: NIKE AIR MAX 97</i></b>
-💶 <b><i>PRECIO: 17€</i></b>
-🛒 <a href="https://usfans.com/product/1/921982749303?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://docs.google.com/sheets-images-rt/ADdU-axn9HzNMxuGZ9PhblxGY7sbCa4ZMRUS3QAj9mMcP9KlMJU8yzpqpzLKU-NVrxGwIo5xUkkaQqa9ZwFjAw2ccmk-tl6ixxW6gMDein7Jcy27PGAs2WjVv2B2MVYPQgJfqnwiV8EIFOLj9plbYweXAtjBZZcVR-LbGYgqXR4=w187-h152
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: NIKE AIR MAX 1</i></b>
-💶 <b><i>PRECIO: 19€</i></b>
-🛒 <a href="https://usfans.com/product/1/905619435433?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
 FOTO: https://docs.google.com/sheets-images-rt/ADdU-awVpkVGbtzO-MDfhXk7hZiqHvwjCQgSSiSVPP6RlNWxROCXnN4LPPDgxcovUCPuYBzvXwDL2aLDrb0dUBVNaT-bXzIpaH53mCvzBI7LeqH5FeA7fxmlMP7llL71SeSWTbd9MV9LiyIwk88-iFZaKb0_szAl7woEv2aDFOs=w174-h152
 🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
 🔎 <b><i>NOMBRE DEL ARTÍCULO: NIKE AIR MAX 270</i></b>
