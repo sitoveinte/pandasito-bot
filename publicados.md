@@ -477,3 +477,27 @@ FOTO: https://docs.google.com/sheets-images-rt/ADdU-axn9HzNMxuGZ9PhblxGY7sbCa4ZM
 🛒 <a href="https://usfans.com/product/1/905619435433?ref=6T2VKE">LINK DE USFANS</a>
 
 🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/ADdU-awVpkVGbtzO-MDfhXk7hZiqHvwjCQgSSiSVPP6RlNWxROCXnN4LPPDgxcovUCPuYBzvXwDL2aLDrb0dUBVNaT-bXzIpaH53mCvzBI7LeqH5FeA7fxmlMP7llL71SeSWTbd9MV9LiyIwk88-iFZaKb0_szAl7woEv2aDFOs=w174-h152
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: NIKE AIR MAX 270</i></b>
+💶 <b><i>PRECIO: 15€</i></b>
+🛒 <a href="https://usfans.com/product/1/944002884659?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/ADdU-ayELjY3vAH9KGfVf5wUemAk4DW2Gqy3hh4X7G2NE3OoJ3vhyqUza8plilFq-Zw98yZg4Q6Xb3Zk8OFmkTayOi6i_Tn3vIxSkYVWk97tI8hFKNINEhdKjgXmdjDXmz_dNTyjIldDOfHqB_nuLaZ6MJpDVxhqm9cRz9trMIM=w187-h152
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: NIKE BLAZER JUMBO HIGH &#x27;77</i></b>
+💶 <b><i>PRECIO: 20€</i></b>
+🛒 <a href="https://usfans.com/product/1/1007055139094?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/ADdU-aw-za30wFfgd7NmVKeT3S_ig1OB03ocAu3HTChakPl35uXNoH7TYhrXmNKPYW6ONXyAiIbabIGczQdbsz-PBuZWCK7_BBUiYSBqWywldva1PMvc833gHYLcAI5lmoxs55nZ7FDo5DAWXiqueHs8t8Or5s0PFT_KeKH9=w174-h152
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: NIKE BLAZER HIGH &#x27;77</i></b>
+💶 <b><i>PRECIO: 22€</i></b>
+🛒 <a href="https://usfans.com/product/1/1002950558824?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
