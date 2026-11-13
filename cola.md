@@ -2,30 +2,6 @@
 // Separa cada mensaje con una línea que solo tenga ---
 // Para foto: primera línea "FOTO: https://enlace-de-la-imagen.jpg" y debajo el texto.
 // Negrita <b>así</b>, enlace <a href="https://...">TEXTO</a>. Las líneas que empiezan por // no se publican.
-FOTO: https://docs.google.com/sheets-images-rt/ADdU-axDf4aDFwRMO2XNEeZs5PUhezY1PK4H1tuEoT7WWb-wR82egEmQZrpo6_J69cwSXvtZ2l4DGovkV5kevbbvdI_27RBDCKZmQiKrWXSczqoY6ivM45fsmhRYXFaCsJOp5levEWSWySavR1effsjBr1jTVBhqNj20eeS3=w174-h152
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: SALOMON XT-6</i></b>
-💶 <b><i>PRECIO: 22€</i></b>
-🛒 <a href="https://usfans.com/product/1/1067341861429?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://docs.google.com/sheets-images-rt/ADdU-awHkpfpSfyIeIYShvcMG0j6GkVI6L0smNIb_Bp7MaCE9bCVYXseAVhoFSEUbBS4ykFTsSQ32-D1UBAN1gg742YqPuEO43GO0QPuwDITrh91_JxVzB-fT5zr0M9QlkCJN4CGm0T2urWFOExBDFjeUv7vE4clPslhzHOqLZ8=w187-h152
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: ONITSUKA TIGER MEXICO 66</i></b>
-💶 <b><i>PRECIO: 16€</i></b>
-🛒 <a href="https://usfans.com/product/1/975432590928?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://docs.google.com/sheets-images-rt/ADdU-azhj3V416PqyIuXZhLz_3tZlEGAvZV0gZrPwZELFQyL36dgQ3WAX5DVIialgW6zsgWNdWYLFwQO5yoR2w2vmFmgETTQFi_svpzjXciZdti_27IYjMvy3-sky5AEOktcGdUORKnDijrWpXnsHw7Wbt07T767Mwxc-Fjg3Ck=w174-h152
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: NIKE AIR ZOOM SPIRIDON CAGED</i></b>
-💶 <b><i>PRECIO: 22€</i></b>
-🛒 <a href="https://usfans.com/product/1/1062989704915?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
 FOTO: https://docs.google.com/sheets-images-rt/ADdU-axQi04yCY6cEM7e8IxmyXbJNYvheLXdRgP74TI3MLJg9mo-3JLOUIJbFrGH6WPFPf4oHzUzqsDyZYzFjFI3nCDshjiBUgFtasC7t_TFSADCaVKKLvJWDHd7K6tN-fgEp8XctpcDzipwHXcbAwTMk7X56MCEvGESlUWK7R4=w187-h152
 🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
 🔎 <b><i>NOMBRE DEL ARTÍCULO: NIKE AIR JORDAN 1 LOW</i></b>
