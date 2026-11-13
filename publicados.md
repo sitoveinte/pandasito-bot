@@ -501,3 +501,27 @@ FOTO: https://docs.google.com/sheets-images-rt/ADdU-aw-za30wFfgd7NmVKeT3S_ig1OB0
 🛒 <a href="https://usfans.com/product/1/1002950558824?ref=6T2VKE">LINK DE USFANS</a>
 
 🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/ADdU-ayy9CV5huRsw1gAwccZaYoS6xd7tKqyLn75oIik7gPo8xe6xBgfhVqVO7I3ZfhNDkrpF_WJrO4Y9WyAfKS-3z2bQ_Y6KxEfxROZiviB0UhuTAw2HKsrDE3psKz9XBpEI5O91ekpd6l94SeqYS9ltF9sVnua6FvjiqGri3M=w187-h152
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: NIKE BLAZER LOW &#x27;77</i></b>
+💶 <b><i>PRECIO: 18€</i></b>
+🛒 <a href="https://usfans.com/product/1/1033092949779?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/ADdU-awQbqDvJAUe4-0Zn6arqwdryqsi-YXmD2pz_8FOZkExz3Rl5zbXrBSxIuxLyUTUuqKRvSfGBnLA5Ad2YWbEYLUtAupCHj1Ryq2pgl213YfqNvibHWx0CYWHt2jKeT6B6yy1oE8M3DURScr5wMrwXNBv0k6mBvW9h8rrq94=w174-h152
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: JORDAN 3</i></b>
+💶 <b><i>PRECIO: 19€</i></b>
+🛒 <a href="https://usfans.com/product/1/1040723776619?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/ADdU-azHJ2d-UQi5dKK3uO-IOph9xVYXAKyvQFeCQdE--0FwI2VNcbC5uH4A7CSfuX6LggjijBVmJPmPy44a0Gg_Bwr1CP3IZfnhMwzP48iC9Uwk9Yg09uFl_KGdghgul4L0a80W4dkPzKSuZUkntx47VOi_C0t1-zhsPqxqRcA=w187-h152
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: NIKE CORTEZ</i></b>
+💶 <b><i>PRECIO: 19€</i></b>
+🛒 <a href="https://usfans.com/product/1/1082439257784?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
