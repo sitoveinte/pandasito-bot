@@ -2,30 +2,6 @@
 // Separa cada mensaje con una línea que solo tenga ---
 // Para foto: primera línea "FOTO: https://enlace-de-la-imagen.jpg" y debajo el texto.
 // Negrita <b>así</b>, enlace <a href="https://...">TEXTO</a>. Las líneas que empiezan por // no se publican.
-FOTO: https://docs.google.com/sheets-images-rt/ADdU-axQi04yCY6cEM7e8IxmyXbJNYvheLXdRgP74TI3MLJg9mo-3JLOUIJbFrGH6WPFPf4oHzUzqsDyZYzFjFI3nCDshjiBUgFtasC7t_TFSADCaVKKLvJWDHd7K6tN-fgEp8XctpcDzipwHXcbAwTMk7X56MCEvGESlUWK7R4=w187-h152
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: NIKE AIR JORDAN 1 LOW</i></b>
-💶 <b><i>PRECIO: 18€</i></b>
-🛒 <a href="https://usfans.com/product/1/1032644878571?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://docs.google.com/sheets-images-rt/ADdU-awNEwWt8spNtaGHx8OZq-optFy8omjYO-ULrSi9Z44TKY-65NnmTdPBLLgs-Unt3yb4c6lmUPIlT0XYqhZ-3uZ5eFBLuX6YlgFsWIaFfrvJSFN3ldwcS0-msadpQIASICPx29Fvh1WI3YBg7ozstS4X9DrwQhaUJmMN=w187-h152
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: NIKE AIR MAX 95</i></b>
-💶 <b><i>PRECIO: 20€</i></b>
-🛒 <a href="https://usfans.com/product/1/1052654279333?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://docs.google.com/sheets-images-rt/ADdU-ayTfE1XW_NMAyXI309pRHdi7UTgkYMKCT12qQpzTmr5Eu7FMdSYdO5P50Cig9QNI8rt-PjyDx0dH03O5yi0cIjDr2pFiptT8TcXR5H2nmkYaGFumzY_ZAyHD4VtRsMK9EH-GZXMjTxRz9ljao6saxRfnh2MgaSjbHF-DYw=w174-h152
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: NIKE WAFFLE ONE</i></b>
-💶 <b><i>PRECIO: 21€</i></b>
-🛒 <a href="https://usfans.com/product/1/1040980268601?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
 FOTO: https://docs.google.com/sheets-images-rt/ADdU-ax59NQVVO_iWEki-ZlRKVhMWwMzmIFfk5V2saMEU94ncLZhHW55eBiz8JenOlafLUb2WmfbguShYeGOu4kMgxQasvB2W8KWRYlVp1Rt0qQ9OYwfUSGfImd1pV1EIjxCtDjiZQY8uqzI1WwNPJ1xUctsMaWp44C6A6yjmjY=w187-h152
 🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
 🔎 <b><i>NOMBRE DEL ARTÍCULO: NIKE AIR MAX 90</i></b>
