@@ -2,30 +2,6 @@
 // Separa cada mensaje con una línea que solo tenga ---
 // Para foto: primera línea "FOTO: https://enlace-de-la-imagen.jpg" y debajo el texto.
 // Negrita <b>así</b>, enlace <a href="https://...">TEXTO</a>. Las líneas que empiezan por // no se publican.
-FOTO: https://docs.google.com/sheets-images-rt/ADdU-awheLTdA2DVzSQNEForfI0-G3z0ueLXHAfQR8aLN7yLhNuT1P9M7HC008DzR6IYrKpq1LhvU2mImhvAUPwfcCuYjuISBDplKqO3b0hSy9ou2YT2KUU5f6wnRfYxImWPQu7_fk7wZBfHAqMPWO5PXNi6F-ejH9f_yldN=w174-h152
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: NIKE PEGASUS PREMIUM</i></b>
-💶 <b><i>PRECIO: 21€</i></b>
-🛒 <a href="https://usfans.com/product/1/1067711592109?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://docs.google.com/sheets-images-rt/ADdU-azEug9Ww3YKg2kJfDKKSiQUO1_z1rv_7PM3TY01ZtcpKxHg3ZgJKKMVVLKZwbl9B3jiJV0TwZQEf24Qq3Ep6Go6esCJpgtX4Ury37Lvjn3B6SO_9NlTXn-MTnl79txqsUizp7cUS1LuZMPkcQz-K7eJseAkHwCvmfc7=w187-h152
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: AUTRY MEDALIST LOW</i></b>
-💶 <b><i>PRECIO: 22€</i></b>
-🛒 <a href="https://usfans.com/product/1/1077899875180?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://docs.google.com/sheets-images-rt/ADdU-ayVn3JczJpLEkOu0US_ii_QLJLapQO24jQM2XBnGTNK6AI1dQSmutOaLt9yxfBEX996ndi-9h28LXFZxsCs9AgEJYOzGh_OVngcmpVx-rnr80-R3E5lGZK8eLTsBh_FyXLMogcs7LbuxZHfxXs0KHqIT_2sg25Jc0VewNU=w174-h152
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: ZAPATILLAS MAISON MARGIELA REPLICA</i></b>
-💶 <b><i>PRECIO: 23€</i></b>
-🛒 <a href="https://usfans.com/product/1/1070830667357?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
 FOTO: https://docs.google.com/sheets-images-rt/ADdU-ayQ0JI5jW73MNvo1jzZV0k8yw8uDrbowlYMbnqRmLdgIH3MHvIGkNgoXwKWsMBX4mxRi9EZrcSH0rn8BjZp-0MdnQ36IJcci8bUvpZHZ-snMnKQNXABV6qE0u3MlKoP-ntKFFtgOoxAiZG1FB6kiY6F-tHzZ0s8hrsWbms=w187-h152
 🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
 🔎 <b><i>NOMBRE DEL ARTÍCULO: VANS OLD SKOOL</i></b>
