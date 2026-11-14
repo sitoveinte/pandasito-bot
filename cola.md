@@ -2,30 +2,6 @@
 // Separa cada mensaje con una línea que solo tenga ---
 // Para foto: primera línea "FOTO: https://enlace-de-la-imagen.jpg" y debajo el texto.
 // Negrita <b>así</b>, enlace <a href="https://...">TEXTO</a>. Las líneas que empiezan por // no se publican.
-FOTO: https://docs.google.com/sheets-images-rt/ADdU-az8Eb2D4hVAFSy38vbNDJBn3FVJpxN4QPvbqtVef0siEAzwNaOftht1x8k9V5t38dDxLv8Em3bJX-nNgELlaRXXbeu7R41RuEZOOqbh-NFdAzi6decmd-05HUmmf2067x4ftJWSPcVdq_1lXzKXun_gIB-9-VW5ofb5=w187-h152
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: ASICS GEL-1130</i></b>
-💶 <b><i>PRECIO: 19€</i></b>
-🛒 <a href="https://usfans.com/product/1/1051733931142?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://docs.google.com/sheets-images-rt/ADdU-ayJOj3NcRQmnx4TGnJxVFhYSyv2DzB3yBRcWlm9NRF6Q7NkwysONOxoHR1bDqseElfjWWEkSbIQmta18Ek4XSQlan79J-lDftiyNfqHUImWLTNBuTB_xdKjvbHeZZN30n_Te5zxmj3y3Ppg4FFqALqdBu-s7yVBPYrzSrE=w174-h152
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: MAISON MIHARA YASUHIRO</i></b>
-💶 <b><i>PRECIO: 19€</i></b>
-🛒 <a href="https://usfans.com/product/1/934284695522?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://docs.google.com/sheets-images-rt/ADdU-axgsmfjgRJXnI41c2V6MXA9vZk966spo7-DNifkB7_VsyBlaTRMBcmdxXYfOpbPwWtNvdDeoQkmQUawtsSTP4ituPPSmvkPG7z_g6saPNy0-0IiyLU7hahlGADL9BLePWMBo2fU6HD63tbLAuTB_qbUnJVXnzw-mbd5Dxk=w187-h152
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: NIKE AIR MAX FURYOSA NRG</i></b>
-💶 <b><i>PRECIO: 23€</i></b>
-🛒 <a href="https://usfans.com/product/1/1071423095331?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
 FOTO: https://docs.google.com/sheets-images-rt/ADdU-awheLTdA2DVzSQNEForfI0-G3z0ueLXHAfQR8aLN7yLhNuT1P9M7HC008DzR6IYrKpq1LhvU2mImhvAUPwfcCuYjuISBDplKqO3b0hSy9ou2YT2KUU5f6wnRfYxImWPQu7_fk7wZBfHAqMPWO5PXNi6F-ejH9f_yldN=w174-h152
 🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
 🔎 <b><i>NOMBRE DEL ARTÍCULO: NIKE PEGASUS PREMIUM</i></b>
