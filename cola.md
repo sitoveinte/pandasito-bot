@@ -2,30 +2,6 @@
 // Separa cada mensaje con una línea que solo tenga ---
 // Para foto: primera línea "FOTO: https://enlace-de-la-imagen.jpg" y debajo el texto.
 // Negrita <b>así</b>, enlace <a href="https://...">TEXTO</a>. Las líneas que empiezan por // no se publican.
-FOTO: https://docs.google.com/sheets-images-rt/ADdU-aydGk-qkBZMtxvyTmCiD-22c6Id2lVU41I-BBD7ER97FeJhfD7CXDXZEiwIBaNiSkQgwKq3usfihLXx0vVa8aRK5aVLPqail-sEtB09RUXF7FSqvqgZkWBEZyqTguWonpRagZMhs_QObmPakmvzt7S8aox36Cbm8qLCmW0=w174-h152
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: NIKE AIR MONARCH</i></b>
-💶 <b><i>PRECIO: 19€</i></b>
-🛒 <a href="https://usfans.com/product/1/986121666631?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://docs.google.com/sheets-images-rt/ADdU-aytoeV-5aBAHnp2A03_MKFE42eRkXeOHMkF4N4zixzSYcu6rtUpR0CKT5dD310KgmjJ20oWsMUbtWOnlH0NZHI-KsI3ZlO3KQALc5F30zWUHF3VZ66kLFg6L3cBAeFVlywnk43rXm9nctBhfrw2W6v60QnXhelK3wiLYXM=w187-h152
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: ADIDAS TAEKWONDO</i></b>
-💶 <b><i>PRECIO: 18€</i></b>
-🛒 <a href="https://usfans.com/product/1/1077427294467?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://docs.google.com/sheets-images-rt/ADdU-aw8QWuxNrcGH4c0YR_9v0fS3-bZtn1TVEGRPyPQPI7RqhReta7-3jSUgH0yzsG_rE2HJMHslK2JkXFG66WGHevzXVVzSYI1s_3WbQF-NX61aKQVPad5qtCjHQjEmcpz3ayu0ikyOcKG0zSygkoDAcVfd2V46WWSP7FcnEo=w174-h152
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: PUMA LAFRANCE</i></b>
-💶 <b><i>PRECIO: 25€</i></b>
-🛒 <a href="https://usfans.com/product/1/830008174711?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
 FOTO: https://docs.google.com/sheets-images-rt/ADdU-az8Eb2D4hVAFSy38vbNDJBn3FVJpxN4QPvbqtVef0siEAzwNaOftht1x8k9V5t38dDxLv8Em3bJX-nNgELlaRXXbeu7R41RuEZOOqbh-NFdAzi6decmd-05HUmmf2067x4ftJWSPcVdq_1lXzKXun_gIB-9-VW5ofb5=w187-h152
 🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
 🔎 <b><i>NOMBRE DEL ARTÍCULO: ASICS GEL-1130</i></b>
