@@ -2,30 +2,6 @@
 // Separa cada mensaje con una línea que solo tenga ---
 // Para foto: primera línea "FOTO: https://enlace-de-la-imagen.jpg" y debajo el texto.
 // Negrita <b>así</b>, enlace <a href="https://...">TEXTO</a>. Las líneas que empiezan por // no se publican.
-FOTO: https://docs.google.com/sheets-images-rt/ADdU-azj8_hTF6go9-3o-LZ6EUpebWqL0srmkWCx_M380Yi_7V1G2kFAk0WeFknc3duKj7wbacd07yzO3l7Mufk4uCYRvTUFglKflg6ZfeQhAKtQxZZQBPo98DlM2kW8mOBEmg-9mwTrMobezqlcvTq0wf3eByWV4C1OKsOfPpk=w174-h152
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: NIKE ZOOM FLY 6</i></b>
-💶 <b><i>PRECIO: 19€</i></b>
-🛒 <a href="https://usfans.com/product/1/1062597762110?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://docs.google.com/sheets-images-rt/ADdU-awmcZhtVM-B4toecFuHA8XjxmyHLFohtoaeX1hCRXT832Ga_gANbRgxYE8kebHVh_SrgzSxzTDSYN-RPlUefSYeenWEcPF78O8jr7Um7trfBiVIhKK32afjI3oe3FQAqGG-6OegINs-csVtBZDpOVjcCNne6o6MM0ZC=w187-h152
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: CONVERSE ONE STAR HANBYEOL</i></b>
-💶 <b><i>PRECIO: 18€</i></b>
-🛒 <a href="https://usfans.com/product/1/1068400178304?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://docs.google.com/sheets-images-rt/ADdU-az3MtfX1w7o5vsWHLQSK-1Ch3dLS1qJalaZKu-SFSE8dv9aQhh1IArXziagi0hCyKQxlO3tq9jlG5COeHENn6f8n2E0E8NvhIMUqHVVYtErPfzOSOZ0p4IFF5ADBEm51TCYDSjHDAd1j0rgUQopNVxppRGLjVt1l2lt8bk=w174-h152
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: NIKE G.T. HUSTLE 3</i></b>
-💶 <b><i>PRECIO: 23€</i></b>
-🛒 <a href="https://usfans.com/product/1/1069801106079?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
 FOTO: https://docs.google.com/sheets-images-rt/ADdU-azSBqWDRBz1KGWAGactbx7BHnkGzvsgtu0nh-Jmckzg12_zwoS5wnPEK6IP8JdgpJkQ4aDxh63At3Lx7Oj1YbsRWfJ8DD_pSw_MYYooJqfDnRKbhcxViWVCGc4DcY2zz2nzUwyCDcUEasPsvKDMkP_u4Xq2WvMeLy5pTww=w187-h152
 🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
 🔎 <b><i>NOMBRE DEL ARTÍCULO: HOKA CLIFTON</i></b>
