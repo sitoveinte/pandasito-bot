@@ -597,3 +597,27 @@ FOTO: https://docs.google.com/sheets-images-rt/ADdU-ayVn3JczJpLEkOu0US_ii_QLJLap
 🛒 <a href="https://usfans.com/product/1/1070830667357?ref=6T2VKE">LINK DE USFANS</a>
 
 🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/ADdU-ayQ0JI5jW73MNvo1jzZV0k8yw8uDrbowlYMbnqRmLdgIH3MHvIGkNgoXwKWsMBX4mxRi9EZrcSH0rn8BjZp-0MdnQ36IJcci8bUvpZHZ-snMnKQNXABV6qE0u3MlKoP-ntKFFtgOoxAiZG1FB6kiY6F-tHzZ0s8hrsWbms=w187-h152
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: VANS OLD SKOOL</i></b>
+💶 <b><i>PRECIO: 18€</i></b>
+🛒 <a href="https://usfans.com/product/1/821067071684?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/ADdU-ayqGJxVWRf6CDj74pTRB-qso7CTnUNAfHDhDzKN3D8_w7daTrbEkqV90YQ2vH3dNQKjrkglDbG-rjmCC95yLl_FujA2jauG9vP4Lww1oy64vbdsM5pOHV1JmorIw1gfmpuIz-XHVNFfQ-RkmrPwDWFXplovQYbLDYIMV4U=w174-h152
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: JORDAN 5</i></b>
+💶 <b><i>PRECIO: 21€</i></b>
+🛒 <a href="https://usfans.com/product/1/1005041337877?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/ADdU-azIqeLRLvY1dOZrFhWRFSdnYXsc94qnd2z2kBKZDgy6T0ywoTBMf7MEdUbUonFf_1p8MFn2cF0qCB5UJrO5B4Zg2AKwKjLnV1Yow6oHCAaDD6OmDOTqpxrpP8Yvra61p85Q9IRngfOg5qclfCQfK2JifAe7ViHbHE6bHf8=w187-h152
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: CONVERSE RUN STAR HIKE</i></b>
+💶 <b><i>PRECIO: 17€</i></b>
+🛒 <a href="https://usfans.com/product/1/1050950174053?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰

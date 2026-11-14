@@ -2,30 +2,6 @@
 // Separa cada mensaje con una línea que solo tenga ---
 // Para foto: primera línea "FOTO: https://enlace-de-la-imagen.jpg" y debajo el texto.
 // Negrita <b>así</b>, enlace <a href="https://...">TEXTO</a>. Las líneas que empiezan por // no se publican.
-FOTO: https://docs.google.com/sheets-images-rt/ADdU-ayQ0JI5jW73MNvo1jzZV0k8yw8uDrbowlYMbnqRmLdgIH3MHvIGkNgoXwKWsMBX4mxRi9EZrcSH0rn8BjZp-0MdnQ36IJcci8bUvpZHZ-snMnKQNXABV6qE0u3MlKoP-ntKFFtgOoxAiZG1FB6kiY6F-tHzZ0s8hrsWbms=w187-h152
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: VANS OLD SKOOL</i></b>
-💶 <b><i>PRECIO: 18€</i></b>
-🛒 <a href="https://usfans.com/product/1/821067071684?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://docs.google.com/sheets-images-rt/ADdU-ayqGJxVWRf6CDj74pTRB-qso7CTnUNAfHDhDzKN3D8_w7daTrbEkqV90YQ2vH3dNQKjrkglDbG-rjmCC95yLl_FujA2jauG9vP4Lww1oy64vbdsM5pOHV1JmorIw1gfmpuIz-XHVNFfQ-RkmrPwDWFXplovQYbLDYIMV4U=w174-h152
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: JORDAN 5</i></b>
-💶 <b><i>PRECIO: 21€</i></b>
-🛒 <a href="https://usfans.com/product/1/1005041337877?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://docs.google.com/sheets-images-rt/ADdU-azIqeLRLvY1dOZrFhWRFSdnYXsc94qnd2z2kBKZDgy6T0ywoTBMf7MEdUbUonFf_1p8MFn2cF0qCB5UJrO5B4Zg2AKwKjLnV1Yow6oHCAaDD6OmDOTqpxrpP8Yvra61p85Q9IRngfOg5qclfCQfK2JifAe7ViHbHE6bHf8=w187-h152
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: CONVERSE RUN STAR HIKE</i></b>
-💶 <b><i>PRECIO: 17€</i></b>
-🛒 <a href="https://usfans.com/product/1/1050950174053?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
 FOTO: https://docs.google.com/sheets-images-rt/ADdU-azj8_hTF6go9-3o-LZ6EUpebWqL0srmkWCx_M380Yi_7V1G2kFAk0WeFknc3duKj7wbacd07yzO3l7Mufk4uCYRvTUFglKflg6ZfeQhAKtQxZZQBPo98DlM2kW8mOBEmg-9mwTrMobezqlcvTq0wf3eByWV4C1OKsOfPpk=w174-h152
 🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
 🔎 <b><i>NOMBRE DEL ARTÍCULO: NIKE ZOOM FLY 6</i></b>
