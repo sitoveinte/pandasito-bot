@@ -645,3 +645,27 @@ FOTO: https://docs.google.com/sheets-images-rt/ADdU-az3MtfX1w7o5vsWHLQSK-1Ch3dLS
 🛒 <a href="https://usfans.com/product/1/1069801106079?ref=6T2VKE">LINK DE USFANS</a>
 
 🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/ADdU-azSBqWDRBz1KGWAGactbx7BHnkGzvsgtu0nh-Jmckzg12_zwoS5wnPEK6IP8JdgpJkQ4aDxh63At3Lx7Oj1YbsRWfJ8DD_pSw_MYYooJqfDnRKbhcxViWVCGc4DcY2zz2nzUwyCDcUEasPsvKDMkP_u4Xq2WvMeLy5pTww=w187-h152
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: HOKA CLIFTON</i></b>
+💶 <b><i>PRECIO: 18€</i></b>
+🛒 <a href="https://usfans.com/product/1/943800691342?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/ADdU-azQ0XxAJFFQVbEipKacdIm0T_o-2ZG2do2fjluk52WTub_w_UvbwCO75z9UaYOR64zhXLRbxwq7L8ppl4BXZji6e2-PeEvtepv70msYatolxsd2s85rjKO1BuLP9Oyc24wGGOAuq4FGiHkSY-gyHuwFBWtwp-twVIPA9rA=w174-h152
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: NIKE GIANNIS IMMORTALITY 4</i></b>
+💶 <b><i>PRECIO: 23€</i></b>
+🛒 <a href="https://usfans.com/product/1/1066451608942?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/ADdU-axRqg7NVmGZWZTxM2IQHhVh_ZB8Ds4A0QUr_hRsMUgyMvHQa5D3BA4M1VTB09Kr15AhFI4NwwmiFmv3gluyhV3ImbqQy0q81xE9S11OcoEqy8Ktv9v1l284dKsSMANWLd0zT48NqN2zZR1WvLyCDJ41pbJkfy2rIT8w=w174-h152
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: ON CLOUDMONSTER</i></b>
+💶 <b><i>PRECIO: 19€</i></b>
+🛒 <a href="https://usfans.com/product/1/1029672204362?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
