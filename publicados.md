@@ -693,3 +693,27 @@ FOTO: https://docs.google.com/sheets-images-rt/ADdU-ayMPzSFghfqc2miMXcxzvEgFr3FE
 🛒 <a href="https://usfans.com/product/1/1028359597153?ref=6T2VKE">LINK DE USFANS</a>
 
 🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/ADdU-ax0QWjyJprI_WXUU-ik--ICzAx2mC_NWSFPMs8NeeC_qBuzDpeLPrnSQw7O7NmpNpqtVb1Dt4GStHu7A8_Rw54_MSSERWvXfvzlKi_bZWdDfIAkrDMXwzLNnNWlqfInHZKVWTH8q4uIuqaGHW5rxZ1H60dTcrBukRnRDNg=w174-h152
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: ASICS KAYANO K14 (+20 MODELOS)</i></b>
+💶 <b><i>PRECIO: 23€</i></b>
+🛒 <a href="https://usfans.com/product/1/1060774824823?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/ADdU-aw7O4c98aJeCcNVgISAqUijGJ32cn0U6RDzE_16NH8ht8AVEvYWyI3Eo_aR5ubBxMUAECAuBP8nzxrNAGosSPLJeMC0YwMKi5wlsbT-TMUxvAkBS4l-0ZAT0LKpEKibxYjOwvzgn9d0W_UEsZTngJgfyY20ESZdUjHS6HE=w187-h152
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: NIKE CHANCLAS VERANO (+15 COLORES)</i></b>
+💶 <b><i>PRECIO: 2€</i></b>
+🛒 <a href="https://usfans.com/product/1/1063384356578?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/ADdU-ay7boB3f2E1uZeWfzJuarHeJx2xHBSVS2ldp_xWxEdT3OsESs9uI1PwOcNJ6FtE8VCgmSxWNXSF9DC4By-fcHZLSqtgASoJ9nvQ8QWLCz8qOnZk1jrc_Jkwkv0YIpO0VrvAtN1xPdfCbPHKYVVKLS_isArqTMqGdlsmcuo=w174-h152
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: TIMBERLANDS (+5 MODELOS)</i></b>
+💶 <b><i>PRECIO: 22€</i></b>
+🛒 <a href="https://usfans.com/product/1/988446904216?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
