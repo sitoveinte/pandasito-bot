@@ -717,3 +717,27 @@ FOTO: https://docs.google.com/sheets-images-rt/ADdU-ay7boB3f2E1uZeWfzJuarHeJx2xH
 🛒 <a href="https://usfans.com/product/1/988446904216?ref=6T2VKE">LINK DE USFANS</a>
 
 🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/ADdU-ax1qoAFimaPbfL8KW3OpsRPkndywj6tBARa3VG9n5qW25wMLVSgG8k_q-FASqQzNNvKnjUZ1Bz-A2olKcHCzUDnLvLb0q35ZtSdHvDVjkFuOAgOFiyYdY9Ncb8EqkI7SVKBDl4ZHm0EmCQ2eZWS3Cz1IcRQpwbTyvM7=w187-h152
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: ADIDAS YEEZY SLIDES (+20 COLORES)</i></b>
+💶 <b><i>PRECIO: 6€</i></b>
+🛒 <a href="https://usfans.com/product/1/923847424280?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/ADdU-ayXb4sqiFsYqUWYRoPoi49SA4ZjcYpiEMn9G3s6hk9o3d3NGx9q2OVkv6aYC1w_RBF8CHzBwYQ147TwnVE6X5Y1z8DK__Edoo1qhFK-NUcGEGLl2gAbADwKRArayKBjQkzXbB_EoxmBRTOwyLkFWBJAM2-kz3BP-h9mJ0g=w174-h152
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: ADIDAS SAMBA/SPEZIAL (+15 COLORES)</i></b>
+💶 <b><i>PRECIO: 25€</i></b>
+🛒 <a href="https://usfans.com/product/1/909075769774?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/ADdU-axCdGgKZ0M7vl0SqOXtPxC8Tv_RB44uY3e3XGNH58S6yWvkPN_rx66I7GV_WM-t3Eim0wYgt-NOrW-6WYZpOuZTc_J2RKpSli9UWIyQdkTxuOP0Ydo-2sgtoqjL5iKuQPpYve4CvsaIX0DpM2o2t47XWxhXE8Qeu4yGP8g=w187-h152
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: NIKE VOMERO 5</i></b>
+💶 <b><i>PRECIO: 20€</i></b>
+🛒 <a href="https://usfans.com/product/1/968069657198?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
