@@ -2,30 +2,6 @@
 // Separa cada mensaje con una línea que solo tenga ---
 // Para foto: primera línea "FOTO: https://enlace-de-la-imagen.jpg" y debajo el texto.
 // Negrita <b>así</b>, enlace <a href="https://...">TEXTO</a>. Las líneas que empiezan por // no se publican.
-FOTO: https://docs.google.com/sheets-images-rt/ADdU-axi-45pAx-PDY7adTDKuP_VzVnvIy5KetskvZsgMrLNf6IGEx5U87D82mS_UJQE7eih3vx-wXG4jY3DAJWknaE9g5ApLRdKPj75_23YzYHKGqUvgiTLK7kSayKOdL_PGLpbWPm_R4pE_c9Kngt3UeynQ6ehDGP9V3nO-Qg=w187-h152
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: ADIDAS OZWEEGO</i></b>
-💶 <b><i>PRECIO: 21€</i></b>
-🛒 <a href="https://usfans.com/product/1/1073885719570?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://docs.google.com/sheets-images-rt/ADdU-azKEe5XfT_krVXIkGYj0rIGMQL2lq9m71Nn7NGNArClAEfRIADnKdFT5Yn4OWEujqgF2J19m7JwcHOgHmwNfABzNVPEJTXgbe6owiNtCs0DxqH1BrCwWusC5q0bjoCATZSBPyUy_-c6qJOZhRI9V6RFOXyV9m09Q_neD5o=w174-h152
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: NEW BALANCE ELLIPSE V1 +15 MODELOS</i></b>
-💶 <b><i>PRECIO: 24€</i></b>
-🛒 <a href="https://usfans.com/product/1/1061929706715?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://docs.google.com/sheets-images-rt/ADdU-ayMPzSFghfqc2miMXcxzvEgFr3FEx7dmCtZaSWMO-uAQh3fZYfTvgoS1oT5JdskDUEVcMI--dqsfdntn104_aaNynP-MsDDc2JxdZqpie3DZztnLnulg25p6Y0yLVhkwItF-ewLLAIEmmh6US6sgNAw6_vJ8P9UgtWcRhA=w187-h152
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: NIKE CHANCLAS MIND (+6 COLORES)</i></b>
-💶 <b><i>PRECIO: 13€</i></b>
-🛒 <a href="https://usfans.com/product/1/1028359597153?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
 FOTO: https://docs.google.com/sheets-images-rt/ADdU-ax0QWjyJprI_WXUU-ik--ICzAx2mC_NWSFPMs8NeeC_qBuzDpeLPrnSQw7O7NmpNpqtVb1Dt4GStHu7A8_Rw54_MSSERWvXfvzlKi_bZWdDfIAkrDMXwzLNnNWlqfInHZKVWTH8q4uIuqaGHW5rxZ1H60dTcrBukRnRDNg=w174-h152
 🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
 🔎 <b><i>NOMBRE DEL ARTÍCULO: ASICS KAYANO K14 (+20 MODELOS)</i></b>
