@@ -2,30 +2,6 @@
 // Separa cada mensaje con una línea que solo tenga ---
 // Para foto: primera línea "FOTO: https://enlace-de-la-imagen.jpg" y debajo el texto.
 // Negrita <b>así</b>, enlace <a href="https://...">TEXTO</a>. Las líneas que empiezan por // no se publican.
-FOTO: https://docs.google.com/sheets-images-rt/ADdU-axCo_pOpuUnBfHoLKXgAa79Xdv5jyPKhKi-V326rcL1imhZI90ZFyOxN1W28jqP8jWt7PagxWby2Br8Q512iDHhTvpp3nzUjQ4dgpfbu6iG_AkLtek7gku_mTe-Yc0iyAsRri0mxerKil0lr5ulLpn7pyE6RE16WNWZ1bU=w174-h152
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: NEW BALANCE 530 (+25 MODELOS)</i></b>
-💶 <b><i>PRECIO: 20€</i></b>
-🛒 <a href="https://usfans.com/product/1/974507079402?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://docs.google.com/sheets-images-rt/ADdU-aweoVhRDCBKXQ34gc5XcjsnZ8den6qwxKYu_JcVyS_m379C8mnPqDE2cKWNJq3-g4S3bkarIGMoS7zwXgusoiMbS4NPKEtEVn7xwHGj_oQL9xHxupzZAb4COj6b23JYyWRuQ8-3O7sHFn5d5hk9Xjz4kgniRnTGZUKgqN4=w187-h152
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: XT-QUEST SALOMON +10 MODELOS</i></b>
-💶 <b><i>PRECIO: 32€</i></b>
-🛒 <a href="https://usfans.com/product/1/980043137354?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://docs.google.com/sheets-images-rt/ADdU-axfGDantGd3XFWewiYgTYoiyYF_CHAPrf4RfjNW0tJT01OQEXAtmBxxEcjvARUvMMLJLlWu3OzT0xamOaj6VLbQSbN5rito3C68ExqF6QG30q16_-UYWhRRTBusugXhYV5AZN4mA6trL7gmJMKOjkdazGPVmCd5YPpyfSM=w174-h152
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: DIOR B30 (+10 COLORES)</i></b>
-💶 <b><i>PRECIO: 20€</i></b>
-🛒 <a href="https://usfans.com/product/1/1068623251418?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
 FOTO: https://docs.google.com/sheets-images-rt/ADdU-axBD9vNfdATISnHFrCcyttQjJzJLuKXFt8ty0kFSHfmSmSU8HxTiabIV53Uj9KL3Mnc-58y85Jh1_sBT8t6mJ6BIS2Gw9Qapf-FpdksWyaf1TGb0K6iecR2OAO_pVidMoT12khtfWZ9spymxEtczno8ViyfVeERoYcpOVA=w187-h152
 🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
 🔎 <b><i>NOMBRE DEL ARTÍCULO: NIKE TN AIR (+40 MODELOS)</i></b>
