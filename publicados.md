@@ -741,3 +741,27 @@ FOTO: https://docs.google.com/sheets-images-rt/ADdU-axCdGgKZ0M7vl0SqOXtPxC8Tv_RB
 🛒 <a href="https://usfans.com/product/1/968069657198?ref=6T2VKE">LINK DE USFANS</a>
 
 🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/ADdU-axl_s5uPWxd8OwNDLAuRnUbrLF_rNabwQ7EEqWdlCVdcjGzTy6sUApNA1g9KOWio0CvaoRQru8l4CWUNk4rBrE4Lbcs0lGB9fesij66NQ2nZH242Lkcb20SKnEoqIjaXOj-g_uwRh7A4dJk6TXqw5xjbY8VjHvI4SLs=w174-h152
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: BAPESTA (+20 MODELOS)</i></b>
+💶 <b><i>PRECIO: 21€</i></b>
+🛒 <a href="https://usfans.com/product/1/933736127861?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/ADdU-ayCgiP36QifNHi8FzIYQ3B3258BOsaN_wb2-0ASSOpvRPKdsKXOCijPkqwnIlg6TCoGmaruuJ82Nn51pp-h-Em_qf5VAY2eEQAN1reoeNcMeTyWixs1db-Yt0ipdkqhd-Gfb1BwAHC_btfmnyjGQbPVeImPz9Ma90p9LTc=w187-h152
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: JORDAN 4 (+30 MODELOS)</i></b>
+💶 <b><i>PRECIO: 20€</i></b>
+🛒 <a href="https://usfans.com/product/1/918020881362?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/ADdU-azOPHf--SshaMruGj2gE-j2gqZRNnuggxzxyv_hriY9OVurTH3B2pGzO_xbai8RnUDAeoISmIyFoiR_RfAPD9JAHfMaUV1qj9LkneQGfm9uv2m-peNaVe2_ZvF2e-jU8i-pivFX1zP-h0S8DWiTU0h219Qdh3iCNdrr5nQ=w174-h152
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: NIKE PEGASUS ZOOM 38 Y 39 (+20 COLORES)</i></b>
+💶 <b><i>PRECIO: 19€</i></b>
+🛒 <a href="https://usfans.com/product/1/900603618992?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
