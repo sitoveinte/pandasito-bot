@@ -765,3 +765,27 @@ FOTO: https://docs.google.com/sheets-images-rt/ADdU-azOPHf--SshaMruGj2gE-j2gqZRN
 🛒 <a href="https://usfans.com/product/1/900603618992?ref=6T2VKE">LINK DE USFANS</a>
 
 🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/ADdU-ayWOYr_SD0UH_EwfMndyBxSoPBMhK6iTEX9fJfBto8aDjqawBqpDXqa3epZcDKlw-Fey5sP0Hii-ss72vhk0bXgLvpreojSYORxYaBOpNWWWD5FT25EmGD8mgtC7IxnBVLkVPv5EknU3xWMB5M7gFvFMvN8wpOmsPV85j8=w187-h152
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: HIGH JORDAN 1 (+20 MODELOS)</i></b>
+💶 <b><i>PRECIO: 23€</i></b>
+🛒 <a href="https://usfans.com/product/1/958692603633?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/ADdU-azd13s1xPRvpNd8fmz6vzRGVCCX7G4Yu-ZvIQuD5gyMD5-1kj47K0sjVG73UV8kpIMFVqZgZotiBxBvKu14wQ8PEIXHetkMK1Wxu1yWLjTi16Q6oEvLXDcz3kvW8_5A-EBgkfprttHeyY2yncdIxfwbuAMSfgBd6dsm=w174-h152
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: NIKE JORDAN 11 (+30 MODELOS)</i></b>
+💶 <b><i>PRECIO: 18€</i></b>
+🛒 <a href="https://usfans.com/product/1/901078869025?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/ADdU-axLF_WXygxrE9TDs_RaC-nbWW632CwiNsBi7kZ7hubhA5yhCTdQIHJbv_M9dzvc9SSeQsq9nep69i6-EKgR2U1O85wzofkqJlHSYZoYet7Ai3l2AjQNpL2rhVpbYnVg6QQdOlcRaquCXxXKk-rHvSWWJyRxlxfJEPYrWFA=w187-h152
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: DIOR B22 (+15 MODELOS)</i></b>
+💶 <b><i>PRECIO: 25€</i></b>
+🛒 <a href="https://usfans.com/product/1/959244495866?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
