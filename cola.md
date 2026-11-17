@@ -2,30 +2,6 @@
 // Separa cada mensaje con una línea que solo tenga ---
 // Para foto: primera línea "FOTO: https://enlace-de-la-imagen.jpg" y debajo el texto.
 // Negrita <b>así</b>, enlace <a href="https://...">TEXTO</a>. Las líneas que empiezan por // no se publican.
-FOTO: https://docs.google.com/sheets-images-rt/ADdU-axnDAgCmW5DSE-zmcZcviEFfpIBYv4_rJjErq5IE2gijLBnnJ19LO-BntwUtTa0OyD-q017SL8HoCLMFL0rh8yFbQvMdn_r8ME4HXbipwKNTmD8yg1PpnLKYEqp2dpVAbm7xD34Bo5E8GUIHr_wT97eVtkFfRdfKu7G=w187-h152
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: ADIDAS ADIZERO EVO SL +15 MODELOS</i></b>
-💶 <b><i>PRECIO: 21€</i></b>
-🛒 <a href="https://usfans.com/product/1/1054077726457?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://docs.google.com/sheets-images-rt/ADdU-awtanxl2dIa6QrjnqQfJKRnc0CI8u6XoDLf9KkHKIW_d2lZrV9f9MX-06vY8LZvTVmoMydNaLwm0LMwIZnKOt_5tu-bKyGa-5zsdc4GYLPolWaIYIcduSb4JZzIzG3K7a9lQR6a7mhk617Dn9WbC34o1GWyGyjLV76v8ww=w174-h152
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: PRADA AMERICAS CUP (+20 COLORES)</i></b>
-💶 <b><i>PRECIO: 25€</i></b>
-🛒 <a href="https://usfans.com/product/1/893832411128?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://docs.google.com/sheets-images-rt/ADdU-ayXJ6N28p8bcPjxKZ9pTu2nWk2-Hey81TpQo7H3CyOfNRv6ufPD7EgkESUzPL01qKBIxZCluEsQ10y1ePXSvRclQdhLFdNJuDelPbtRsURkpOjKmrrR_IVKFt17Qzjx8exrQogprkdL72Shzmo4DWjcMhiAm44tvIPV-TQ=w187-h152
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: GOLDEN GOOSE (+30 MODELOS)</i></b>
-💶 <b><i>PRECIO: 25€</i></b>
-🛒 <a href="https://usfans.com/product/1/978566658944?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
 FOTO: https://docs.google.com/sheets-images-rt/ADdU-awjpCoNyw8gtwUl7CcVGY-vjTj12bnyVY_zaxnf49YgZbXhjBrB0_yO8SfejMLmau0m7NMPAsAbvOyPO7P2VTTEf2qdHvwyRyLuRB4Or8moAYGEIDaGAV6cWJdpUKmuJH3WPMeY23Mq4qu6As0GMVwmLivEAmuzeLskft4=w174-h152
 🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
 🔎 <b><i>NOMBRE DEL ARTÍCULO: NUMERIS</i></b>
