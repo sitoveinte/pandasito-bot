@@ -2,30 +2,6 @@
 // Separa cada mensaje con una línea que solo tenga ---
 // Para foto: primera línea "FOTO: https://enlace-de-la-imagen.jpg" y debajo el texto.
 // Negrita <b>así</b>, enlace <a href="https://...">TEXTO</a>. Las líneas que empiezan por // no se publican.
-FOTO: https://docs.google.com/sheets-images-rt/ADdU-azgQgmsRi25rFZ3vyGBKDPh2xuKvCRYS6jrMT82M2aAQAOvl1gtqjJ9UUBrUalhDuj2ajAbjXvWK7Qi13kUeuWmGpHBVsutXX7UiXJD6vxln7GbpQ2wA0jv_9lo6xgLlGQ8X2-MYS9xk7vV0RBEQumDCXae2zzhVjLi=w174-h152
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: NIKE VOMERO PLUS +10 MODELOS</i></b>
-💶 <b><i>PRECIO: 18€</i></b>
-🛒 <a href="https://usfans.com/product/1/1052374391292?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://docs.google.com/sheets-images-rt/ADdU-ayyXXmQ4ozT9kUlTxPdVWUNeqljKTlt__g6ca60gxjwtenB8mg781mzHRFrEjm5jk0soXjXTEcG8m7EzlG9BB-DOI7z_ixli5iP52KJuNloGM1sNv8Dafr16WIfzTdAaT_rZi1YkmS2F8ha193AAooE02nR3scnaWzV2sQ=w174-h152
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: NIKE AIR HUARACHE RUN ULTRA +5 MODELOS</i></b>
-💶 <b><i>PRECIO: 17€</i></b>
-🛒 <a href="https://usfans.com/product/1/1055442817684?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://docs.google.com/sheets-images-rt/ADdU-awIAq3Vw36d6mhCOjnUgAAfpyEfzH4bYcXF1vxaUh77AhSu2jl-2wEPrnZovofbRs0XOj6I98aDlW-6aZuJdJaUtkifE2M1HG9x2KGdjGlmhZmZdXmJF_6XhWpwTyUe_7-iWfdr_GLFhtP6O7nR0i4hdUScw6ql9NJbMJ8=w187-h152
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: NEW BALANCE FUELCELL SUPERCOMP ELITE V4 +10 MODELOS</i></b>
-💶 <b><i>PRECIO: 22€</i></b>
-🛒 <a href="https://usfans.com/product/1/1057853988766?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
 FOTO: https://docs.google.com/sheets-images-rt/ADdU-awOrp-AfcUJEo1PvUJFbcZISRPfdTESC6486pW7LYcsdTLk8EdFREEyX-keLF6QVZQEU25_w1haLeMRhKKopQ_Rv1lffmlPzUHLw_ONkj3kRN_8pskqkqhSbZKioheYARGKZmGSODcW-MpLG0Vb7J3NfFGviCD2wdY-T7o=w174-h152
 🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
 🔎 <b><i>NOMBRE DEL ARTÍCULO: ASICS MEGABLAST +5 COLORES</i></b>
