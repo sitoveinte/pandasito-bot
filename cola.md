@@ -2,30 +2,6 @@
 // Separa cada mensaje con una línea que solo tenga ---
 // Para foto: primera línea "FOTO: https://enlace-de-la-imagen.jpg" y debajo el texto.
 // Negrita <b>así</b>, enlace <a href="https://...">TEXTO</a>. Las líneas que empiezan por // no se publican.
-FOTO: https://docs.google.com/sheets-images-rt/ADdU-axe0YTqDSCFCyOB_WhohEcIpARU9UBuTYuA-LFT5yVRFxPyikwcNA_nmu-G3Eu2B_d2khP-pJIIcLOWRQLqCVUnP840MTLOBeLfVGp9lHa4hSKAooRJwjyeR7fX2y9aoFRsm77N1DjBtidRwJom_acAhLdcHJCFyNl69xg=w187-h152
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: NIKE TERRASCAPE (+15 MODELOS)</i></b>
-💶 <b><i>PRECIO: 20€</i></b>
-🛒 <a href="https://usfans.com/product/1/842215091998?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://docs.google.com/sheets-images-rt/ADdU-ayjYODJDAQXu9EVklB3sQG_cUbNa8uW191XO7griPxgQEvvY2NFjF7jAqmrvFoE6lIjSc19Nz4IgpgLsER-keHv2W5lgoJE6nk13W1sXupKwK9e6p2emBFFzpUf2Wh2ndUyE_qIhpjSNyFtXRb94RqCPphsHSKYbndR=w174-h152
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: NB 9060 (+20 MODELOS)</i></b>
-💶 <b><i>PRECIO: 26€</i></b>
-🛒 <a href="https://usfans.com/product/1/966884935152?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://docs.google.com/sheets-images-rt/ADdU-az-_Ay3wrxhMcHN7SuQbD9MOGyy88NfWWhcIVAZQjrV_JNtgA3Al5dulyzvvE1opHaY5bh1DBCRZ3b9BlB0zxrfjpMlsOUnAEoyyCGDFRQWmF4KkwMOpmhFVsQrVm7TGbZR1t9KK5gssTQ-MwsLkmQ_-UJdSVgMRR8RgtI=w187-h152
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: HOKA BONDI 8 +20 MODELOS</i></b>
-💶 <b><i>PRECIO: 17€</i></b>
-🛒 <a href="https://usfans.com/product/1/985512332107?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
 FOTO: https://docs.google.com/sheets-images-rt/ADdU-azgQgmsRi25rFZ3vyGBKDPh2xuKvCRYS6jrMT82M2aAQAOvl1gtqjJ9UUBrUalhDuj2ajAbjXvWK7Qi13kUeuWmGpHBVsutXX7UiXJD6vxln7GbpQ2wA0jv_9lo6xgLlGQ8X2-MYS9xk7vV0RBEQumDCXae2zzhVjLi=w174-h152
 🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
 🔎 <b><i>NOMBRE DEL ARTÍCULO: NIKE VOMERO PLUS +10 MODELOS</i></b>
