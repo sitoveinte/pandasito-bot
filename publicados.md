@@ -957,3 +957,27 @@ FOTO: https://docs.google.com/sheets-images-rt/ADdU-ayXJ6N28p8bcPjxKZ9pTu2nWk2-H
 🛒 <a href="https://usfans.com/product/1/978566658944?ref=6T2VKE">LINK DE USFANS</a>
 
 🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/ADdU-awjpCoNyw8gtwUl7CcVGY-vjTj12bnyVY_zaxnf49YgZbXhjBrB0_yO8SfejMLmau0m7NMPAsAbvOyPO7P2VTTEf2qdHvwyRyLuRB4Or8moAYGEIDaGAV6cWJdpUKmuJH3WPMeY23Mq4qu6As0GMVwmLivEAmuzeLskft4=w174-h152
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: NUMERIS</i></b>
+💶 <b><i>PRECIO: 23€</i></b>
+🛒 <a href="https://usfans.com/product/1/1058302846637?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/ADdU-ayFjn6PNaAXkAfIuNyHpydZ6JDsDFZrHki4F-Nhf69_6f-5jWF4la1gON2NN2nCV9dCKTNeGjnUIfaSTnNrITiYbQZfL0o3g68m5BJx_QKtR5qktzXYtRVg0KoesAmYd69YTMLsNO9ZyVroPC8YVQNfuNFe-KTLn8P-=w187-h152
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: NIKE TN 3</i></b>
+💶 <b><i>PRECIO: 21€</i></b>
+🛒 <a href="https://usfans.com/product/1/1058099039339?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/ADdU-awx-tM_nK31e1wZ1TWOpaNf6_1HGA6oclaxKXrQq-KQ9nSuuGGZBi_v9db6RggwyLpMLL2IGOJCZRXmnN9_SLWx1BJ0tv9fTpmn9Al9wBaEGuHHEJd_o-ZcG61bHgLNx4rtMQcqO_Xz9lY56oXd6iivAQtPZgk4pptoxNs=w174-h152
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: BOTAS UGG MEL</i></b>
+💶 <b><i>PRECIO: 27€</i></b>
+🛒 <a href="https://usfans.com/product/3/7872156011?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
