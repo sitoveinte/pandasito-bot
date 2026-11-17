@@ -909,3 +909,27 @@ FOTO: https://docs.google.com/sheets-images-rt/ADdU-awIAq3Vw36d6mhCOjnUgAAfpyEfz
 🛒 <a href="https://usfans.com/product/1/1057853988766?ref=6T2VKE">LINK DE USFANS</a>
 
 🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/ADdU-awOrp-AfcUJEo1PvUJFbcZISRPfdTESC6486pW7LYcsdTLk8EdFREEyX-keLF6QVZQEU25_w1haLeMRhKKopQ_Rv1lffmlPzUHLw_ONkj3kRN_8pskqkqhSbZKioheYARGKZmGSODcW-MpLG0Vb7J3NfFGviCD2wdY-T7o=w174-h152
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: ASICS MEGABLAST +5 COLORES</i></b>
+💶 <b><i>PRECIO: 22€</i></b>
+🛒 <a href="https://usfans.com/product/1/1054079849182?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/ADdU-azWPMh3WZxTGs7qz0h1K6avF1Rxt7MaDyL_ffRvj7LspfGvhNuiR5PNaY9FRD3sGAFJJ_pZ0Ajh0nyur9IH2HWzwTjTRfkCva7jF8McuHdz0kYiPQL-aBo9Owqoea8gqB9ru0qW4JRw0o4JHmGSO99Ko4OXKEFeOh1GJTs=w187-h152
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: NIKE P-6000 +15 MODELOS</i></b>
+💶 <b><i>PRECIO: 22€</i></b>
+🛒 <a href="https://usfans.com/product/1/1054582673979?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/ADdU-awHnzfWGwL4Qp0cRudyLAJCM37SbLpUHomsvl5Mk2pwPHb5Bs5yNdYPiGDz9ofXxnES-AySMAVbLyakdZ_4P0rIAuLWehJxduj5OoLaXr6xT_67eUDE-bbEcFACA8PnK6-QfSdU0dymJARPoW9JhwuWKrXpK5hfhBCX=w174-h152
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: NEW BALANCE 1906R +15 MODELOS</i></b>
+💶 <b><i>PRECIO: 20€</i></b>
+🛒 <a href="https://usfans.com/product/1/1054274937427?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
