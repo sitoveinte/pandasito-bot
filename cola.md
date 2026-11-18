@@ -2,30 +2,6 @@
 // Separa cada mensaje con una línea que solo tenga ---
 // Para foto: primera línea "FOTO: https://enlace-de-la-imagen.jpg" y debajo el texto.
 // Negrita <b>así</b>, enlace <a href="https://...">TEXTO</a>. Las líneas que empiezan por // no se publican.
-FOTO: https://docs.google.com/sheets-images-rt/ADdU-awAHxK1R0hDZjS_zNVvEOY3jWByB_ohM9EetvkXHbXEp3SzIgjQVnTx5VjGU7NePSiXcifTyC1pYH025uq9ZGavuyjwZpJfmF2hFvspQ8iD6MbW5AMC7pTFnNzft2BMA-ZJne7r0p6m8S9oynWrmNUH47Ay0s6hf1Zzxzk=w174-h152
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: ADIDAS HYPERBOOST EDGE</i></b>
-💶 <b><i>PRECIO: 26€</i></b>
-🛒 <a href="https://usfans.com/product/1/1062259210969?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://lh3.googleusercontent.com/docsubipk/AP9E6xWygYsaqfTtRAZDO1cw6mzMRw3h_UNFfmRnPPm1FdCrKQmQ65QRRJsLjPS6Ds4Oh6M2E0dZSkr8gTa7vjOLFR1fDqBfpofweMDnlaLC6GoIltam1h8uBWbrfGmRj6XdMo04BpOYCwncw1pPpnZhm8NgzK-96NjfQlbS_5Y=s187-w187-h152
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: ZAPATILLAS PHILIPPE MODEL PARIS PRSX (+15 MODELOS)</i></b>
-💶 <b><i>PRECIO: 32€</i></b>
-🛒 <a href="https://usfans.com/product/3/7836688709?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://lh3.googleusercontent.com/docsubipk/AP9E6xVl4W8niDjlGpe1_kCi8dP_fsIrFBghxjgharPEDzcicV2I0JrJ5C1srADj6d-sz4gQZKJNPFqGNECz0FRWFNfdauzPWSZoE6DxyrQlKQ42Yxd7JKkXs62hvzk-WO5RmoUv0d3p1NESsJbi3osV7Zy_U_Whd4MO=s174-w174-h152
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: CHANCLAS RALPH LAUREN (+10 COLORES)</i></b>
-💶 <b><i>PRECIO: 11€</i></b>
-🛒 <a href="https://usfans.com/product/1/948534246132?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
 FOTO: https://docs.google.com/sheets-images-rt/ADdU-aztyqg9QyuoCovS0yqNvQ13ICIKsMcZ3FbWGOe4oSgnDzRM0JzKxEAMK6vKoNi8UsEjVaaw3zlmSjCIztrST9wcLHAwwW7JqeVMaU5E84OAPVuRmKBgDakuRrbQFeCn0bvF1wbuPBnQOwA9r3BKC3XCO9b7D44dDkm2wac=w174-h152
 🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
 🔎 <b><i>NOMBRE DEL ARTÍCULO: CAMISETAS MUNDIAL 2026 PLAYER VERSION (+40 EQUIPOS)</i></b>
