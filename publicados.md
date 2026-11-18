@@ -1029,3 +1029,27 @@ FOTO: https://docs.google.com/sheets-images-rt/ADdU-awf3FsXck8Xb9WaXOzH_4KlqN0_E
 🛒 <a href="https://usfans.com/product/1/979010855996?ref=6T2VKE">LINK DE USFANS</a>
 
 🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/ADdU-aw6SGY2nRMmUIwUltsDXpM5ILy3rY1U-Pi8yw9c0vp4wdZY8gLndiphWD7jDRQCkRF5QHwqM4mdWOPHMgAycZkqei-xPl1Yp9BENUgJOqJe-eklSxfgpi8Ljvnzsy77J1QL5ILx8iVNkto8WB28cHbkesCK9QKT49gu=w187-h152
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: RAF SIMONS CYLON-21</i></b>
+💶 <b><i>PRECIO: 35€</i></b>
+🛒 <a href="https://usfans.com/product/1/1060991286119?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/ADdU-axMpbGLCm-jMa_lHnnGYQHVHr11FWTdbiOL-onP8nkt9l-pfRN994yZnvP4q_CfxhloHUc5uG3QIYapSUvWj4zpMe3CA0_SQknoyyDiFJ7tnXEu64p5w10cdzpW0hw_uvtHZzA7OHE1xCJR6UVlxmSU9oVNZGoGrqDs=w174-h152
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: ZAPATILLAS GUCCI ALTAS</i></b>
+💶 <b><i>PRECIO: 47€</i></b>
+🛒 <a href="https://usfans.com/product/1/1054087899895?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/ADdU-ayMRS9DncNHZcsy4N_zEyQSPqhJ89NIWzPYOiT7X-jorRRxcwoxjftsxbUgjDIToDD729QeE40bxZabq7EYDcCBrh9TvJWHr4PqzsKCZsHZUd7PIj5DOh2_D1tqoVu69lR8gvKaohVfGwVuBrGeKb5VYYDb0IbDTheF5vk=w187-h152
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: ZAPATILLAS CHANEL</i></b>
+💶 <b><i>PRECIO: 26€</i></b>
+🛒 <a href="https://usfans.com/product/3/7814464022?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
