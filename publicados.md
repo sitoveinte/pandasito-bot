@@ -1005,3 +1005,27 @@ FOTO: https://lh3.googleusercontent.com/docsubipk/AP9E6xUaPTW_6ol-l1DM2Y777FevMY
 🛒 <a href="https://usfans.com/product/3/7882763292?ref=6T2VKE">LINK DE USFANS</a>
 
 🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/ADdU-azIM0OyxS2y6wDkOgOMuEv4Gd2Gs6lndtouZC56Wg4QCjzMmVrRKcS4PljKaci8LLPHk_k78WnGw2GKXY8ktq2CqsqoNy-udcqJ-cuiW6fivDLXj0JEU66bJSM7WnanMmvXVUKI5d4ykLocs8rokqI9a0deSDrPJgQ7e_Q=w174-h152
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: NEW BALANCE X STONE ISLAND</i></b>
+💶 <b><i>PRECIO: 22€</i></b>
+🛒 <a href="https://usfans.com/product/3/7732063425?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/ADdU-ayZEoaNOingnvz1gcz9eqwZth4jnDLJMpYiPAqbUMGfWMqC4d3m0u82n0S-wNZCYz9Ec_gsIYfYY43soAiEZtkSCn0MLRsahHgRsrR0zEKaL1HKR_d_L9NMIzHNlqGOjn1l4gw9XEiH-HSc9XaHOL76hWY6JOXitBdfsm4=w187-h152
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: NIKE SHOX TL +15 MODELOS</i></b>
+💶 <b><i>PRECIO: 20€</i></b>
+🛒 <a href="https://usfans.com/product/1/968063141232?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/ADdU-awf3FsXck8Xb9WaXOzH_4KlqN0_Ea1wQZGbfhTue2mk8l1hvuAl1kZM7KA3jvaZoV8YY9Pmqim-e0Oj9PSqwjc5CoILw3CHAqKAzzT2as1GQGZcCDyhI-0QNPfwWbVafBUttoenQvliL_2QlfoXLFzChXXRfNZMx8EN=w174-h152
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: NIKE AIR UPTEMPO +20 MODELOS</i></b>
+💶 <b><i>PRECIO: 20€</i></b>
+🛒 <a href="https://usfans.com/product/1/979010855996?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
