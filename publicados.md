@@ -1077,3 +1077,27 @@ FOTO: https://lh3.googleusercontent.com/docsubipk/AP9E6xVl4W8niDjlGpe1_kCi8dP_fs
 🛒 <a href="https://usfans.com/product/1/948534246132?ref=6T2VKE">LINK DE USFANS</a>
 
 🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/ADdU-aztyqg9QyuoCovS0yqNvQ13ICIKsMcZ3FbWGOe4oSgnDzRM0JzKxEAMK6vKoNi8UsEjVaaw3zlmSjCIztrST9wcLHAwwW7JqeVMaU5E84OAPVuRmKBgDakuRrbQFeCn0bvF1wbuPBnQOwA9r3BKC3XCO9b7D44dDkm2wac=w174-h152
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: CAMISETAS MUNDIAL 2026 PLAYER VERSION (+40 EQUIPOS)</i></b>
+💶 <b><i>PRECIO: 6€</i></b>
+🛒 <a href="https://usfans.com/product/1/961046348707?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/ADdU-axkPtSdJbnYWvYiG5_aGNaKSlyj1ux8Ejcwi62YuqiPGNlByEzLWDTFdWCzmLzi6r5mQXY8xtlmg9KtzmPJYD8wM-ZpMfyGi57txP4R8W4SrQ-DmHG9XKOsfuN8ft9rUEvL1cO1_673TGLhA90ra448AeJJVhgqMxiH9xM=w187-h152
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: ZAPATILLAS FÚTBOL SALA NIKE PHANTOM (+10 MODELOS)</i></b>
+💶 <b><i>PRECIO: 23€</i></b>
+🛒 <a href="https://usfans.com/product/1/998027172178?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/ADdU-ay-fF8naYgO3n5dUeMStc_DetHsK0qAHVHkpp1SRvSVa-bwHFEP68WelfSGIfNvps_LRIuh7lf1P4MvyR_1rwSceBPotBAbiOmDzu_weU2h7P2ivGjX0oSYcgyLamJtJu3o_xkIKpfqQWccuenV0gHBWtF_dhtoxQ6jt4Q=w187-h152
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: CAMISETAS RETRO FÚTBOL (+30 EQUIPOS)</i></b>
+💶 <b><i>PRECIO: 9€</i></b>
+🛒 <a href="https://usfans.com/product/1/961689723108?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
