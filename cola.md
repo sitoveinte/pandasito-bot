@@ -2,30 +2,6 @@
 // Separa cada mensaje con una línea que solo tenga ---
 // Para foto: primera línea "FOTO: https://enlace-de-la-imagen.jpg" y debajo el texto.
 // Negrita <b>así</b>, enlace <a href="https://...">TEXTO</a>. Las líneas que empiezan por // no se publican.
-FOTO: https://lh3.googleusercontent.com/docsubipk/AP9E6xUahmIKwWKJzdaqc88JQeROnP1xw3-amH7TB1QiAIeEio1Wgyt5Y5hsiZLzEwXrJynX_WcvRy_nkmcATTK7rJSIFv355JLYo0eCwvu22c6uHGH87nQaGII0F47newX5GOBAqQ8OSsTiY4dCq9rUTT4W2cHb4-l00Qexvo-552Q=s187-w187-h152
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: ZAPATILLAS OFF-WHITE (+30 MODELOS)</i></b>
-💶 <b><i>PRECIO: 26€</i></b>
-🛒 <a href="https://usfans.com/product/3/7749998746?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://docs.google.com/sheets-images-rt/ADdU-awOODx81BmeniFCiw-_SuQvcK3en8phSEqS_VGMxU0VJAE_QXuDWNvt2Tmzvr1U7EfzZed0MrPuIpV8gtnGCNcMtS2BkOZ-9pmLdfEG0KVuIe9XYw2pDlU6uh5na7sIP7ahhkj0gEs50ikweRhBT9FW2OIrv_1YsU-fKYY=w174-h152
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: ON CLOUD X4 X5...</i></b>
-💶 <b><i>PRECIO: 22€</i></b>
-🛒 <a href="https://detail.1688.com/offer/1077406156396.html">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://lh3.googleusercontent.com/docsubipk/AP9E6xUaPTW_6ol-l1DM2Y777FevMYjqGu2n1Ft_FPHhtIEBZfIc4wHAmDtxgHnEVKo03lNby2MgYaA80wu03-q0fzz4E5GYss0pXj_L0I4PTekzfBH6Yhac7_1RkXXvaTQD-oVEFV_8PK5ZFL97gKF1Hmkr7N6nhtCc_c1TtnIsXHs=s187-w187-h152
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: BOTAS DR. MARTENS 1460 PASCAL</i></b>
-💶 <b><i>PRECIO: 20€</i></b>
-🛒 <a href="https://usfans.com/product/3/7882763292?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
 FOTO: https://docs.google.com/sheets-images-rt/ADdU-azIM0OyxS2y6wDkOgOMuEv4Gd2Gs6lndtouZC56Wg4QCjzMmVrRKcS4PljKaci8LLPHk_k78WnGw2GKXY8ktq2CqsqoNy-udcqJ-cuiW6fivDLXj0JEU66bJSM7WnanMmvXVUKI5d4ykLocs8rokqI9a0deSDrPJgQ7e_Q=w174-h152
 🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
 🔎 <b><i>NOMBRE DEL ARTÍCULO: NEW BALANCE X STONE ISLAND</i></b>
