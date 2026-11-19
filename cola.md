@@ -2,30 +2,6 @@
 // Separa cada mensaje con una línea que solo tenga ---
 // Para foto: primera línea "FOTO: https://enlace-de-la-imagen.jpg" y debajo el texto.
 // Negrita <b>así</b>, enlace <a href="https://...">TEXTO</a>. Las líneas que empiezan por // no se publican.
-FOTO: https://docs.google.com/sheets-images-rt/ADdU-aymC4eC3FCjazmPFX0rY_Vhfp1k0fFNgCLqax4D56GOtoeOHCNGDhB0c794Y4RHZqJjCvkd7eEajU2Pkcn491vW_2BFx3ROBe8-G-nEAHl0bNtI6sxskLPrG7qddXezqJbCTKhjg8CHeruf4R78Z5ZYTnVweg0Pa9Sf=w174-h123
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: CHAQUETAS / CORTAVIENTOS DE FÚTBOL MUNDIAL Y +</i></b>
-💶 <b><i>PRECIO: 14€</i></b>
-🛒 <a href="https://usfans.com/product/1/751336174124?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://docs.google.com/sheets-images-rt/ADdU-awvIx3sbnaPwp1nANvwIYeJL85pj5lCNXw28M176FJ8B-4JU4rpRelBkOQc3Ve0af_xKZFQ6xTqmsPdyKP4IkM6Z4_VWX3L_Bq4t7mptfTGSHnDr1TMWkNiPT4xFq2S0R-OwPKnlx7zUlX9bjaxN_M7YfpI7jOw5KjPeQE=w187-h123
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: SUDADERAS CACTUS JACK TRAVIS SCOTT X FCBARCELONA (+10 COLORES)</i></b>
-💶 <b><i>PRECIO: 13€</i></b>
-🛒 <a href="https://usfans.com/product/1/926150367146?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://docs.google.com/sheets-images-rt/ADdU-awsWZF-yQAuDSxs3npuvpzCWw-gaTEhngS3pWoCd7auQzk3gVwoR4M9dUgTz6n59pGI-_GrcQ9e0NBwNqcL47dZPoivgGZvPW815_EJC4e20Bho7L_eaLLofj0Qf5gNalpAOE-sENmSHLJVPANHuIf5aREKoxVOKI4SLhE=w174-h123
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: CAMISETAS DE FÚTBOL RETRO PERSONALIZADAS (+40 MODELOS)</i></b>
-💶 <b><i>PRECIO: 10€</i></b>
-🛒 <a href="https://usfans.com/product/1/862073410476?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
 FOTO: https://docs.google.com/sheets-images-rt/ADdU-awxpIfDGhni16fO7SvOG_UyCTs6eccFXrCFqWvw9j9Z3j7qpxhN9bm7ahqbUnIG2d3vFIv30qm52la8n_5Bc298muG48i6yMnSKAJ0pz0yfOMAY7q65FiaE9tFNX4q2uKqb48W96ETBGL0M9VshwYARhqULLYtrLNOx3VA=w187-h123
 🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
 🔎 <b><i>NOMBRE DEL ARTÍCULO: CAMISETA ESPAÑA MUNDIAL + PARCHES+ PERSONALIZABLE</i></b>
