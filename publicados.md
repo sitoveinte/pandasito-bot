@@ -1125,3 +1125,27 @@ FOTO: https://docs.google.com/sheets-images-rt/ADdU-ax5ioKx_ftPiP_Bgj3d8211P6SGV
 🛒 <a href="https://usfans.com/product/1/975939059495?ref=6T2VKE">LINK DE USFANS</a>
 
 🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/ADdU-azZyniVOKthTSgjA8fgYnbmrWnbhEiLiRW6uxho3gJSDU_pzARzPN5mH4B4GLV0s3JUUCX_IRvsWg3DT2IAfY_p0DbkK5GxzMyZxR4HwksFAlDfEKhbY9c_ZYJSFQ0dTzoDobOzPztMxrYwI8oZz9cL_162-OTfNJwuJKA=w174-h123
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: CAMISETAS MUNDIAL 2026 PLAYER VERSION PERSONALIZADAS (+30 SELECCIONES)</i></b>
+💶 <b><i>PRECIO: 9€</i></b>
+🛒 <a href="https://usfans.com/product/1/999926306430?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/ADdU-ayfECEXn5y_-U0Xox72b7grGUKhIg-fo6tftFv9j8luPoaf_0KM0OcKKvhgbZk6INDkjUppsYXs0EJoSNLQmX3GTtQlfNVOvoTnjfJFn3bivLQhVBPyGjJRY9LSG82Gra54vQpPT_HSRmhBeQcmLZHJEXt5E2xW0s4Pf1k=w187-h123
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: SUÉTERES RETRO REAL MADRID (+10 TEMPORADAS)</i></b>
+💶 <b><i>PRECIO: 9€</i></b>
+🛒 <a href="https://usfans.com/product/1/967037476529?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/ADdU-azNvLlM7Eujt5LeCCw5JgWeL-6zNOnbnPnIhr2612sLK4ePiJNewHriiXrUEAqSpoQxyZlJk-i8ETB_IrCjS2ykyDC2J3hRDPLOpfuYuRi3Lr3ANx0xSOScMEDYG3UWOVaNXD-E3pTSjYhqfdAqmHkgQVaV6STMMJ77rzg=w174-h123
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: CAMISETA BRAZIL PLAYER VERSION + PARCHES MUNDIAL 2026 PERSONALIZABLE</i></b>
+💶 <b><i>PRECIO: 9€</i></b>
+🛒 <a href="https://usfans.com/product/1/1033947448419?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
