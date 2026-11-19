@@ -2,30 +2,6 @@
 // Separa cada mensaje con una línea que solo tenga ---
 // Para foto: primera línea "FOTO: https://enlace-de-la-imagen.jpg" y debajo el texto.
 // Negrita <b>así</b>, enlace <a href="https://...">TEXTO</a>. Las líneas que empiezan por // no se publican.
-FOTO: https://docs.google.com/sheets-images-rt/ADdU-awWThT-31V0p5mjCSG6geYJoRZH9ZxOTgZnxT5gkhPZwfmdjlbhJDgSKowZ4KstaeLRn8bETurRmVaIYzj83FHcuLajir1wEAaLyD0h24sc5_XSoG4doxuKL0z1-6cfutXpDXOWrK7ZCxVeUvSx0Dq_wb-xUGP7vk5_=w174-h123
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: CONJUNTOS CORTOS DE CHÁNDAL (+40 EQUIPOS)</i></b>
-💶 <b><i>PRECIO: 6€</i></b>
-🛒 <a href="https://usfans.com/product/1/934574713169?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://docs.google.com/sheets-images-rt/ADdU-azXCgvq4ki9w_Xg-De9eTQVZTfmL8mb1xFmSdl7Z9m4lSDHrck34vWHpXOcOYybc0dQY-RFxS7lLVyED3ApNSRxiQSNXuskp1r7nxGKFFkIgyou80vvlME7Fw6pgS9dQYRs5rkCKEFeWvBYty1kspLsZMMRZ_6YOaa0=w187-h123
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: CONJUNTOS CORTOS DE CHÁNDAL (CAMISETA SIN MANGAS) (+40 EQUIPOS)</i></b>
-💶 <b><i>PRECIO: 7€</i></b>
-🛒 <a href="https://usfans.com/product/1/1027553183226?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://docs.google.com/sheets-images-rt/ADdU-ax5ioKx_ftPiP_Bgj3d8211P6SGVOO6c-Nnm38k32BOuoFrF_3-nZk-E3xm0RLMfsd1tOeOsiv00SLNwKtIpmGX40K_luCXizMVfKPWnpEOVmVxdWjChD3vqIDv2fZlnPsYAYqErDWH5Vgojt8V1tYC3UZcrT7VpZPdQX0=w187-h123
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: CAMISETAS FÚTBOL X STUSSY (+50 EQUIPOS)</i></b>
-💶 <b><i>PRECIO: 6€</i></b>
-🛒 <a href="https://usfans.com/product/1/975939059495?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
 FOTO: https://docs.google.com/sheets-images-rt/ADdU-azZyniVOKthTSgjA8fgYnbmrWnbhEiLiRW6uxho3gJSDU_pzARzPN5mH4B4GLV0s3JUUCX_IRvsWg3DT2IAfY_p0DbkK5GxzMyZxR4HwksFAlDfEKhbY9c_ZYJSFQ0dTzoDobOzPztMxrYwI8oZz9cL_162-OTfNJwuJKA=w174-h123
 🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
 🔎 <b><i>NOMBRE DEL ARTÍCULO: CAMISETAS MUNDIAL 2026 PLAYER VERSION PERSONALIZADAS (+30 SELECCIONES)</i></b>
