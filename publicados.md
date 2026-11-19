@@ -1149,3 +1149,27 @@ FOTO: https://docs.google.com/sheets-images-rt/ADdU-azNvLlM7Eujt5LeCCw5JgWeL-6zN
 🛒 <a href="https://usfans.com/product/1/1033947448419?ref=6T2VKE">LINK DE USFANS</a>
 
 🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/ADdU-aw0pGTdzrABNgh1jEeIbhhWk5hxhlx1SjOfBIAvRsmfxWfs8GFMNaLsRPkc9_pHXNSTDahW3GeBURGnA4_GAplfrkydFWr6d8Xmt7l3GF_R7JQ_wj9X7_gd_zwTjn5_e4bZAsdb5IFQxAoko7PPLJ5G3abdTKJtBl9eRWY=w187-h123
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: CAMISETAS RETRO CR7 (+20 MODELOS)</i></b>
+💶 <b><i>PRECIO: 9€</i></b>
+🛒 <a href="https://usfans.com/product/1/997979159683?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/ADdU-az628BQwHcfhi2XonmWq-b9TX3Remr0ndNr6kyeHMHdDFPicNtJURoAr5lmTQRytLh7NWs93HT72iacBynUjOHPyShLLmr5HCsER6GAWtGhECjA2RPe8aOFbSX7voBNsh3vMnRC2xwW0SbwesmTd01KWMDczLYHug0X=w174-h123
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: CAMISETAS RETRO DE FÚTBOL (+30 MODELOS)</i></b>
+💶 <b><i>PRECIO: 8€</i></b>
+🛒 <a href="https://usfans.com/product/1/1019918237451?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/ADdU-axbjCKM83CPok5LzG8AbyPYMwHIbkihBBsk5TuUTw7UeBzsjpB2QhQhjySTYUgHDdMCM_nRuOF62U8Zpy2AETVS_-gbzSrIxRuUd3olfH0QAwf1SEoOed8TLXG-c_iYMm3GohaRrLrt78WH7W3Ny1KqElQxigqVdlpn=w187-h123
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: CHÁNDALS 26/27 (+20 MODELOS)</i></b>
+💶 <b><i>PRECIO: 11€</i></b>
+🛒 <a href="https://usfans.com/product/1/806413260803?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
