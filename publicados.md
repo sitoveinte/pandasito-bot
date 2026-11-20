@@ -1293,3 +1293,27 @@ FOTO: https://docs.google.com/sheets-images-rt/ADdU-azCbMO4xfN21X40p645mH1H_jnnV
 🛒 <a href="https://usfans.com/product/1/1045333041759?ref=6T2VKE">LINK DE USFANS</a>
 
 🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/ADdU-awlZw_mfBz9GDqW4gQ8Cj2_vw72jIbooNEl0Bzop9krnzFf8pRyntt5mAqq48f4Jml3j6piDB8_AwdYluTtfzRmx71lQI4SMt_GfBeY7E-DkzPbYMUbtCQJEmuzWmItJCw4kf6onDPsjAPb8Yylw3LHD-frnGk_Ru_4K0w=w187-h123
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: SUÉTERES RETRO MANGA LARGA (+10 EQUIPOS)</i></b>
+💶 <b><i>PRECIO: 10€</i></b>
+🛒 <a href="https://usfans.com/product/1/965549567427?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://lh3.googleusercontent.com/docsubipk/AP9E6xVA4-6epQQvQ0YOJqiI9RYBq5To2_EVV-TPByy9iUWmEpf4NuiUGzqBBb-1lTM5RotdQvE4bKKqQM6ZjKbav_pMGK8Whmh4ei_GOVf3ur87sgBRCcanPossAu6UfpXBP9apMkBNWaimEHhF5qzyTO9WOpTGGkE=s174-w174-h123
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: CAMISETAS RETRO MANGA LARGA CR7 MANCHESTER (+40 MODELOS)</i></b>
+💶 <b><i>PRECIO: 9-11€</i></b>
+🛒 <a href="https://usfans.com/product/1/968313069065?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/ADdU-aw7C3GSBltmSnhXwTeRZom1bLFA-5wSjBD8KsN32GJmjSOU6p7_Ne2-aoIFORnW-L2YqJ8Gb27Z2b8F7jks5Otnso5qd8oXhx01OXYV_GRDVdaFAIB0etN0mUB27BwgRnXsD6vAhTvONLSIwsXdvZFhz5LwToJYkUQX_vs=w187-h123
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: CAMISETA HOLANDA MUNDIAL + PARCHES+ PERSONALIZABLE</i></b>
+💶 <b><i>PRECIO: 9€</i></b>
+🛒 <a href="https://usfans.com/product/1/1041276683987?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
