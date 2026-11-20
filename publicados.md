@@ -1245,3 +1245,27 @@ FOTO: https://docs.google.com/sheets-images-rt/ADdU-ayj_WRFyr-WU4kn5XWcnxVALjDIu
 🛒 <a href="https://usfans.com/product/1/1036744619680?ref=6T2VKE">LINK DE USFANS</a>
 
 🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/ADdU-azLJ3UAyMkGLt8QpEte0eo8QXSse9yQAfh91l2YsWIeGpCPz_O5QkY5xWWRRAPHODH_dbhI8QfmGDMRdrRoRctSu2qPzhhHZpKP21XvCi9cJPlO-VnCCokDa4SeoDPhckYL8pmsPScSIo6xArPCvFX9JKWwpov1nF7N=w187-h123
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: CAMISETA PORTUGAL MUNDIAL + PARCHES+ PERSONALIZABLE</i></b>
+💶 <b><i>PRECIO: 9€</i></b>
+🛒 <a href="https://usfans.com/product/1/1012648367137?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/ADdU-awhzsrxqfEBypYuod5Q43d8LNAAoqYNtX-CmtikRrRpQleafebvFaUrakoSG2wpp05KqSh1NEWYTuNz2-9cAIA_PMkQmotwj3mAB1DsO5NobNbuD8C80YXo37CAenxaOIkSjKboj6VmXW6FYFWJa3Oql0LeDyz6ZT6QSyk=w174-h123
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: CAMISETA BRAZIL MUNDIAL + PARCHES+ PERSONALIZABLE</i></b>
+💶 <b><i>PRECIO: 9€</i></b>
+🛒 <a href="https://usfans.com/product/1/1032010302787?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/ADdU-aypkaQ2AB4P0DXt33E9c5KrNATD3Pe5vUqlMWh1sc3FMx-lyISLNYDaM8VSakPt4WOyuKJ9T9KVYlj5BQzT-2gqOQSVrphLMlJ1Iw4yfzXeE-Zo6Mp69Cj7JASGC7qK94NpiTnzMvHN4qhpDJkYxQs2QGXHcJMIut07=w187-h123
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: CAMISETA COLOMBIA MUNDIAL + PARCHES+ PERSONALIZABLE</i></b>
+💶 <b><i>PRECIO: 9€</i></b>
+🛒 <a href="https://usfans.com/product/1/994451886057?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
