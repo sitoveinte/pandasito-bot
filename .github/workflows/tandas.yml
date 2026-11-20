@@ -3,8 +3,10 @@ name: Tandas Telegram
 on:
   # GitHub retrasa (a veces horas) o se salta las ejecuciones programadas, así que
   # se comprueba cada 15 min y se publica la tanda que toque si aún no ha salido.
-  schedule:
-    - cron: "7,22,37,52 6-22 * * *"
+  # PAUSADO desde el 20/11/2026 por orden de jjsito ("no subas más tandas a telegram").
+  # Para reactivar, quita los # de las dos líneas siguientes.
+  # schedule:
+  #   - cron: "7,22,37,52 6-22 * * *"
   workflow_dispatch:
     inputs:
       forzar:
