@@ -2,30 +2,6 @@
 // Separa cada mensaje con una línea que solo tenga ---
 // Para foto: primera línea "FOTO: https://enlace-de-la-imagen.jpg" y debajo el texto.
 // Negrita <b>así</b>, enlace <a href="https://...">TEXTO</a>. Las líneas que empiezan por // no se publican.
-FOTO: https://docs.google.com/sheets-images-rt/ADdU-axndwMmZPfhSx8_HyQ7qaB0rMUnqCUySG6_7B58m8TUkYehMjkl7AyP608WTJSHzLhmxE5oDhT18NTNpeegkZcEEdeXs31DYdygKiVjLfccnBGtzV61MEcpoPyLMaI8Zq-zbZfrsNduvO3NQrDa3OAJvcydx0nLU2YrFCE=w174-h123
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: CAMISETA ALEMANIA MUNDIAL + PARCHES+ PERSONALIZABLE</i></b>
-💶 <b><i>PRECIO: 9€</i></b>
-🛒 <a href="https://usfans.com/product/1/1013786495081?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://docs.google.com/sheets-images-rt/ADdU-ayVqUhyMbA9nC0zmtpOOCnhF4VR5NhoHb1HmK2wfOYvaaVv4FIkgqYZLDsjYtl9k_E78_eHghu457DNVBEGLhDn1F5D6wcnhL5QOrorIdP3TzfwsWC1HG0vQ2dNrB0lH1k-bgY9l1dOvBxV2p70_EN2Jf5Jpq07Cg=w187-h123
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: CAMISETA MÉXICO MUNDIAL + PARCHES+ PERSONALIZABLE</i></b>
-💶 <b><i>PRECIO: 9€</i></b>
-🛒 <a href="https://usfans.com/product/1/995877485157?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://docs.google.com/sheets-images-rt/ADdU-azCbMO4xfN21X40p645mH1H_jnnV9uc_aVv5pK36kCs7B1lCs8Z0_tchiOdTaeLUj8QmEwVOCgRnhkehXgKwgKhPwUl9EDSKB1zbaLqaiQ-NWbmKUkpChFbcZNyTaS2qdC1J_22dv0DubkB-SaWB-Cm_nZ-Po-HwOHj=w174-h123
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: CAMISETA NORUEGA MUNDIAL + PARCHES+ PERSONALIZABLE</i></b>
-💶 <b><i>PRECIO: 9€</i></b>
-🛒 <a href="https://usfans.com/product/1/1045333041759?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
 FOTO: https://docs.google.com/sheets-images-rt/ADdU-awlZw_mfBz9GDqW4gQ8Cj2_vw72jIbooNEl0Bzop9krnzFf8pRyntt5mAqq48f4Jml3j6piDB8_AwdYluTtfzRmx71lQI4SMt_GfBeY7E-DkzPbYMUbtCQJEmuzWmItJCw4kf6onDPsjAPb8Yylw3LHD-frnGk_Ru_4K0w=w187-h123
 🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
 🔎 <b><i>NOMBRE DEL ARTÍCULO: SUÉTERES RETRO MANGA LARGA (+10 EQUIPOS)</i></b>
