@@ -121,8 +121,8 @@ def fotos_qc(bloque):
 def local(foto):
     """Telegram no consigue bajar las fotos QC de USFans (pesan ~5 MB y llegan como
     application/octet-stream), así que se descargan aquí, se reducen y se suben."""
-    if foto.startswith("/"):
-        return foto
+    if not foto or foto.startswith("/"):
+        return foto or None
     try:
         req = urllib.request.Request(foto, headers={"User-Agent": "Mozilla/5.0"})
         with urllib.request.urlopen(req, timeout=60) as r:
@@ -141,6 +141,23 @@ def local(foto):
         with open(ruta, "wb") as f:
             f.write(datos)
     return ruta
+
+
+_FRESCAS = None
+
+
+def foto_fresca(bloque):
+    """Los enlaces de las fotos del spreadsheet caducan: se vuelve a leer la hoja para
+    sacar el enlace actual de este producto, en tamaño grande."""
+    global _FRESCAS
+    if _FRESCAS is None:
+        try:
+            ps = productos_del_sheet(descargar_sheet())
+        except Exception as ex:
+            log(f"ERROR leyendo el spreadsheet para la foto: {ex}")
+            ps = []
+        _FRESCAS = {formatear(x).partition("\n")[2]: x["foto"] for x in ps if x["foto"]}
+    return re.sub(r"=w\d+-h\d+$", "=w1200", _FRESCAS.get(bloque, "")) or ""
 
 
 def enviar_album(fotos, caption):
@@ -167,7 +184,8 @@ def enviar(bloque):
         foto_sheet = primera[5:].strip()
         bloque = bloque.strip()
     qc = [f for f in map(local, fotos_qc(bloque) if USAR_QC else []) if f]
-    foto_sheet = local(foto_sheet) if foto_sheet else ""
+    if foto_sheet:
+        foto_sheet = local(foto_sheet) or local(foto_fresca(bloque))
     if len(qc) > 1:
         r = enviar_album(qc, bloque)
         if r.get("ok"):
