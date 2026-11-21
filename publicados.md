@@ -1341,3 +1341,27 @@ FOTO: https://docs.google.com/sheets-images-rt/ADdU-azOo1PhXbms1GNc-X6iI_1fAPNgq
 🛒 <a href="https://usfans.com/product/1/1081748271011?ref=6T2VKE">LINK DE USFANS</a>
 
 🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/ADdU-az9S_LBo1MOrEdlbpNoWVqtY6O7rr9O0yEx-XUJldPM4B9o8DWV0q8kzXrddiiD8C5Lz8614K2hvbUcVNMTLLxoY9BhDelGuoDmEMtTbqBZinqBb1lI5T8CnsQI19y1EiLjr0gkoIvd9DCAvDYtreziwpTiKIzcn-b-Hlc=w187-h123
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: CHÁNDALES SELECCIONES 26 27</i></b>
+💶 <b><i>PRECIO: 16€</i></b>
+🛒 <a href="https://usfans.com/product/1/837633073160?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/ADdU-awB_p0BePLKT1spXEwaC2oa279YdKMQXuH9SbJ2eoYfrQyrE5KkycpN88ksyiflwwtAIV6joFTSjU8jrsFGDKnrsxcurTbc1cn4KzKa-JqUA0LFX6VIBA9utR04UCsyphldDQFBpIWMqNe7a6w-8rPBoKHAsELfJrW3=w174-h123
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: CAMISETAS PLAYER VERSION 26/27</i></b>
+💶 <b><i>PRECIO: 7€</i></b>
+🛒 <a href="https://usfans.com/product/1/1048784108509?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/ADdU-az9NVYTwZNVwERGn_12xf16-1SYJqJ7_AnDP_e_PYuQV6HPDQ3pOydOi4u_ZvI37E-m-TZmxKWNrdnC9PTUznMbzvwdI3tjuv8PUM79K27zKryFv9W2LRGqJwniHLzZP5ccMGA1x1T1joHcFnJLeZblmczaiecVw6y_Alw=w187-h123
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: CHÁNDALS DE LA LIGA (+10 MODELOS)</i></b>
+💶 <b><i>PRECIO: 11€</i></b>
+🛒 <a href="https://usfans.com/product/1/990507097458?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
