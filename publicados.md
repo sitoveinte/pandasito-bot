@@ -1389,3 +1389,27 @@ FOTO: https://docs.google.com/sheets-images-rt/ADdU-az94qBIxDK3x5a7gYns1FZq-4Ja2
 🛒 <a href="https://usfans.com/product/1/1047975658042?ref=6T2VKE">LINK DE USFANS</a>
 
 🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/ADdU-ayGpGmuW2PlnV1e5DYpdOv3YzTXWagEqqLPqx6B-yDy2GWgZBJzZTPGdivgzUh0HgjSmi_4tyRyGQAk04W5bF8MyOsdoeV7OG315kJNhX-yhUfyrTVJHa3i1VqJsgONTC-HfC47JJDPwjEV0nyBKmRZ1pbqmokSWo4LU-s=w187-h123
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: CAMISETAS RETRO INTER &amp; AC MILAN (+20 MODELOS)</i></b>
+💶 <b><i>PRECIO: 7€</i></b>
+🛒 <a href="https://usfans.com/product/1/1052203421051?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/ADdU-az6TjJr40SJAMbL6DpdF2WNW5NaAPRf6cUrZ0Za_aCPZ_s29eUaeM_gFTB0AxD3yEmKZ6fumHcwvzxG2FWD63hzzvmoMZ0cs9iPS5XQIGzUaGa34MQvoAQcSC35nUhMf_xgklSUxMTZXTPwTqTBC_o7P-AEh9hHf7mkf0Y=w174-h123
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: CAMISETAS DE ENTRENAMIENTO SIN MANGAS 26/27 +40 MODELOS</i></b>
+💶 <b><i>PRECIO: 6€</i></b>
+🛒 <a href="https://usfans.com/product/1/828553389769?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/ADdU-awlcaAVmfFJ4POAVTtHH5emulnq2tWMBMAC3Q2Q3wGa6tselje6v_RWyW2a1CXKZsPdp4q6lkIPkBsYMGrJJvLKMsHqhiCHD9--AKJQPiOJg-xWQ51P4K4vVgFAvrpap0tw47cHkhpQvDtEiPDKF6yDk-k3eTCe2ywzo-0=w187-h123
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: CHÁNDALES MUNDIAL 26/27 LARGOS Y CORTOS (+40 MODELOS)</i></b>
+💶 <b><i>PRECIO: 7-12€</i></b>
+🛒 <a href="https://usfans.com/product/1/787505774276?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰

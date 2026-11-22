@@ -972,3 +972,11 @@
 2026-11-22T15:30:01 OK message_id=4183: 'FOTO: https://docs.google.com/sheets-images-rt/ADd'
 2026-11-22T15:31:04 No se pudo descargar la foto (HTTP Error 403: Forbidden)
 2026-11-22T15:31:05 OK message_id=4187: 'FOTO: https://docs.google.com/sheets-images-rt/ADd'
+2026-11-22T21:48:43 No se pudo descargar la foto (HTTP Error 403: Forbidden)
+2026-11-22T21:48:43 Se envía solo el texto
+2026-11-22T21:48:43 OK message_id=4191: 'FOTO: https://docs.google.com/sheets-images-rt/ADd'
+2026-11-22T21:49:43 No se pudo descargar la foto (HTTP Error 403: Forbidden)
+2026-11-22T21:49:43 Se envía solo el texto
+2026-11-22T21:49:44 OK message_id=4192: 'FOTO: https://docs.google.com/sheets-images-rt/ADd'
+2026-11-22T21:50:48 No se pudo descargar la foto (HTTP Error 403: Forbidden)
+2026-11-22T21:50:50 OK message_id=4193: 'FOTO: https://docs.google.com/sheets-images-rt/ADd'
