@@ -1365,3 +1365,27 @@ FOTO: https://docs.google.com/sheets-images-rt/ADdU-az9NVYTwZNVwERGn_12xf16-1SYJ
 🛒 <a href="https://usfans.com/product/1/990507097458?ref=6T2VKE">LINK DE USFANS</a>
 
 🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/ADdU-aziyqJ-9y2fPNPEbNqXNSPIs7suQpEfV1WCrv64zcNVcr74E1QXjl6AGjneA5hEuNtKBvzw2PrCKKTQYwKhgvEbBtZfg_sD5q8jK0uyDbgH6uMP3bKe2v-w-WtKYfYwQu3ptBJuiEoLQL-EJHa1Ihvjh4sXUNZc8FHq988=w174-h123
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: CAMISETAS 26/27 PLAYER VERSION PERSONALIZADAS CON PARCHES LIGA (+50 MODELOS)</i></b>
+💶 <b><i>PRECIO: 10€</i></b>
+🛒 <a href="https://usfans.com/product/1/854809591400?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/ADdU-az_tivW3iu-SIFpelFaagCLji-foRwXSeAEuSKaBO0fg3O574eiNBT4hEuf-sW228l0Hod-P8rugfFEnQHtrmfSFdNvRyZqAJlbwZt7dPJlhCRbm5SB-BkmJdXCae2LXdhvX8yCbz_W8rjRbpT-EkRLa5vUBEKLHwKt=w187-h123
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: SUÉTERES DE LA LIGA (+10 MODELOS)</i></b>
+💶 <b><i>PRECIO: 9€</i></b>
+🛒 <a href="https://usfans.com/product/1/1003558766506?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/ADdU-az94qBIxDK3x5a7gYns1FZq-4Ja2C45n5BzvEHYQ71WealJBsLnzRwBAsL9NFxo9NGFS6w5RVmKArE3gmT_LskKuLNM1OU3p-pZT4rZV9cK2rCadn_U12pQKSlcEA2k6t-ZsKGlqsKAlshc5KXKSYlH1QP1c_BEGpUJUVU=w174-h123
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: CAMISETAS REAL MADRID FAN VERSION LOCAL Y VISITANTE 26/27 PERSONALIZABLE+PARCHES CHAMPIONS</i></b>
+💶 <b><i>PRECIO: 6$</i></b>
+🛒 <a href="https://usfans.com/product/1/1047975658042?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
