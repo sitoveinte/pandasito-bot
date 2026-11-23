@@ -2,30 +2,6 @@
 // Separa cada mensaje con una línea que solo tenga ---
 // Para foto: primera línea "FOTO: https://enlace-de-la-imagen.jpg" y debajo el texto.
 // Negrita <b>así</b>, enlace <a href="https://...">TEXTO</a>. Las líneas que empiezan por // no se publican.
-FOTO: https://docs.google.com/sheets-images-rt/ADdU-ayYYjE7R0BvYkAN3_maOqLqbo5k9yvcfd-KxUkwmHM7Wbb49P8EFIpgmeWGk05yzZAXJAouEdrGLQTFnSsV2tCS_LSu8rukKdad8cPdvBnYISroexr4jcvPeKwrR75qFO9no9p3xD0I0wbFMy905wif8_Y94dtjphPR=w174-h123
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: CHÁNDALES VERSIONES ESPECIALES +10</i></b>
-💶 <b><i>PRECIO: 20-35€</i></b>
-🛒 <a href="https://usfans.com/product/1/1032493222108?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://docs.google.com/sheets-images-rt/ADdU-awyja7liu9T1hmzrvIkuIrBvcRDZAKKJT5QrDIDDlu_s2JdaYhlShS_i8gfMJYw4Bl-RE4KEQ7mpy-YYycpZK4aEID_YSZQ3ts9hP_4v9x036axptRkT8DOZlMe7IIEW34auRjUeP0pEyNmg8R0pJi7eNMtEE6M6aIKJ6M=w187-h123
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: NIKE TECH SELECCIONES +4</i></b>
-💶 <b><i>PRECIO: 32€</i></b>
-🛒 <a href="https://usfans.com/product/1/1085570804346?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://docs.google.com/sheets-images-rt/ADdU-aymQapXny9j0G7MvEw3YoSl5ypBtLZrVyCVYo4213LRMoJh-SpIJGVHj3mGgfG4cRfSDeyWkKXF8OFighmNiPEzjxCPXom0YIsw7sDlPTggZ96TlIi8N8k4iY3m7Lg0qexNIVn7twS5i57n3jvk7QRmrJi8FlxAi-m9Zp0=w174-h123
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: GAFAS OAKLEY POLARIZADAS (+15 COLORES)</i></b>
-💶 <b><i>PRECIO: 8€</i></b>
-🛒 <a href="https://usfans.com/product/1/984933052288?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
 FOTO: https://docs.google.com/sheets-images-rt/ADdU-axKwY38aBI3ylguaUtOJUKv5tYr8V15xi493IzWFyyACw3KF8kATajkI0g_hwkGFQc8ZRUCe7kD4AEzeVpvyeoy8RSQ0TLThMv8ZTteXc0uTkJ8LNPS-4sJpzbxeSIBgH6uvJEiFMV4raO-Sofa5VmSKP6DIjfyMk4vM9Q=w187-h123
 🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
 🔎 <b><i>NOMBRE DEL ARTÍCULO: MOCHILAS NIKE ELITE (+40 MODELOS)</i></b>
