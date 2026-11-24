@@ -2,30 +2,6 @@
 // Separa cada mensaje con una línea que solo tenga ---
 // Para foto: primera línea "FOTO: https://enlace-de-la-imagen.jpg" y debajo el texto.
 // Negrita <b>así</b>, enlace <a href="https://...">TEXTO</a>. Las líneas que empiezan por // no se publican.
-FOTO: https://docs.google.com/sheets-images-rt/ADdU-axKwY38aBI3ylguaUtOJUKv5tYr8V15xi493IzWFyyACw3KF8kATajkI0g_hwkGFQc8ZRUCe7kD4AEzeVpvyeoy8RSQ0TLThMv8ZTteXc0uTkJ8LNPS-4sJpzbxeSIBgH6uvJEiFMV4raO-Sofa5VmSKP6DIjfyMk4vM9Q=w187-h123
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: MOCHILAS NIKE ELITE (+40 MODELOS)</i></b>
-💶 <b><i>PRECIO: 8€</i></b>
-🛒 <a href="https://usfans.com/product/1/974937539530?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://lh3.googleusercontent.com/docsubipk/AP9E6xUeoEBLZqLVAs8C7y_X9d4lhcbLh7qLPDEQV4GTcfWf4qHYncnCrP4Mf3wHfJM9_9CD0ashXJO4s1NWRxNhfAbpWQE-zd7Ky1D5vOza0kjHmvo4LSUcTS1t25g-GN8j_UZ4BzvwUF_bmSmM5P027IZcacX1mX6g=s174-w174-h123
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: GAFAS AVIADOR (+40 COLORES)</i></b>
-💶 <b><i>PRECIO: 7-8€</i></b>
-🛒 <a href="https://usfans.com/product/1/1063816520273?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://lh3.googleusercontent.com/docsubipk/AP9E6xXJYUbIh_4alSKI-7UJsicNFzYDUXj_glsgrIoJ5lhBhzUx3PzXidFtDqFLWkYP6eLVYNHXl60IbABSEnP9qO5oXyO_yragQtFDewfGJ4ufR7WeLpmJ6NudCOYIS3VGV1_E5k7BV4ah6sr5de0hPM300AkH9w=s187-w187-h123
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: GUANTES TÁCTILES SUPREME CALAVERA</i></b>
-💶 <b><i>PRECIO: 5€</i></b>
-🛒 <a href="https://usfans.com/product/3/6831232598?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
 FOTO: https://docs.google.com/sheets-images-rt/ADdU-awyVb0Ct_sL3s5CIPrFfnt0qGX7oafIzIXEjClO-HcVCwir776Nvzwr_CaHewVrc7cnIid5R1AdOv8hqckzYCjXxOHhlhokmZ2Drg3tkev7d_FleOHa9mI1REy0glIwMLzNBWXVwSgzNTzLsCUdawn_X6zGPEJfbdf0S7s=w174-h123
 🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
 🔎 <b><i>NOMBRE DEL ARTÍCULO: BANDOLERA CARHARTT (+4 COLORES)</i></b>
