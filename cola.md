@@ -2,30 +2,6 @@
 // Separa cada mensaje con una línea que solo tenga ---
 // Para foto: primera línea "FOTO: https://enlace-de-la-imagen.jpg" y debajo el texto.
 // Negrita <b>así</b>, enlace <a href="https://...">TEXTO</a>. Las líneas que empiezan por // no se publican.
-FOTO: https://docs.google.com/sheets-images-rt/ADdU-awyVb0Ct_sL3s5CIPrFfnt0qGX7oafIzIXEjClO-HcVCwir776Nvzwr_CaHewVrc7cnIid5R1AdOv8hqckzYCjXxOHhlhokmZ2Drg3tkev7d_FleOHa9mI1REy0glIwMLzNBWXVwSgzNTzLsCUdawn_X6zGPEJfbdf0S7s=w174-h123
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: BANDOLERA CARHARTT (+4 COLORES)</i></b>
-💶 <b><i>PRECIO: 2€</i></b>
-🛒 <a href="https://usfans.com/product/1/808124012477?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://docs.google.com/sheets-images-rt/ADdU-azcOdIoVTqWzad-JaxUnU1H0XrsXyJf2D5FBCrx5ksx2OAN2d7l6qMxyt_QUDLFeE591rpdJApZc24MTRRtneaGDeg4cYwhPe8dPCStElQfS9zy2Lv2emh2mW-saofiUryjglk5BfaK0G39ECMYr7ygLfXNGR4bfmlC6xs=w187-h123
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: CALCETINES NIKE (+3 COLORES)</i></b>
-💶 <b><i>PRECIO: 1€ x 3</i></b>
-🛒 <a href="https://usfans.com/product/1/951007788246?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://docs.google.com/sheets-images-rt/ADdU-axqidGUmRHyNPiuHGQV-d0c1Zd-skfvfdFvMf7gjoYRrkR970xQ_qNs5gHJiv27s2ChtSKDagmEm0Uo62FliON-qIh0DaYJAXAwRL0ixHb5OUfF3f_cIoTsS7uy1ilhf7OObG-IkzlInSg11FwpWB5K4lVHOTQRff6oeWw=w174-h123
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: CALZONCILLOS EA7 (+5 COLORES)</i></b>
-💶 <b><i>PRECIO: 1€</i></b>
-🛒 <a href="https://usfans.com/product/1/828655785294?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
 FOTO: https://docs.google.com/sheets-images-rt/ADdU-azRpZeVyRMsUEdV_iJs5U742SDoSzmmLEp7NEXBnpVRm0X1ElI5f9lEnZHN3k3BwlajZxxwiqVPcgJyuhdQkE0oiCKMyDIitNaUgl4imPNdp7jt-i_qrPnjFEGLXMKHWiPIQz4Xr72lwNtAjzscxrZgondQJhoKAxxf=w187-h123
 🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
 🔎 <b><i>NOMBRE DEL ARTÍCULO: CALCETINES RALPH LAUREN (+20 MODELOS)</i></b>
