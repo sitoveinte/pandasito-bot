@@ -2,30 +2,6 @@
 // Separa cada mensaje con una línea que solo tenga ---
 // Para foto: primera línea "FOTO: https://enlace-de-la-imagen.jpg" y debajo el texto.
 // Negrita <b>así</b>, enlace <a href="https://...">TEXTO</a>. Las líneas que empiezan por // no se publican.
-FOTO: https://docs.google.com/sheets-images-rt/ADdU-azRpZeVyRMsUEdV_iJs5U742SDoSzmmLEp7NEXBnpVRm0X1ElI5f9lEnZHN3k3BwlajZxxwiqVPcgJyuhdQkE0oiCKMyDIitNaUgl4imPNdp7jt-i_qrPnjFEGLXMKHWiPIQz4Xr72lwNtAjzscxrZgondQJhoKAxxf=w187-h123
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: CALCETINES RALPH LAUREN (+20 MODELOS)</i></b>
-💶 <b><i>PRECIO: 1€</i></b>
-🛒 <a href="https://usfans.com/product/1/1043253373463?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://docs.google.com/sheets-images-rt/ADdU-ayNML0UdA_V_g_wFzxd6C4k4RgP7rTAzs4JjSQX5iDbenV0UQzJuf0KwqLBrRW04Hh5TIqoioIXaPhsC1n7SmV3GWM8LYNcfwlQEVR2ht-65svOXY3fVX_o1rGrDO00lcmn7go_PM7jCp_olI2gs2e0PvbJveykYxM1zwU=w174-h123
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: CINTURONES GUCCI +10 MODELOS</i></b>
-💶 <b><i>PRECIO: 3€</i></b>
-🛒 <a href="https://usfans.com/product/1/1000340282779?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://docs.google.com/sheets-images-rt/ADdU-axHHkoT4HQVQa3CKVhtLD0sobjEOr5IIZAhU_WyOErLrSwTTSbV6EB5_8v-u2nEDccMqA9Gv-mtV4TZVizExZTKKst3pqllBAng3KIFU8gI9AvpSk6Kk0xreaL3I9cZqshIWkMvOfVJ9OXydnuRApTZi1Hi2HvZYugvxR8=w187-h123
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: CALZONCILLOS CK (+3 COLORES)</i></b>
-💶 <b><i>PRECIO: 5€ x 3uds</i></b>
-🛒 <a href="https://usfans.com/product/1/990854557256?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
 FOTO: https://docs.google.com/sheets-images-rt/ADdU-azgO7k3SpGejB1eqnmymWTc66vwa-OA0nbvW5CwQjeUtYFSQa4CEcdpKP33ms2T8ZjpPOTONQoXDixCGz2N8VBy96SNPB07Kk1QaqodtiKduIfI_c5lsxLQ0gGpE64LB_aZCA-mYA3-ZVQZQgBWrXUK010tYeHJ0TuiOHc=w174-h123
 🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
 🔎 <b><i>NOMBRE DEL ARTÍCULO: CINTURONES GUCCI +20 MODELOS</i></b>
