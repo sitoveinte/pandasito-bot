@@ -1509,3 +1509,27 @@ FOTO: https://docs.google.com/sheets-images-rt/ADdU-axHHkoT4HQVQa3CKVhtLD0sobjEO
 🛒 <a href="https://usfans.com/product/1/990854557256?ref=6T2VKE">LINK DE USFANS</a>
 
 🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/ADdU-azgO7k3SpGejB1eqnmymWTc66vwa-OA0nbvW5CwQjeUtYFSQa4CEcdpKP33ms2T8ZjpPOTONQoXDixCGz2N8VBy96SNPB07Kk1QaqodtiKduIfI_c5lsxLQ0gGpE64LB_aZCA-mYA3-ZVQZQgBWrXUK010tYeHJ0TuiOHc=w174-h123
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: CINTURONES GUCCI +20 MODELOS</i></b>
+💶 <b><i>PRECIO: 4€</i></b>
+🛒 <a href="https://usfans.com/product/1/899186160629?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://lh3.googleusercontent.com/docsubipk/AP9E6xWpQx2AJ1JJlLOT9xupc03uK28HQLm7eO-4M2rTjeb-haE8hqyjcB5CTcyk_OfQEFj2xb1EQ5ePatC2n6lRqFPb-L2uwIihTx4IBBXOgEdQ8rOoOIjm_n9vvLsskYtIrBHRz4HJxUnIhFAb9zhewQSYy0YlOTxlCCMmgGjg=s187-w187-h123
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: CINTURONES DOLCE &amp; GABBANA (+10 COLORES)</i></b>
+💶 <b><i>PRECIO: 6€</i></b>
+🛒 <a href="https://usfans.com/product/3/7889049086?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
+---
+FOTO: https://docs.google.com/sheets-images-rt/ADdU-ax-SBzra__5r5AYP6FYyx07Q6GMgJUlT15pe7ZXDH1PuqiDs2bpTKAtX2aW1E5iWSFlgpx6BNvIvCLXMlITfdu6Jc7BJGNnyDHvdooVHlYjM_phs-awPSfgCx5WiEmvRxJ38sQlQBMmUFSozrgQFKLCBNfu7_HIDXwMqhc=w174-h123
+🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
+🔎 <b><i>NOMBRE DEL ARTÍCULO: CINTURONES RALPH LAUREN +6 COLORES</i></b>
+💶 <b><i>PRECIO: 4€</i></b>
+🛒 <a href="https://usfans.com/product/1/929215446672?ref=6T2VKE">LINK DE USFANS</a>
+
+🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
