@@ -2,30 +2,6 @@
 // Separa cada mensaje con una línea que solo tenga ---
 // Para foto: primera línea "FOTO: https://enlace-de-la-imagen.jpg" y debajo el texto.
 // Negrita <b>así</b>, enlace <a href="https://...">TEXTO</a>. Las líneas que empiezan por // no se publican.
-FOTO: https://docs.google.com/sheets-images-rt/ADdU-ay3w3XddahAW7ls8R1M_okdVVJuIgdEajGf4OEIL7ooYPcoLLvXqTDoS3_xLX9Wz_-VWLWPfxndmhSbMnhPf80hXJjiYZ9E9WliXCPDdS_Vbir2EdNN3R8ORtj5E4XsZksKq_c28ezvq7DOgEd7A8fIC_HRGLetsBdyrAI=w187-h123
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: CINTURONES AMIRI +20 MODELOS</i></b>
-💶 <b><i>PRECIO: 4€</i></b>
-🛒 <a href="https://usfans.com/product/1/855838038164?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://docs.google.com/sheets-images-rt/ADdU-azaMyBMRTDHIjNzDJR0ylZrjJ3lYULZ1kz-MIAzr1qw_2B4VGeZp06Pjrk5EmUAZxe-5kDMB7rpD8DaSGw5cQ1r-WtcI9y9t37zzc6IZw1DJX0aTqg6hDcFSMgKWHTy5592CR_fgzF-Kk_QHGQY2jvpeM7_EF7Etq8B=w187-h123
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: CINTURONES RALPH LAUREN +10 COLORES</i></b>
-💶 <b><i>PRECIO: 4€</i></b>
-🛒 <a href="https://usfans.com/product/1/857620796415?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
-FOTO: https://lh3.googleusercontent.com/docsubipk/AP9E6xXiI3XuRZbyJJueg57sFwuJ6IW8HXTbkicadUcNvfUmzw8wBhsV7yOkNrWKDTBm8-VvAUfWZfoMiF9XXG3MdogBRx31eczd7T24pBGMewdzIwEWyY2memnam_jSrG_Vrot4GqzrZsBZ1MxNPKg_Tmkyb4dYaA=s174-w174-h123
-🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
-🔎 <b><i>NOMBRE DEL ARTÍCULO: CINTURONES VERSACE (+40 MODELOS)</i></b>
-💶 <b><i>PRECIO: 3€</i></b>
-🛒 <a href="https://usfans.com/product/1/1053434480122?ref=6T2VKE">LINK DE USFANS</a>
-
-🎰 <a href="https://www.usfans.com/register?ref=6T2VKE"><b>PINCHA AQUÍ Y OBTÉN 40% DE DESCUENTO EN TU PRIMER ENVÍO Y +400€ EN CUPONES</b></a> 🎰
----
 FOTO: https://lh3.googleusercontent.com/docsubipk/AP9E6xXCAU6Wh7w-Qo0bWo3boVohtZfTsZjE4KXNJPLLDla05YXPTMQTHQYAiha16mCukofNJ2LzjKORpKKt7jO4XMGhhlhHOsSsZjStQAmMYH_zPSZL_lV0JS3xv8aSItrobkzzQoRZH3DilQADw0-EQEakP-E4YcT-EYgxWmmg=s187-w187-h123
 🎖 <a href="https://docs.google.com/spreadsheets/d/1EgXJVOilSzZ4A89awTh8A6BrmhPg0Msrum-asCUZ-eE/edit?usp=sharing">PANDASITO_ SPREADSHEET</a> 🎖
 🔎 <b><i>NOMBRE DEL ARTÍCULO: CINTURONES DE PIEL RALPH LAUREN (+13 MODELOS)</i></b>
